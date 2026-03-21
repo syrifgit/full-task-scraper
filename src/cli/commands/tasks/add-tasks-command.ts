@@ -40,11 +40,29 @@ export function addTasksCommand(commandName: string, program: RootCommand): void
       const command: TasksCommand = await getCommandInstance(TasksCommand, TasksCommandModule);
       await command.handleGenerateFrontendTasks(jsonFilename, nameParamId, descriptionParamId);
     });
+  const generateFull = new Command('generate-full')
+    .description('Generates a full task JSON with all params resolved to human-readable values (for web tool consumption)')
+    .argument('[task-type-name]', 'task type name (e.g., LEAGUE_5). If omitted, auto-detects active league from leagues.json.')
+    .action(async (taskTypeName?: string) => {
+      const command: TasksCommand = await getCommandInstance(TasksCommand, TasksCommandModule);
+      await command.handleGenerateFullTasks(taskTypeName);
+    });
+
+  const updateWiki = new Command('update-wiki')
+    .description('Re-scrapes wiki data (completion %, skills, notes) and updates existing full.json without re-extracting from cache')
+    .argument('[task-type-name]', 'task type name (e.g., LEAGUE_5). If omitted, auto-detects active league from leagues.json.')
+    .action(async (taskTypeName?: string) => {
+      const command: TasksCommand = await getCommandInstance(TasksCommand, TasksCommandModule);
+      await command.handleUpdateWikiData(taskTypeName);
+    });
+
   program
     .command(commandName)
     .description('data operations related to tasks')
     .addCommand(updateVarps)
     .addCommand(combatCommand)
     .addCommand(extract)
-    .addCommand(generateFrontendTasks);
+    .addCommand(generateFrontendTasks)
+    .addCommand(generateFull)
+    .addCommand(updateWiki);
 }

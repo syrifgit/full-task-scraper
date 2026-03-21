@@ -5,5 +5,5 @@ export const LEAGUE_5_COLUMNS: IColumnDefinitions = {
   descriptionColumnId: 2,
   requirementsColumnId: 3,
   pointsColumnId: 4,
-  completionColumnId: null,
+  completionColumnId: 5,
 };

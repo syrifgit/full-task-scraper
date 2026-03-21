@@ -1,0 +1,59 @@
+name: Update wiki data (completion %, skills, notes)
+
+on:
+  schedule:
+    # Daily at 06:00 UTC during active leagues
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check if a league is marked active
+        id: check-active
+        run: |
+          ACTIVE=$(python3 -c "
+          import json
+          leagues = json.load(open('generated/leagues.json'))
+          for l in leagues:
+            if l.get('active') and l.get('taskTypeName'):
+              print(l['taskTypeName'])
+              break
+          ")
+          if [ -z "$ACTIVE" ]; then
+            echo "No active league, skipping"
+            echo "active=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Active league: $ACTIVE"
+            echo "active=true" >> "$GITHUB_OUTPUT"
+            echo "task_type=$ACTIVE" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-node@v4
+        if: steps.check-active.outputs.active == 'true'
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        if: steps.check-active.outputs.active == 'true'
+        run: npm ci
+
+      - name: Re-scrape wiki data
+        if: steps.check-active.outputs.active == 'true'
+        run: npm run cli -- tasks update-wiki ${{ steps.check-active.outputs.task_type }}
+
+      - name: Commit and push if changed
+        if: steps.check-active.outputs.active == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update wiki data for ${{ steps.check-active.outputs.task_type }}"
+            git push
+          fi

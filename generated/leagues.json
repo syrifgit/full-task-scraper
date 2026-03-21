@@ -1,0 +1,80 @@
+[
+  {
+    "league": 1,
+    "name": "Twisted League",
+    "shortName": "Twisted",
+    "startDate": "2019-11-14",
+    "endDate": "2020-01-16",
+    "active": false,
+    "taskTypeName": null,
+    "wikiUrl": "https://oldschool.runescape.wiki/w/Twisted_League/Tasks",
+    "taskCount": 495,
+    "dir": "league-1-twisted",
+    "taskFile": "LEAGUE1.full.json"
+  },
+  {
+    "league": 2,
+    "name": "Trailblazer League",
+    "shortName": "Trailblazer",
+    "startDate": "2020-10-28",
+    "endDate": "2021-01-06",
+    "active": false,
+    "taskTypeName": null,
+    "wikiUrl": "https://oldschool.runescape.wiki/w/Trailblazer_League/Tasks",
+    "taskCount": 1020,
+    "dir": "league-2-trailblazer",
+    "taskFile": "LEAGUE2.full.json"
+  },
+  {
+    "league": 3,
+    "name": "Shattered Relics League",
+    "shortName": "Shattered Relics",
+    "startDate": "2022-01-19",
+    "endDate": "2022-03-16",
+    "active": false,
+    "taskTypeName": null,
+    "wikiUrl": "https://oldschool.runescape.wiki/w/Shattered_Relics_League/Tasks",
+    "taskCount": 1260,
+    "dir": "league-3-shattered-relics",
+    "taskFile": "LEAGUE3.full.json"
+  },
+  {
+    "league": 4,
+    "name": "Trailblazer Reloaded League",
+    "shortName": "Trailblazer Reloaded",
+    "startDate": "2023-11-15",
+    "endDate": "2024-01-10",
+    "active": false,
+    "taskTypeName": "LEAGUE_4",
+    "wikiUrl": "https://oldschool.runescape.wiki/w/Trailblazer_Reloaded_League/Tasks",
+    "taskCount": 1480,
+    "dir": "league-4-trailblazer-reloaded",
+    "taskFile": "LEAGUE4.full.json"
+  },
+  {
+    "league": 5,
+    "name": "Raging Echoes League",
+    "shortName": "Raging Echoes",
+    "startDate": "2024-11-27",
+    "endDate": "2025-01-22",
+    "active": false,
+    "taskTypeName": "LEAGUE_5",
+    "wikiUrl": "https://oldschool.runescape.wiki/w/Raging_Echoes_League/Tasks",
+    "taskCount": 1589,
+    "dir": "league-5-raging-echoes",
+    "taskFile": "LEAGUE_5.full.json"
+  },
+  {
+    "league": 6,
+    "name": "Demonic Pacts League",
+    "shortName": "Demonic Pacts",
+    "startDate": "2026-04-15",
+    "endDate": null,
+    "active": false,
+    "taskTypeName": "LEAGUE_6",
+    "wikiUrl": null,
+    "taskCount": null,
+    "dir": "league-6-demonic-pacts",
+    "taskFile": null
+  }
+]

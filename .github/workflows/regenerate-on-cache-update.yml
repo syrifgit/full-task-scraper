@@ -1,0 +1,81 @@
+name: Regenerate task data on cache update
+
+on:
+  schedule:
+    # Check every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check if a league is marked active
+        id: check-active
+        run: |
+          ACTIVE=$(python3 -c "
+          import json
+          leagues = json.load(open('generated/leagues.json'))
+          for l in leagues:
+            if l.get('active') and l.get('taskTypeName'):
+              print(l['taskTypeName'])
+              break
+          ")
+          if [ -z "$ACTIVE" ]; then
+            echo "No active league, skipping"
+            echo "active=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Active league: $ACTIVE"
+            echo "active=true" >> "$GITHUB_OUTPUT"
+            echo "task_type=$ACTIVE" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Check if cache has updated
+        if: steps.check-active.outputs.active == 'true'
+        id: check-cache
+        run: |
+          LATEST=$(git ls-remote https://github.com/abextm/osrs-cache.git HEAD | cut -f1)
+          echo "latest_cache=$LATEST" >> "$GITHUB_OUTPUT"
+
+          if [ -f osrs-cache/cache-version.txt ]; then
+            CURRENT=$(cat osrs-cache/cache-version.txt)
+          else
+            CURRENT="none"
+          fi
+          echo "current_cache=$CURRENT" >> "$GITHUB_OUTPUT"
+
+          if [ "$LATEST" = "$CURRENT" ]; then
+            echo "Cache unchanged"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Cache updated: $CURRENT -> $LATEST"
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-node@v4
+        if: steps.check-cache.outputs.changed == 'true'
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        if: steps.check-cache.outputs.changed == 'true'
+        run: npm ci
+
+      - name: Generate full task JSON
+        if: steps.check-cache.outputs.changed == 'true'
+        run: npm run cli -- tasks generate-full ${{ steps.check-active.outputs.task_type }}
+
+      - name: Commit and push if changed
+        if: steps.check-cache.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated/ osrs-cache/cache-version.txt
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-regenerate ${{ steps.check-active.outputs.task_type }} (cache update)"
+            git push
+          fi

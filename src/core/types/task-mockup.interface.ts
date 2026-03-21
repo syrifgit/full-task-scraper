@@ -36,3 +36,24 @@ export interface ITaskSkill {
    */
   level: number;
 }
+
+/**
+ * Full task representation with all params resolved to human-readable values.
+ * Used by external consumers (e.g., web tools) that don't have a live OSRS client.
+ */
+export interface ITaskFull extends ITask {
+  /** Task name (string param, e.g., param 874 for leagues) */
+  name: string;
+  /** Task description (string param, e.g., param 875 for leagues) */
+  description: string;
+  /** Geographic area resolved from stringEnumMap (e.g., "Kandarin") */
+  area: string | null;
+  /** Task category resolved from stringEnumMap (e.g., "Combat") */
+  category: string | null;
+  /** Primary skill resolved from stringEnumMap (e.g., "Slayer") */
+  skill: string | null;
+  /** Tier as raw integer from intParamMap (e.g., 1 = Easy) */
+  tier: number | null;
+  /** Tier resolved to display name from stringEnumMap (e.g., "Easy") */
+  tierName: string | null;
+}
