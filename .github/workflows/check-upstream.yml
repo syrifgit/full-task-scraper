@@ -10,32 +10,27 @@ jobs:
   check-upstream:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout fork
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Check upstream for new commits
         id: check
         run: |
           # Get the latest commit from upstream
           UPSTREAM_SHA=$(git ls-remote https://github.com/osrs-reldo/task-scraper.git HEAD | cut -f1)
           echo "upstream_sha=$UPSTREAM_SHA" >> "$GITHUB_OUTPUT"
+          echo "fork_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
-          # Read the last known SHA (stored as a workflow artifact via issue body)
-          LAST_KNOWN=$(gh api repos/${{ github.repository }}/issues \
-            --jq '[.[] | select(.labels[].name == "upstream-update") | select(.state == "open")] | .[0].body // ""' \
-            2>/dev/null || echo "")
-
-          if echo "$LAST_KNOWN" | grep -q "$UPSTREAM_SHA"; then
+          # Check if upstream HEAD is already in the fork's history
+          if git merge-base --is-ancestor "$UPSTREAM_SHA" HEAD 2>/dev/null; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "Upstream unchanged ($UPSTREAM_SHA)"
+            echo "Upstream HEAD ($UPSTREAM_SHA) is already in fork history"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
-
-            # Get commit details for the issue body
-            COMMITS=$(git ls-remote https://github.com/osrs-reldo/task-scraper.git 'refs/heads/*' | head -5)
-            echo "commits<<EOF" >> "$GITHUB_OUTPUT"
-            echo "$COMMITS" >> "$GITHUB_OUTPUT"
-            echo "EOF" >> "$GITHUB_OUTPUT"
+            echo "Upstream has new commits (upstream: $UPSTREAM_SHA)"
           fi
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Close stale upstream issues
         if: steps.check.outputs.changed == 'true'
@@ -60,7 +55,8 @@ jobs:
             --body "$(cat <<EOF
           The upstream repo [osrs-reldo/task-scraper](https://github.com/osrs-reldo/task-scraper) has new commits.
 
-          **Latest upstream SHA:** \`${{ steps.check.outputs.upstream_sha }}\`
+          **Upstream SHA:** \`${{ steps.check.outputs.upstream_sha }}\`
+          **Fork SHA:** \`${{ steps.check.outputs.fork_sha }}\`
 
           **Action needed:** Review upstream changes and determine if this fork needs to be updated.
 
@@ -69,7 +65,7 @@ jobs:
           git log upstream/main --oneline -10
           \`\`\`
 
-          Compare: https://github.com/osrs-reldo/task-scraper/compare/${{ steps.check.outputs.upstream_sha }}~5...${{ steps.check.outputs.upstream_sha }}
+          [View upstream changes](https://github.com/osrs-reldo/task-scraper/compare/${{ steps.check.outputs.fork_sha }}...${{ steps.check.outputs.upstream_sha }})
           EOF
           )"
         env:
