@@ -24,6 +24,9 @@ export interface ITask {
   wikiNotes?: string;
 
   completionPercent?: number;
+
+  /** OSRS game-world coordinates for the task's primary location */
+  location?: { x: number; y: number; plane: number };
 }
 
 export interface ITaskSkill {

@@ -124,6 +124,23 @@ export class TasksCommand {
     const tasks: ITask[] = await this.extractTasksFromCache(tierParamId);
     console.log(`Extracted ${tasks.length} tasks from cache`);
 
+    // 2b. Fetch location data from syrif-task-json-store (soft dependency)
+    const syrifUrl = `https://raw.githubusercontent.com/syrifgit/task-json-store/refs/heads/main/tasks/${taskType.taskJsonName}.min.json`;
+    console.log(`Fetching location data from ${syrifUrl}...`);
+    const locationMap = new Map<number, { x: number; y: number; plane: number }>();
+    try {
+      const syrifResponse = await axios.get(syrifUrl);
+      const syrifTasks: any[] = syrifResponse.data;
+      for (const st of syrifTasks) {
+        if (st.structId != null && st.location && Number.isFinite(st.location.x) && Number.isFinite(st.location.y)) {
+          locationMap.set(st.structId, st.location);
+        }
+      }
+      console.log(`Loaded ${locationMap.size} task locations`);
+    } catch (e) {
+      console.warn(`Could not fetch syrif location data (continuing without locations): ${e.message}`);
+    }
+
     // 3. Scrape wiki for completionPercent, wikiNotes, skills
     const wikiConfig = this.getWikiConfig(taskTypeName);
     if (wikiConfig) {
@@ -217,6 +234,7 @@ export class TasksCommand {
         completionPercent: task.completionPercent,
         skills: task.skills,
         wikiNotes: task.wikiNotes,
+        location: locationMap.get(task.structId),
       };
       fullTasks.push(fullTask);
     }
@@ -506,7 +524,7 @@ export class TasksCommand {
    * Converts normalized tasks to CSV format.
    */
   private tasksToCsv(tasks: ITaskFull[]): string {
-    const headers = ['structId', 'sortId', 'name', 'description', 'area', 'category', 'skill', 'tier', 'tierName', 'completionPercent', 'skills', 'wikiNotes'];
+    const headers = ['structId', 'sortId', 'name', 'description', 'area', 'category', 'skill', 'tier', 'tierName', 'completionPercent', 'skills', 'wikiNotes', 'locationX', 'locationY', 'locationPlane'];
 
     const escapeCsv = (value: any): string => {
       if (value === null || value === undefined) return '';
@@ -532,6 +550,9 @@ export class TasksCommand {
         t.completionPercent,
         skillsStr,
         t.wikiNotes,
+        t.location?.x ?? '',
+        t.location?.y ?? '',
+        t.location?.plane ?? '',
       ].map(escapeCsv).join(',');
     });
 
