@@ -57,7 +57,7 @@
     "shortName": "Raging Echoes",
     "startDate": "2024-11-27",
     "endDate": "2025-01-22",
-    "active": false,
+    "active": true,
     "taskTypeName": "LEAGUE_5",
     "wikiUrl": "https://oldschool.runescape.wiki/w/Raging_Echoes_League/Tasks",
     "taskCount": 1589,
