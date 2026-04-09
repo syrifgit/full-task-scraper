@@ -52,7 +52,12 @@
         "level": 50
       }
     ],
-    "wikiNotes": "50 Firemaking"
+    "wikiNotes": "50 Firemaking",
+    "location": {
+      "x": 1630,
+      "y": 4009,
+      "plane": 0
+    }
   },
   {
     "structId": 5468,
@@ -71,7 +76,12 @@
         "level": 45
       }
     ],
-    "wikiNotes": "45 Farming"
+    "wikiNotes": "45 Farming",
+    "location": {
+      "x": 1248,
+      "y": 3726,
+      "plane": 0
+    }
   },
   {
     "structId": 2639,
@@ -133,7 +143,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 67.5
+    "completionPercent": 67.5,
+    "location": {
+      "x": 1840,
+      "y": 9900,
+      "plane": 0
+    }
   },
   {
     "structId": 2642,
@@ -145,7 +160,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 98.1
+    "completionPercent": 98.1,
+    "location": {
+      "x": 3138,
+      "y": 3633,
+      "plane": 0
+    }
   },
   {
     "structId": 5630,
@@ -164,7 +184,12 @@
         "level": 57
       }
     ],
-    "wikiNotes": "57 Thieving"
+    "wikiNotes": "57 Thieving",
+    "location": {
+      "x": 1795,
+      "y": 9927,
+      "plane": 0
+    }
   },
   {
     "structId": 5644,
@@ -176,7 +201,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 83.6
+    "completionPercent": 83.6,
+    "location": {
+      "x": 1700,
+      "y": 3744,
+      "plane": 0
+    }
   },
   {
     "structId": 5693,
@@ -188,7 +218,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 80.8
+    "completionPercent": 80.8,
+    "location": {
+      "x": 1512,
+      "y": 3421,
+      "plane": 0
+    }
   },
   {
     "structId": 5694,
@@ -200,7 +235,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 83.7
+    "completionPercent": 83.7,
+    "location": {
+      "x": 1254,
+      "y": 3571,
+      "plane": 0
+    }
   },
   {
     "structId": 5695,
@@ -212,7 +252,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 79.9
+    "completionPercent": 79.9,
+    "location": {
+      "x": 1370,
+      "y": 3635,
+      "plane": 0
+    }
   },
   {
     "structId": 2645,
@@ -934,7 +979,12 @@
         "level": 5
       }
     ],
-    "wikiNotes": "5 Thieving"
+    "wikiNotes": "5 Thieving",
+    "location": {
+      "x": 3269,
+      "y": 3410,
+      "plane": 0
+    }
   },
   {
     "structId": 4842,
@@ -946,7 +996,12 @@
     "skill": null,
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 90.2
+    "completionPercent": 90.2,
+    "location": {
+      "x": 3103,
+      "y": 3279,
+      "plane": 0
+    }
   },
   {
     "structId": 1960,
@@ -958,7 +1013,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 81.4
+    "completionPercent": 81.4,
+    "location": {
+      "x": 3110,
+      "y": 3157,
+      "plane": 2
+    }
   },
   {
     "structId": 1988,
@@ -982,7 +1042,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 82.7
+    "completionPercent": 82.7,
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
   },
   {
     "structId": 1992,
@@ -1018,7 +1083,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 84.3
+    "completionPercent": 84.3,
+    "location": {
+      "x": 3257,
+      "y": 3452,
+      "plane": 0
+    }
   },
   {
     "structId": 2008,
@@ -1054,7 +1124,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 82.2
+    "completionPercent": 82.2,
+    "location": {
+      "x": 3177,
+      "y": 12459,
+      "plane": 0
+    }
   },
   {
     "structId": 2026,
@@ -1066,7 +1141,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 85.5
+    "completionPercent": 85.5,
+    "location": {
+      "x": 2301,
+      "y": 3381,
+      "plane": 0
+    }
   },
   {
     "structId": 2058,
@@ -1078,7 +1158,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 87.5
+    "completionPercent": 87.5,
+    "location": {
+      "x": 2353,
+      "y": 3164,
+      "plane": 0
+    }
   },
   {
     "structId": 2065,
@@ -1090,7 +1175,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 79.4
+    "completionPercent": 79.4,
+    "location": {
+      "x": 2157,
+      "y": 3330,
+      "plane": 0
+    }
   },
   {
     "structId": 2066,
@@ -1102,7 +1192,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 85.4
+    "completionPercent": 85.4,
+    "location": {
+      "x": 2739,
+      "y": 4644,
+      "plane": 0
+    }
   },
   {
     "structId": 2067,
@@ -1114,7 +1209,12 @@
     "skill": "Support",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 90.3
+    "completionPercent": 90.3,
+    "location": {
+      "x": 2101,
+      "y": 3918,
+      "plane": 0
+    }
   },
   {
     "structId": 2085,
@@ -1145,7 +1245,12 @@
         "level": 25
       }
     ],
-    "wikiNotes": "25 Slayer"
+    "wikiNotes": "25 Slayer",
+    "location": {
+      "x": 2791,
+      "y": 10034,
+      "plane": 0
+    }
   },
   {
     "structId": 2094,
@@ -1164,7 +1269,12 @@
         "level": 30
       }
     ],
-    "wikiNotes": "30 Slayer"
+    "wikiNotes": "30 Slayer",
+    "location": {
+      "x": 2760,
+      "y": 10004,
+      "plane": 0
+    }
   },
   {
     "structId": 2137,
@@ -1176,7 +1286,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 84.2
+    "completionPercent": 84.2,
+    "location": {
+      "x": 2414,
+      "y": 3803,
+      "plane": 0
+    }
   },
   {
     "structId": 2139,
@@ -1188,7 +1303,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 90.2
+    "completionPercent": 90.2,
+    "location": {
+      "x": 2339,
+      "y": 3807,
+      "plane": 0
+    }
   },
   {
     "structId": 2141,
@@ -1200,7 +1320,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 89
+    "completionPercent": 89,
+    "location": {
+      "x": 2099,
+      "y": 3919,
+      "plane": 0
+    }
   },
   {
     "structId": 2143,
@@ -1212,7 +1337,12 @@
     "skill": null,
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 72.9
+    "completionPercent": 72.9,
+    "location": {
+      "x": 2786,
+      "y": 9572,
+      "plane": 0
+    }
   },
   {
     "structId": 4891,
@@ -1231,7 +1361,12 @@
         "level": 5
       }
     ],
-    "wikiNotes": "5 Fishing"
+    "wikiNotes": "5 Fishing",
+    "location": {
+      "x": 2799,
+      "y": 3016,
+      "plane": 0
+    }
   },
   {
     "structId": 749,
@@ -1256,7 +1391,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 81.2
+    "completionPercent": 81.2,
+    "location": {
+      "x": 2938,
+      "y": 3149,
+      "plane": 0
+    }
   },
   {
     "structId": 2187,
@@ -1268,7 +1408,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 83.3
+    "completionPercent": 83.3,
+    "location": {
+      "x": 2754,
+      "y": 3158,
+      "plane": 0
+    }
   },
   {
     "structId": 2194,
@@ -1280,7 +1425,12 @@
     "skill": null,
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 89.3
+    "completionPercent": 89.3,
+    "location": {
+      "x": 2474,
+      "y": 3435,
+      "plane": 0
+    }
   },
   {
     "structId": 2198,
@@ -1292,7 +1442,12 @@
     "skill": null,
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 57.1
+    "completionPercent": 57.1,
+    "location": {
+      "x": 2605,
+      "y": 2909,
+      "plane": 0
+    }
   },
   {
     "structId": 2229,
@@ -1311,7 +1466,12 @@
         "level": 50
       }
     ],
-    "wikiNotes": "50 Slayer"
+    "wikiNotes": "50 Slayer",
+    "location": {
+      "x": 2460,
+      "y": 9823,
+      "plane": 0
+    }
   },
   {
     "structId": 751,
@@ -1335,7 +1495,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 87.5
+    "completionPercent": 87.5,
+    "location": {
+      "x": 2504,
+      "y": 3191,
+      "plane": 0
+    }
   },
   {
     "structId": 2245,
@@ -1347,7 +1512,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 91.8
+    "completionPercent": 91.8,
+    "location": {
+      "x": 2465,
+      "y": 3489,
+      "plane": 0
+    }
   },
   {
     "structId": 5150,
@@ -1359,7 +1529,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 68.7
+    "completionPercent": 68.7,
+    "location": {
+      "x": 2404,
+      "y": 3420,
+      "plane": 0
+    }
   },
   {
     "structId": 2282,
@@ -1371,7 +1546,12 @@
     "skill": null,
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 67.1
+    "completionPercent": 67.1,
+    "location": {
+      "x": 2984,
+      "y": 3293,
+      "plane": 0
+    }
   },
   {
     "structId": 2294,
@@ -1395,7 +1575,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 92.4
+    "completionPercent": 92.4,
+    "location": {
+      "x": 2884,
+      "y": 9798,
+      "plane": 0
+    }
   },
   {
     "structId": 5162,
@@ -1414,7 +1599,12 @@
         "level": 21
       }
     ],
-    "wikiNotes": "21 Thieving"
+    "wikiNotes": "21 Thieving",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
   },
   {
     "structId": 5163,
@@ -1433,7 +1623,12 @@
         "level": 31
       }
     ],
-    "wikiNotes": "31 Thieving"
+    "wikiNotes": "31 Thieving",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
   },
   {
     "structId": 5164,
@@ -1452,7 +1647,12 @@
         "level": 41
       }
     ],
-    "wikiNotes": "41 Thieving"
+    "wikiNotes": "41 Thieving",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
   },
   {
     "structId": 2350,
@@ -1464,7 +1664,12 @@
     "skill": null,
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 40.5
+    "completionPercent": 40.5,
+    "location": {
+      "x": 2892,
+      "y": 5467,
+      "plane": 0
+    }
   },
   {
     "structId": 2354,
@@ -1476,7 +1681,12 @@
     "skill": null,
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 27.5
+    "completionPercent": 27.5,
+    "location": {
+      "x": 3286,
+      "y": 3180,
+      "plane": 0
+    }
   },
   {
     "structId": 5177,
@@ -1495,7 +1705,12 @@
         "level": 20
       }
     ],
-    "wikiNotes": "20 Agility"
+    "wikiNotes": "20 Agility",
+    "location": {
+      "x": 3273,
+      "y": 3197,
+      "plane": 0
+    }
   },
   {
     "structId": 2362,
@@ -1514,7 +1729,12 @@
         "level": 14
       }
     ],
-    "wikiNotes": "14 Runecraft"
+    "wikiNotes": "14 Runecraft",
+    "location": {
+      "x": 2584,
+      "y": 4839,
+      "plane": 0
+    }
   },
   {
     "structId": 2398,
@@ -1526,7 +1746,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 83.7
+    "completionPercent": 83.7,
+    "location": {
+      "x": 3427,
+      "y": 2894,
+      "plane": 0
+    }
   },
   {
     "structId": 2404,
@@ -1539,7 +1764,12 @@
     "tier": 1,
     "tierName": "Easy",
     "completionPercent": 92.1,
-    "wikiNotes": "Rope"
+    "wikiNotes": "Rope",
+    "location": {
+      "x": 3228,
+      "y": 3108,
+      "plane": 0
+    }
   },
   {
     "structId": 2422,
@@ -1594,7 +1824,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 90.6
+    "completionPercent": 90.6,
+    "location": {
+      "x": 3675,
+      "y": 3469,
+      "plane": 0
+    }
   },
   {
     "structId": 2480,
@@ -1606,7 +1841,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 71.6
+    "completionPercent": 71.6,
+    "location": {
+      "x": 3792,
+      "y": 2856,
+      "plane": 0
+    }
   },
   {
     "structId": 2482,
@@ -1618,7 +1858,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 94.8
+    "completionPercent": 94.8,
+    "location": {
+      "x": 3678,
+      "y": 2959,
+      "plane": 0
+    }
   },
   {
     "structId": 2504,
@@ -1630,7 +1875,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 86
+    "completionPercent": 86,
+    "location": {
+      "x": 3049,
+      "y": 10341,
+      "plane": 0
+    }
   },
   {
     "structId": 2508,
@@ -1654,7 +1904,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 87.2
+    "completionPercent": 87.2,
+    "location": {
+      "x": 3104,
+      "y": 3958,
+      "plane": 0
+    }
   },
   {
     "structId": 2547,
@@ -1678,7 +1933,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 91.8
+    "completionPercent": 91.8,
+    "location": {
+      "x": 3184,
+      "y": 3944,
+      "plane": 0
+    }
   },
   {
     "structId": 2552,
@@ -1690,7 +1950,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 80
+    "completionPercent": 80,
+    "location": {
+      "x": 2872,
+      "y": 5311,
+      "plane": 2
+    }
   },
   {
     "structId": 2553,
@@ -1702,7 +1967,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 92.9
+    "completionPercent": 92.9,
+    "location": {
+      "x": 2534,
+      "y": 4712,
+      "plane": 0
+    }
   },
   {
     "structId": 2560,
@@ -1714,7 +1984,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 76.4
+    "completionPercent": 76.4,
+    "location": {
+      "x": 3350,
+      "y": 3001,
+      "plane": 0
+    }
   },
   {
     "structId": 3794,
@@ -1771,7 +2046,12 @@
         "level": 35
       }
     ],
-    "wikiNotes": "35 Fishing"
+    "wikiNotes": "35 Fishing",
+    "location": {
+      "x": 3173,
+      "y": 2845,
+      "plane": 0
+    }
   },
   {
     "structId": 3870,
@@ -1790,7 +2070,12 @@
         "level": 5
       }
     ],
-    "wikiNotes": "5 Firemaking Completion of   Shades of Mort'ton"
+    "wikiNotes": "5 Firemaking Completion of   Shades of Mort'ton",
+    "location": {
+      "x": 3493,
+      "y": 9730,
+      "plane": 0
+    }
   },
   {
     "structId": 3887,
@@ -1802,7 +2087,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 76
+    "completionPercent": 76,
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
   },
   {
     "structId": 3896,
@@ -1814,7 +2104,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 80.8
+    "completionPercent": 80.8,
+    "location": {
+      "x": 2820,
+      "y": 3469,
+      "plane": 0
+    }
   },
   {
     "structId": 4907,
@@ -1839,7 +2134,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 76.1
+    "completionPercent": 76.1,
+    "location": {
+      "x": 2760,
+      "y": 3443,
+      "plane": 0
+    }
   },
   {
     "structId": 5013,
@@ -1858,7 +2158,12 @@
         "level": 17
       }
     ],
-    "wikiNotes": "17 Hunter"
+    "wikiNotes": "17 Hunter",
+    "location": {
+      "x": 2427,
+      "y": 5134,
+      "plane": 0
+    }
   },
   {
     "structId": 5014,
@@ -1889,7 +2194,12 @@
         "level": 67
       }
     ],
-    "wikiNotes": "67 Agility"
+    "wikiNotes": "67 Agility",
+    "location": {
+      "x": 2613,
+      "y": 9523,
+      "plane": 0
+    }
   },
   {
     "structId": 5021,
@@ -1902,7 +2212,12 @@
     "tier": 1,
     "tierName": "Easy",
     "completionPercent": 17,
-    "wikiNotes": "Either Kandarin (Necromancer), or Kourend (Necromancer (Great Kourend)). Alternatively Asgarnia with a Dwarf multicannon and a friend who has Kandarin unlocked (to lure the necromancer to the shore near fairy ring AIR)"
+    "wikiNotes": "Either Kandarin (Necromancer), or Kourend (Necromancer (Great Kourend)). Alternatively Asgarnia with a Dwarf multicannon and a friend who has Kandarin unlocked (to lure the necromancer to the shore near fairy ring AIR)",
+    "location": {
+      "x": 2671,
+      "y": 3240,
+      "plane": 0
+    }
   },
   {
     "structId": 5022,
@@ -1975,7 +2290,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 87.3
+    "completionPercent": 87.3,
+    "location": {
+      "x": 2322,
+      "y": 3793,
+      "plane": 0
+    }
   },
   {
     "structId": 5037,
@@ -1994,7 +2314,12 @@
         "level": 54
       }
     ],
-    "wikiNotes": "54 Woodcutting"
+    "wikiNotes": "54 Woodcutting",
+    "location": {
+      "x": 2338,
+      "y": 3827,
+      "plane": 0
+    }
   },
   {
     "structId": 5040,
@@ -2018,7 +2343,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 33.9
+    "completionPercent": 33.9,
+    "location": {
+      "x": 2222,
+      "y": 3092,
+      "plane": 0
+    }
   },
   {
     "structId": 5051,
@@ -2042,7 +2372,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 85.5
+    "completionPercent": 85.5,
+    "location": {
+      "x": 3086,
+      "y": 3261,
+      "plane": 0
+    }
   },
   {
     "structId": 5057,
@@ -2055,7 +2390,12 @@
     "tier": 1,
     "tierName": "Easy",
     "completionPercent": 78.8,
-    "wikiNotes": "4 balls of wool"
+    "wikiNotes": "4 balls of wool",
+    "location": {
+      "x": 3098,
+      "y": 3261,
+      "plane": 0
+    }
   },
   {
     "structId": 5058,
@@ -2067,7 +2407,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 77
+    "completionPercent": 77,
+    "location": {
+      "x": 3014,
+      "y": 3189,
+      "plane": 0
+    }
   },
   {
     "structId": 5059,
@@ -2079,7 +2424,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 83
+    "completionPercent": 83,
+    "location": {
+      "x": 3108,
+      "y": 3368,
+      "plane": 1
+    }
   },
   {
     "structId": 5060,
@@ -2091,7 +2441,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 85.3
+    "completionPercent": 85.3,
+    "location": {
+      "x": 3223,
+      "y": 3367,
+      "plane": 0
+    }
   },
   {
     "structId": 5061,
@@ -2104,7 +2459,12 @@
     "tier": 1,
     "tierName": "Easy",
     "completionPercent": 83.4,
-    "wikiNotes": ".mw-parser-output .rstext a{color:inherit}.mw-parser-output .rstext a:hover{color:inherit}.mw-parser-output .mw-kartographer-container:not(.mw-kartographer-full).tleft{margin:0.5em 1.4em 1.3em 0;float:left;clear:left}.mw-parser-output .mw-kartographer-container:not(.mw-kartographer-full).tright{margin:0.5em 0 1.3em 1.4em;float:right;clear:right}.mw-parser-output .thumbinner{font-size:88.4%;padding:3px}.mw-parser-output .thumbcaption{text-align:left;line-height:1.4em;margin:0 -3px -3px -3px}Normal tree or Oak tree"
+    "wikiNotes": ".mw-parser-output .rstext a{color:inherit}.mw-parser-output .rstext a:hover{color:inherit}.mw-parser-output .mw-kartographer-container:not(.mw-kartographer-full).tleft{margin:0.5em 1.4em 1.3em 0;float:left;clear:left}.mw-parser-output .mw-kartographer-container:not(.mw-kartographer-full).tright{margin:0.5em 0 1.3em 1.4em;float:right;clear:right}.mw-parser-output .thumbinner{font-size:88.4%;padding:3px}.mw-parser-output .thumbcaption{text-align:left;line-height:1.4em;margin:0 -3px -3px -3px}Normal tree or Oak tree",
+    "location": {
+      "x": 3150,
+      "y": 3275,
+      "plane": 0
+    }
   },
   {
     "structId": 5067,
@@ -2117,7 +2477,12 @@
     "tier": 1,
     "tierName": "Easy",
     "completionPercent": 79.5,
-    "wikiNotes": "A cup of tea"
+    "wikiNotes": "A cup of tea",
+    "location": {
+      "x": 3255,
+      "y": 3488,
+      "plane": 0
+    }
   },
   {
     "structId": 5070,
@@ -2129,7 +2494,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 65.6
+    "completionPercent": 65.6,
+    "location": {
+      "x": 3084,
+      "y": 3363,
+      "plane": 0
+    }
   },
   {
     "structId": 5073,
@@ -2141,7 +2511,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 50.8
+    "completionPercent": 50.8,
+    "location": {
+      "x": 3361,
+      "y": 3412,
+      "plane": 0
+    }
   },
   {
     "structId": 5078,
@@ -2153,7 +2528,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 78.1
+    "completionPercent": 78.1,
+    "location": {
+      "x": 3213,
+      "y": 3428,
+      "plane": 0
+    }
   },
   {
     "structId": 5082,
@@ -2172,7 +2552,12 @@
         "level": 10
       }
     ],
-    "wikiNotes": "10 Cooking or Varlamore and partial completion of   Perilous Moons Partial completion of   The Knight's Sword"
+    "wikiNotes": "10 Cooking or Varlamore and partial completion of   Perilous Moons Partial completion of   The Knight's Sword",
+    "location": {
+      "x": 3001,
+      "y": 3144,
+      "plane": 0
+    }
   },
   {
     "structId": 5096,
@@ -2317,7 +2702,12 @@
         "level": 30
       }
     ],
-    "wikiNotes": "30 Agility"
+    "wikiNotes": "30 Agility",
+    "location": {
+      "x": 3222,
+      "y": 3414,
+      "plane": 0
+    }
   },
   {
     "structId": 2096,
@@ -2329,7 +2719,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 79.3
+    "completionPercent": 79.3,
+    "location": {
+      "x": 3046,
+      "y": 3378,
+      "plane": 0
+    }
   },
   {
     "structId": 2147,
@@ -2353,7 +2748,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 48.1
+    "completionPercent": 48.1,
+    "location": {
+      "x": 2330,
+      "y": 3693,
+      "plane": 0
+    }
   },
   {
     "structId": 2152,
@@ -2365,7 +2765,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 46.4
+    "completionPercent": 46.4,
+    "location": {
+      "x": 2622,
+      "y": 3414,
+      "plane": 0
+    }
   },
   {
     "structId": 2161,
@@ -2396,7 +2801,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 79.8
+    "completionPercent": 79.8,
+    "location": {
+      "x": 3241,
+      "y": 3398,
+      "plane": 0
+    }
   },
   {
     "structId": 2164,
@@ -2415,7 +2825,12 @@
         "level": 30
       }
     ],
-    "wikiNotes": "30 Fishing Partial completion of   Spirits of the Elid"
+    "wikiNotes": "30 Fishing Partial completion of   Spirits of the Elid",
+    "location": {
+      "x": 3371,
+      "y": 3127,
+      "plane": 0
+    }
   },
   {
     "structId": 2166,
@@ -2438,7 +2853,12 @@
         "level": 99
       }
     ],
-    "wikiNotes": "99 Attack or  99 Strength or a combined Attack and Strength level of 130"
+    "wikiNotes": "99 Attack or  99 Strength or a combined Attack and Strength level of 130",
+    "location": {
+      "x": 2845,
+      "y": 3541,
+      "plane": 0
+    }
   },
   {
     "structId": 2171,
@@ -2499,7 +2919,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 89.3
+    "completionPercent": 89.3,
+    "location": {
+      "x": 3222,
+      "y": 3219,
+      "plane": 0
+    }
   },
   {
     "structId": 2196,
@@ -2511,7 +2936,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 86.7
+    "completionPercent": 86.7,
+    "location": {
+      "x": 3230,
+      "y": 3203,
+      "plane": 0
+    }
   },
   {
     "structId": 2197,
@@ -2559,7 +2989,12 @@
     "skill": null,
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 89.6
+    "completionPercent": 89.6,
+    "location": {
+      "x": 3243,
+      "y": 3208,
+      "plane": 0
+    }
   },
   {
     "structId": 2211,
@@ -2645,7 +3080,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 46.3
+    "completionPercent": 46.3,
+    "location": {
+      "x": 3489,
+      "y": 3058,
+      "plane": 0
+    }
   },
   {
     "structId": 2266,
@@ -2676,7 +3116,12 @@
         "level": 40
       }
     ],
-    "wikiNotes": "40 Woodcutting"
+    "wikiNotes": "40 Woodcutting",
+    "location": {
+      "x": 2739,
+      "y": 3639,
+      "plane": 0
+    }
   },
   {
     "structId": 2358,
@@ -2688,7 +3133,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 73
+    "completionPercent": 73,
+    "location": {
+      "x": 1583,
+      "y": 3434,
+      "plane": 0
+    }
   },
   {
     "structId": 2407,
@@ -2735,7 +3185,12 @@
         "level": 30
       }
     ],
-    "wikiNotes": "30 Construction,  30 Crafting"
+    "wikiNotes": "30 Construction,  30 Crafting",
+    "location": {
+      "x": 1574,
+      "y": 3092,
+      "plane": 0
+    }
   },
   {
     "structId": 3809,
@@ -2747,7 +3202,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 81.5
+    "completionPercent": 81.5,
+    "location": {
+      "x": 1514,
+      "y": 2971,
+      "plane": 0
+    }
   },
   {
     "structId": 3812,
@@ -2771,7 +3231,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 84.9
+    "completionPercent": 84.9,
+    "location": {
+      "x": 1676,
+      "y": 3113,
+      "plane": 0
+    }
   },
   {
     "structId": 3904,
@@ -2783,7 +3248,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 84.4
+    "completionPercent": 84.4,
+    "location": {
+      "x": 1676,
+      "y": 3113,
+      "plane": 0
+    }
   },
   {
     "structId": 4497,
@@ -2807,7 +3277,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 77.6
+    "completionPercent": 77.6,
+    "location": {
+      "x": 3209,
+      "y": 3476,
+      "plane": 0
+    }
   },
   {
     "structId": 5905,
@@ -2819,7 +3294,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 88.7
+    "completionPercent": 88.7,
+    "location": {
+      "x": 1590,
+      "y": 3105,
+      "plane": 0
+    }
   },
   {
     "structId": 5906,
@@ -2831,7 +3311,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 85.9
+    "completionPercent": 85.9,
+    "location": {
+      "x": 1590,
+      "y": 3105,
+      "plane": 0
+    }
   },
   {
     "structId": 5907,
@@ -2855,7 +3340,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 59.3
+    "completionPercent": 59.3,
+    "location": {
+      "x": 1653,
+      "y": 3103,
+      "plane": 0
+    }
   },
   {
     "structId": 1192,
@@ -2879,7 +3369,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 83.5
+    "completionPercent": 83.5,
+    "location": {
+      "x": 3228,
+      "y": 3386,
+      "plane": 0
+    }
   },
   {
     "structId": 1211,
@@ -2891,7 +3386,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 88.4
+    "completionPercent": 88.4,
+    "location": {
+      "x": 3205,
+      "y": 3229,
+      "plane": 0
+    }
   },
   {
     "structId": 1212,
@@ -2939,7 +3439,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 85.7
+    "completionPercent": 85.7,
+    "location": {
+      "x": 3080,
+      "y": 3428,
+      "plane": 0
+    }
   },
   {
     "structId": 1218,
@@ -2951,7 +3456,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 85.6
+    "completionPercent": 85.6,
+    "location": {
+      "x": 3080,
+      "y": 3428,
+      "plane": 0
+    }
   },
   {
     "structId": 1220,
@@ -3025,7 +3535,12 @@
         "level": 12
       }
     ],
-    "wikiNotes": "12 Woodcutting"
+    "wikiNotes": "12 Woodcutting",
+    "location": {
+      "x": 3243,
+      "y": 3237,
+      "plane": 0
+    }
   },
   {
     "structId": 1780,
@@ -3061,7 +3576,12 @@
     "skill": null,
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 37.2
+    "completionPercent": 37.2,
+    "location": {
+      "x": 2714,
+      "y": 3824,
+      "plane": 1
+    }
   },
   {
     "structId": 2041,
@@ -3080,7 +3600,12 @@
         "level": 11
       }
     ],
-    "wikiNotes": "11 Hunter"
+    "wikiNotes": "11 Hunter",
+    "location": {
+      "x": 2716,
+      "y": 3823,
+      "plane": 0
+    }
   },
   {
     "structId": 2046,
@@ -3104,7 +3629,12 @@
     "skill": "All",
     "tier": 1,
     "tierName": "Easy",
-    "completionPercent": 88.7
+    "completionPercent": 88.7,
+    "location": {
+      "x": 2107,
+      "y": 3916,
+      "plane": 0
+    }
   },
   {
     "structId": 2576,
@@ -3399,7 +3929,12 @@
         "level": 50
       }
     ],
-    "wikiNotes": "50 Firemaking"
+    "wikiNotes": "50 Firemaking",
+    "location": {
+      "x": 1630,
+      "y": 4009,
+      "plane": 0
+    }
   },
   {
     "structId": 5957,
@@ -3418,7 +3953,12 @@
         "level": 50
       }
     ],
-    "wikiNotes": "50 Firemaking"
+    "wikiNotes": "50 Firemaking",
+    "location": {
+      "x": 1630,
+      "y": 4009,
+      "plane": 0
+    }
   },
   {
     "structId": 5958,
@@ -3437,7 +3977,12 @@
         "level": 45
       }
     ],
-    "wikiNotes": "45 Farming"
+    "wikiNotes": "45 Farming",
+    "location": {
+      "x": 1248,
+      "y": 3726,
+      "plane": 0
+    }
   },
   {
     "structId": 2637,
@@ -3491,7 +4036,12 @@
         "level": 25
       }
     ],
-    "wikiNotes": "25 Thieving"
+    "wikiNotes": "25 Thieving",
+    "location": {
+      "x": 1702,
+      "y": 3528,
+      "plane": 0
+    }
   },
   {
     "structId": 5493,
@@ -3510,7 +4060,12 @@
         "level": 34
       }
     ],
-    "wikiNotes": "34 Farming"
+    "wikiNotes": "34 Farming",
+    "location": {
+      "x": 1800,
+      "y": 3502,
+      "plane": 0
+    }
   },
   {
     "structId": 5497,
@@ -3529,7 +4084,12 @@
         "level": 65
       }
     ],
-    "wikiNotes": "65 Farming"
+    "wikiNotes": "65 Farming",
+    "location": {
+      "x": 1248,
+      "y": 3726,
+      "plane": 0
+    }
   },
   {
     "structId": 5502,
@@ -3567,7 +4127,12 @@
         "level": 60
       }
     ],
-    "wikiNotes": "60 Woodcutting"
+    "wikiNotes": "60 Woodcutting",
+    "location": {
+      "x": 1634,
+      "y": 3502,
+      "plane": 0
+    }
   },
   {
     "structId": 5534,
@@ -3617,7 +4182,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 37.7
+    "completionPercent": 37.7,
+    "location": {
+      "x": 1480,
+      "y": 3593,
+      "plane": 0
+    }
   },
   {
     "structId": 5960,
@@ -3629,7 +4199,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 22.8
+    "completionPercent": 22.8,
+    "location": {
+      "x": 1480,
+      "y": 3593,
+      "plane": 0
+    }
   },
   {
     "structId": 5547,
@@ -3641,7 +4216,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 26
+    "completionPercent": 26,
+    "location": {
+      "x": 1840,
+      "y": 9900,
+      "plane": 0
+    }
   },
   {
     "structId": 5599,
@@ -3711,7 +4291,12 @@
         "level": 49
       }
     ],
-    "wikiNotes": "49 Thieving"
+    "wikiNotes": "49 Thieving",
+    "location": {
+      "x": 1822,
+      "y": 3770,
+      "plane": 0
+    }
   },
   {
     "structId": 5638,
@@ -3730,7 +4315,12 @@
         "level": 49
       }
     ],
-    "wikiNotes": "49 Thieving"
+    "wikiNotes": "49 Thieving",
+    "location": {
+      "x": 1822,
+      "y": 3770,
+      "plane": 0
+    }
   },
   {
     "structId": 5967,
@@ -3742,7 +4332,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 68.9
+    "completionPercent": 68.9,
+    "location": {
+      "x": 1700,
+      "y": 3744,
+      "plane": 0
+    }
   },
   {
     "structId": 5651,
@@ -3912,7 +4507,12 @@
         "level": 34
       }
     ],
-    "wikiNotes": "34 Farming 250 Tithe Farm points"
+    "wikiNotes": "34 Farming 250 Tithe Farm points",
+    "location": {
+      "x": 1800,
+      "y": 3502,
+      "plane": 0
+    }
   },
   {
     "structId": 2644,
@@ -4572,7 +5172,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 77.6,
-    "wikiNotes": "1,000 coins"
+    "wikiNotes": "1,000 coins",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
   },
   {
     "structId": 1852,
@@ -4591,7 +5196,12 @@
         "level": 65
       }
     ],
-    "wikiNotes": "65 Construction"
+    "wikiNotes": "65 Construction",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
   },
   {
     "structId": 1853,
@@ -4610,7 +5220,12 @@
         "level": 33
       }
     ],
-    "wikiNotes": "33 Construction"
+    "wikiNotes": "33 Construction",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
   },
   {
     "structId": 1854,
@@ -5216,7 +5831,12 @@
         "level": 5
       }
     ],
-    "wikiNotes": "5 Hunter,  5 Crafting"
+    "wikiNotes": "5 Hunter,  5 Crafting",
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
   },
   {
     "structId": 4838,
@@ -5235,7 +5855,12 @@
         "level": 17
       }
     ],
-    "wikiNotes": "17 Hunter"
+    "wikiNotes": "17 Hunter",
+    "location": {
+      "x": 2592,
+      "y": 4319,
+      "plane": 0
+    }
   },
   {
     "structId": 1941,
@@ -5254,7 +5879,12 @@
         "level": 50
       }
     ],
-    "wikiNotes": "50 Mining"
+    "wikiNotes": "50 Mining",
+    "location": {
+      "x": 3815,
+      "y": 3810,
+      "plane": 0
+    }
   },
   {
     "structId": 1944,
@@ -5267,7 +5897,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 85.7,
-    "wikiNotes": "Completion of   Cook's Assistant"
+    "wikiNotes": "Completion of   Cook's Assistant",
+    "location": {
+      "x": 3212,
+      "y": 3215,
+      "plane": 0
+    }
   },
   {
     "structId": 1945,
@@ -5286,7 +5921,12 @@
         "level": 32
       }
     ],
-    "wikiNotes": "32 Cooking"
+    "wikiNotes": "32 Cooking",
+    "location": {
+      "x": 3141,
+      "y": 3443,
+      "plane": 0
+    }
   },
   {
     "structId": 1948,
@@ -5305,7 +5945,12 @@
         "level": 15
       }
     ],
-    "wikiNotes": "15 Thieving"
+    "wikiNotes": "15 Thieving",
+    "location": {
+      "x": 3166,
+      "y": 9622,
+      "plane": 0
+    }
   },
   {
     "structId": 1949,
@@ -5324,7 +5969,12 @@
         "level": 40
       }
     ],
-    "wikiNotes": "40 Thieving"
+    "wikiNotes": "40 Thieving",
+    "location": {
+      "x": 3213,
+      "y": 3428,
+      "plane": 0
+    }
   },
   {
     "structId": 1952,
@@ -5355,7 +6005,12 @@
     "skill": null,
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 87.5
+    "completionPercent": 87.5,
+    "location": {
+      "x": 3103,
+      "y": 3279,
+      "plane": 0
+    }
   },
   {
     "structId": 1956,
@@ -5374,7 +6029,12 @@
         "level": 5
       }
     ],
-    "wikiNotes": "5 Runecraft"
+    "wikiNotes": "5 Runecraft",
+    "location": {
+      "x": 2715,
+      "y": 4837,
+      "plane": 0
+    }
   },
   {
     "structId": 1957,
@@ -5393,7 +6053,12 @@
         "level": 27
       }
     ],
-    "wikiNotes": "27 Runecraft"
+    "wikiNotes": "27 Runecraft",
+    "location": {
+      "x": 2141,
+      "y": 4834,
+      "plane": 0
+    }
   },
   {
     "structId": 4845,
@@ -5431,7 +6096,12 @@
         "level": 66
       }
     ],
-    "wikiNotes": "66 Slayer"
+    "wikiNotes": "66 Slayer",
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
   },
   {
     "structId": 1966,
@@ -5443,7 +6113,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 44.6
+    "completionPercent": 44.6,
+    "location": {
+      "x": 3091,
+      "y": 9801,
+      "plane": 0
+    }
   },
   {
     "structId": 1970,
@@ -5455,7 +6130,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 40.5
+    "completionPercent": 40.5,
+    "location": {
+      "x": 3220,
+      "y": 9933,
+      "plane": 0
+    }
   },
   {
     "structId": 4846,
@@ -5550,7 +6230,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 57
+    "completionPercent": 57,
+    "location": {
+      "x": 3232,
+      "y": 9531,
+      "plane": 2
+    }
   },
   {
     "structId": 1996,
@@ -5606,7 +6291,12 @@
         "level": 21
       }
     ],
-    "wikiNotes": "21 Construction"
+    "wikiNotes": "21 Construction",
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
   },
   {
     "structId": 2003,
@@ -5644,7 +6334,12 @@
         "level": 20
       }
     ],
-    "wikiNotes": "20 Farming"
+    "wikiNotes": "20 Farming",
+    "location": {
+      "x": 3266,
+      "y": 6069,
+      "plane": 0
+    }
   },
   {
     "structId": 4851,
@@ -5663,7 +6358,12 @@
         "level": 57
       }
     ],
-    "wikiNotes": "57 Farming"
+    "wikiNotes": "57 Farming",
+    "location": {
+      "x": 2347,
+      "y": 3162,
+      "plane": 0
+    }
   },
   {
     "structId": 2013,
@@ -5732,7 +6432,12 @@
         "level": 50
       }
     ],
-    "wikiNotes": "50 Slayer"
+    "wikiNotes": "50 Slayer",
+    "location": {
+      "x": 3243,
+      "y": 12427,
+      "plane": 0
+    }
   },
   {
     "structId": 2031,
@@ -5751,7 +6456,12 @@
         "level": 70
       }
     ],
-    "wikiNotes": "70 Slayer"
+    "wikiNotes": "70 Slayer",
+    "location": {
+      "x": 3232,
+      "y": 12371,
+      "plane": 0
+    }
   },
   {
     "structId": 2059,
@@ -5782,7 +6492,12 @@
         "level": 40
       }
     ],
-    "wikiNotes": "40 Runecraft"
+    "wikiNotes": "40 Runecraft",
+    "location": {
+      "x": 2152,
+      "y": 3863,
+      "plane": 0
+    }
   },
   {
     "structId": 2076,
@@ -5805,7 +6520,12 @@
         "level": 34
       }
     ],
-    "wikiNotes": "30 Agility,  34 Construction"
+    "wikiNotes": "30 Agility,  34 Construction",
+    "location": {
+      "x": 2632,
+      "y": 4061,
+      "plane": 0
+    }
   },
   {
     "structId": 2079,
@@ -5843,7 +6563,12 @@
         "level": 60
       }
     ],
-    "wikiNotes": "60 Smithing"
+    "wikiNotes": "60 Smithing",
+    "location": {
+      "x": 1946,
+      "y": 4959,
+      "plane": 0
+    }
   },
   {
     "structId": 2082,
@@ -5881,7 +6606,12 @@
         "level": 70
       }
     ],
-    "wikiNotes": "70 Slayer"
+    "wikiNotes": "70 Slayer",
+    "location": {
+      "x": 2697,
+      "y": 9996,
+      "plane": 0
+    }
   },
   {
     "structId": 2095,
@@ -5966,7 +6696,12 @@
         "level": 55
       }
     ],
-    "wikiNotes": "55 Slayer"
+    "wikiNotes": "55 Slayer",
+    "location": {
+      "x": 2723,
+      "y": 10005,
+      "plane": 0
+    }
   },
   {
     "structId": 2116,
@@ -5985,7 +6720,12 @@
         "level": 52
       }
     ],
-    "wikiNotes": "52 Slayer"
+    "wikiNotes": "52 Slayer",
+    "location": {
+      "x": 2704,
+      "y": 10027,
+      "plane": 0
+    }
   },
   {
     "structId": 2117,
@@ -6066,7 +6806,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 27.3,
-    "wikiNotes": "Completion of the   Easy Fremennik Diary"
+    "wikiNotes": "Completion of the   Easy Fremennik Diary",
+    "location": {
+      "x": 2634,
+      "y": 3664,
+      "plane": 0
+    }
   },
   {
     "structId": 2133,
@@ -6113,7 +6858,12 @@
     "skill": null,
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 60.8
+    "completionPercent": 60.8,
+    "location": {
+      "x": 2782,
+      "y": 3175,
+      "plane": 0
+    }
   },
   {
     "structId": 4887,
@@ -6132,7 +6882,12 @@
         "level": 32
       }
     ],
-    "wikiNotes": "32 Agility"
+    "wikiNotes": "32 Agility",
+    "location": {
+      "x": 2852,
+      "y": 2954,
+      "plane": 0
+    }
   },
   {
     "structId": 2150,
@@ -6151,7 +6906,12 @@
         "level": 30
       }
     ],
-    "wikiNotes": "30 Fishing"
+    "wikiNotes": "30 Fishing",
+    "location": {
+      "x": 2855,
+      "y": 2974,
+      "plane": 0
+    }
   },
   {
     "structId": 4892,
@@ -6170,7 +6930,12 @@
         "level": 65
       }
     ],
-    "wikiNotes": "65 Fishing Partial completion of   Tai Bwo Wannai Trio"
+    "wikiNotes": "65 Fishing Partial completion of   Tai Bwo Wannai Trio",
+    "location": {
+      "x": 2913,
+      "y": 3116,
+      "plane": 0
+    }
   },
   {
     "structId": 2153,
@@ -6189,7 +6954,12 @@
         "level": 44
       }
     ],
-    "wikiNotes": "44 Runecraft"
+    "wikiNotes": "44 Runecraft",
+    "location": {
+      "x": 2399,
+      "y": 4842,
+      "plane": 0
+    }
   },
   {
     "structId": 2155,
@@ -6201,7 +6971,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 78.6
+    "completionPercent": 78.6,
+    "location": {
+      "x": 2479,
+      "y": 5178,
+      "plane": 0
+    }
   },
   {
     "structId": 2156,
@@ -6244,7 +7019,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 67.8
+    "completionPercent": 67.8,
+    "location": {
+      "x": 2636,
+      "y": 9491,
+      "plane": 1
+    }
   },
   {
     "structId": 4900,
@@ -6294,7 +7074,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 50.3
+    "completionPercent": 50.3,
+    "location": {
+      "x": 2715,
+      "y": 9446,
+      "plane": 0
+    }
   },
   {
     "structId": 2179,
@@ -6333,7 +7118,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 30.1,
-    "wikiNotes": "100 coins trading sticks"
+    "wikiNotes": "100 coins trading sticks",
+    "location": {
+      "x": 2822,
+      "y": 3082,
+      "plane": 0
+    }
   },
   {
     "structId": 2191,
@@ -6345,7 +7135,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 80.7
+    "completionPercent": 80.7,
+    "location": {
+      "x": 2712,
+      "y": 9471,
+      "plane": 0
+    }
   },
   {
     "structId": 5953,
@@ -6364,7 +7159,12 @@
         "level": 55
       }
     ],
-    "wikiNotes": "55 Thieving"
+    "wikiNotes": "55 Thieving",
+    "location": {
+      "x": 2658,
+      "y": 3309,
+      "plane": 0
+    }
   },
   {
     "structId": 2195,
@@ -6383,7 +7183,12 @@
         "level": 35
       }
     ],
-    "wikiNotes": "35 Agility"
+    "wikiNotes": "35 Agility",
+    "location": {
+      "x": 2545,
+      "y": 3569,
+      "plane": 0
+    }
   },
   {
     "structId": 2199,
@@ -6402,7 +7207,12 @@
         "level": 31
       }
     ],
-    "wikiNotes": "31 Hunter"
+    "wikiNotes": "31 Hunter",
+    "location": {
+      "x": 2557,
+      "y": 2896,
+      "plane": 0
+    }
   },
   {
     "structId": 2201,
@@ -6440,7 +7250,12 @@
         "level": 59
       }
     ],
-    "wikiNotes": "59 Hunter"
+    "wikiNotes": "59 Hunter",
+    "location": {
+      "x": 2452,
+      "y": 3231,
+      "plane": 0
+    }
   },
   {
     "structId": 2203,
@@ -6459,7 +7274,12 @@
         "level": 68
       }
     ],
-    "wikiNotes": "68 Fishing"
+    "wikiNotes": "68 Fishing",
+    "location": {
+      "x": 2596,
+      "y": 3413,
+      "plane": 0
+    }
   },
   {
     "structId": 2204,
@@ -6478,7 +7298,12 @@
         "level": 62
       }
     ],
-    "wikiNotes": "62 Fishing"
+    "wikiNotes": "62 Fishing",
+    "location": {
+      "x": 2327,
+      "y": 3701,
+      "plane": 0
+    }
   },
   {
     "structId": 2206,
@@ -6497,7 +7322,12 @@
         "level": 15
       }
     ],
-    "wikiNotes": "15 Fishing"
+    "wikiNotes": "15 Fishing",
+    "location": {
+      "x": 2667,
+      "y": 3165,
+      "plane": 0
+    }
   },
   {
     "structId": 2209,
@@ -6578,7 +7408,12 @@
         "level": 40
       }
     ],
-    "wikiNotes": "40 Ranged"
+    "wikiNotes": "40 Ranged",
+    "location": {
+      "x": 2661,
+      "y": 3435,
+      "plane": 0
+    }
   },
   {
     "structId": 2225,
@@ -6597,7 +7432,12 @@
         "level": 66
       }
     ],
-    "wikiNotes": "66 Magic"
+    "wikiNotes": "66 Magic",
+    "location": {
+      "x": 2592,
+      "y": 3088,
+      "plane": 0
+    }
   },
   {
     "structId": 2227,
@@ -6616,7 +7456,12 @@
         "level": 93
       }
     ],
-    "wikiNotes": "93 Slayer"
+    "wikiNotes": "93 Slayer",
+    "location": {
+      "x": 2360,
+      "y": 9452,
+      "plane": 0
+    }
   },
   {
     "structId": 2246,
@@ -6628,7 +7473,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 1.4
+    "completionPercent": 1.4,
+    "location": {
+      "x": 2441,
+      "y": 3090,
+      "plane": 0
+    }
   },
   {
     "structId": 2249,
@@ -6835,7 +7685,12 @@
         "level": 50
       }
     ],
-    "wikiNotes": "50 Agility"
+    "wikiNotes": "50 Agility",
+    "location": {
+      "x": 3036,
+      "y": 3340,
+      "plane": 0
+    }
   },
   {
     "structId": 5153,
@@ -6854,7 +7709,12 @@
         "level": 30
       }
     ],
-    "wikiNotes": "30 Mining"
+    "wikiNotes": "30 Mining",
+    "location": {
+      "x": 3116,
+      "y": 9698,
+      "plane": 0
+    }
   },
   {
     "structId": 2281,
@@ -6873,7 +7733,12 @@
         "level": 40
       }
     ],
-    "wikiNotes": "40 Crafting"
+    "wikiNotes": "40 Crafting",
+    "location": {
+      "x": 2933,
+      "y": 3290,
+      "plane": 0
+    }
   },
   {
     "structId": 2283,
@@ -6892,7 +7757,12 @@
         "level": 20
       }
     ],
-    "wikiNotes": "20 Runecraft"
+    "wikiNotes": "20 Runecraft",
+    "location": {
+      "x": 2521,
+      "y": 4836,
+      "plane": 0
+    }
   },
   {
     "structId": 2286,
@@ -6930,7 +7800,12 @@
         "level": 9
       }
     ],
-    "wikiNotes": "9 Farming"
+    "wikiNotes": "9 Farming",
+    "location": {
+      "x": 2826,
+      "y": 3694,
+      "plane": 0
+    }
   },
   {
     "structId": 2290,
@@ -6942,7 +7817,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 61.8
+    "completionPercent": 61.8,
+    "location": {
+      "x": 2965,
+      "y": 3380,
+      "plane": 0
+    }
   },
   {
     "structId": 2295,
@@ -6961,7 +7841,12 @@
         "level": 72
       }
     ],
-    "wikiNotes": "72 Slayer"
+    "wikiNotes": "72 Slayer",
+    "location": {
+      "x": 3058,
+      "y": 9561,
+      "plane": 0
+    }
   },
   {
     "structId": 2311,
@@ -7000,7 +7885,12 @@
         "level": 68
       }
     ],
-    "wikiNotes": "83 Hunter or both  80 Crafting and  68 Magic Completion of   Heroes' Quest. Alternatively, an amulet of glory (t) from hard clues can also be used."
+    "wikiNotes": "83 Hunter or both  80 Crafting and  68 Magic Completion of   Heroes' Quest. Alternatively, an amulet of glory (t) from hard clues can also be used.",
+    "location": {
+      "x": 2899,
+      "y": 3509,
+      "plane": 0
+    }
   },
   {
     "structId": 2313,
@@ -7012,7 +7902,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 73.9
+    "completionPercent": 73.9,
+    "location": {
+      "x": 2850,
+      "y": 9783,
+      "plane": 0
+    }
   },
   {
     "structId": 5156,
@@ -7024,7 +7919,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 15.4
+    "completionPercent": 15.4,
+    "location": {
+      "x": 2965,
+      "y": 3380,
+      "plane": 0
+    }
   },
   {
     "structId": 5157,
@@ -7036,7 +7936,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 7.6
+    "completionPercent": 7.6,
+    "location": {
+      "x": 2965,
+      "y": 3380,
+      "plane": 0
+    }
   },
   {
     "structId": 2323,
@@ -7074,7 +7979,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 74.1
+    "completionPercent": 74.1,
+    "location": {
+      "x": 2884,
+      "y": 9798,
+      "plane": 0
+    }
   },
   {
     "structId": 2330,
@@ -7086,7 +7996,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 10.8
+    "completionPercent": 10.8,
+    "location": {
+      "x": 3027,
+      "y": 3379,
+      "plane": 0
+    }
   },
   {
     "structId": 2332,
@@ -7109,7 +8024,12 @@
         "level": 99
       }
     ],
-    "wikiNotes": "99 Attack or  99 Strength or a combined Attack and Strength level of 130"
+    "wikiNotes": "99 Attack or  99 Strength or a combined Attack and Strength level of 130",
+    "location": {
+      "x": 2845,
+      "y": 3541,
+      "plane": 0
+    }
   },
   {
     "structId": 2335,
@@ -7122,7 +8042,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 79.6,
-    "wikiNotes": "40 Combat level"
+    "wikiNotes": "40 Combat level",
+    "location": {
+      "x": 2662,
+      "y": 2655,
+      "plane": 0
+    }
   },
   {
     "structId": 2336,
@@ -7135,7 +8060,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 78.3,
-    "wikiNotes": "70 Combat level"
+    "wikiNotes": "70 Combat level",
+    "location": {
+      "x": 2662,
+      "y": 2655,
+      "plane": 0
+    }
   },
   {
     "structId": 2338,
@@ -7147,7 +8077,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 65.8
+    "completionPercent": 65.8,
+    "location": {
+      "x": 2914,
+      "y": 3454,
+      "plane": 0
+    }
   },
   {
     "structId": 5165,
@@ -7166,7 +8101,12 @@
         "level": 51
       }
     ],
-    "wikiNotes": "51 Thieving"
+    "wikiNotes": "51 Thieving",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
   },
   {
     "structId": 5166,
@@ -7185,7 +8125,12 @@
         "level": 61
       }
     ],
-    "wikiNotes": "61 Thieving"
+    "wikiNotes": "61 Thieving",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
   },
   {
     "structId": 5167,
@@ -7204,7 +8149,12 @@
         "level": 71
       }
     ],
-    "wikiNotes": "71 Thieving"
+    "wikiNotes": "71 Thieving",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
   },
   {
     "structId": 2351,
@@ -7223,7 +8173,12 @@
         "level": 25
       }
     ],
-    "wikiNotes": "25 Thieving"
+    "wikiNotes": "25 Thieving",
+    "location": {
+      "x": 2892,
+      "y": 5467,
+      "plane": 0
+    }
   },
   {
     "structId": 2352,
@@ -7242,7 +8197,12 @@
         "level": 45
       }
     ],
-    "wikiNotes": "45 Thieving"
+    "wikiNotes": "45 Thieving",
+    "location": {
+      "x": 2892,
+      "y": 5467,
+      "plane": 0
+    }
   },
   {
     "structId": 5173,
@@ -7261,7 +8221,12 @@
         "level": 25
       }
     ],
-    "wikiNotes": "25 Thieving"
+    "wikiNotes": "25 Thieving",
+    "location": {
+      "x": 3286,
+      "y": 3180,
+      "plane": 0
+    }
   },
   {
     "structId": 5176,
@@ -7280,7 +8245,12 @@
         "level": 53
       }
     ],
-    "wikiNotes": "53 Thieving"
+    "wikiNotes": "53 Thieving",
+    "location": {
+      "x": 3158,
+      "y": 2977,
+      "plane": 0
+    }
   },
   {
     "structId": 2361,
@@ -7299,7 +8269,12 @@
         "level": 30
       }
     ],
-    "wikiNotes": "30 Agility"
+    "wikiNotes": "30 Agility",
+    "location": {
+      "x": 3344,
+      "y": 2828,
+      "plane": 0
+    }
   },
   {
     "structId": 2363,
@@ -7318,7 +8293,12 @@
         "level": 23
       }
     ],
-    "wikiNotes": "23 Runecraft"
+    "wikiNotes": "23 Runecraft",
+    "location": {
+      "x": 2584,
+      "y": 4839,
+      "plane": 0
+    }
   },
   {
     "structId": 2367,
@@ -7337,7 +8317,12 @@
         "level": 47
       }
     ],
-    "wikiNotes": "47 Hunter"
+    "wikiNotes": "47 Hunter",
+    "location": {
+      "x": 3408,
+      "y": 3098,
+      "plane": 0
+    }
   },
   {
     "structId": 2368,
@@ -7356,7 +8341,12 @@
         "level": 45
       }
     ],
-    "wikiNotes": "45 Mining"
+    "wikiNotes": "45 Mining",
+    "location": {
+      "x": 3164,
+      "y": 2914,
+      "plane": 0
+    }
   },
   {
     "structId": 2373,
@@ -7457,7 +8447,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 42.6,
-    "wikiNotes": "Completion of   Spirits of the Elid"
+    "wikiNotes": "Completion of   Spirits of the Elid",
+    "location": {
+      "x": 3427,
+      "y": 2891,
+      "plane": 0
+    }
   },
   {
     "structId": 2405,
@@ -7518,7 +8513,12 @@
         "level": 52
       }
     ],
-    "wikiNotes": "52 Agility Completion of   Sins of the Father"
+    "wikiNotes": "52 Agility Completion of   Sins of the Father",
+    "location": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    }
   },
   {
     "structId": 5183,
@@ -7537,7 +8537,12 @@
         "level": 62
       }
     ],
-    "wikiNotes": "62 Agility Completion of   Sins of the Father"
+    "wikiNotes": "62 Agility Completion of   Sins of the Father",
+    "location": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    }
   },
   {
     "structId": 5184,
@@ -7556,7 +8561,12 @@
         "level": 72
       }
     ],
-    "wikiNotes": "72 Agility Completion of   Sins of the Father"
+    "wikiNotes": "72 Agility Completion of   Sins of the Father",
+    "location": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    }
   },
   {
     "structId": 2415,
@@ -7575,7 +8585,12 @@
         "level": 52
       }
     ],
-    "wikiNotes": "52 Agility Completion of   Sins of the Father, see Hallowed Sepulchre page for other skill requirements"
+    "wikiNotes": "52 Agility Completion of   Sins of the Father, see Hallowed Sepulchre page for other skill requirements",
+    "location": {
+      "x": 3363,
+      "y": 3318,
+      "plane": 0
+    }
   },
   {
     "structId": 5189,
@@ -7594,7 +8609,12 @@
         "level": 40
       }
     ],
-    "wikiNotes": "40 Agility"
+    "wikiNotes": "40 Agility",
+    "location": {
+      "x": 3507,
+      "y": 3489,
+      "plane": 0
+    }
   },
   {
     "structId": 2418,
@@ -7613,7 +8633,12 @@
         "level": 60
       }
     ],
-    "wikiNotes": "60 Agility Ring of charos"
+    "wikiNotes": "60 Agility Ring of charos",
+    "location": {
+      "x": 3532,
+      "y": 9912,
+      "plane": 0
+    }
   },
   {
     "structId": 2421,
@@ -7693,7 +8718,12 @@
         "level": 75
       }
     ],
-    "wikiNotes": "75 Slayer"
+    "wikiNotes": "75 Slayer",
+    "location": {
+      "x": 3439,
+      "y": 3542,
+      "plane": 2
+    }
   },
   {
     "structId": 2430,
@@ -7712,7 +8742,12 @@
         "level": 65
       }
     ],
-    "wikiNotes": "65 Firemaking Completion of   Shades of Mort'ton"
+    "wikiNotes": "65 Firemaking Completion of   Shades of Mort'ton",
+    "location": {
+      "x": 3462,
+      "y": 9707,
+      "plane": 0
+    }
   },
   {
     "structId": 2434,
@@ -7725,7 +8760,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 49.3,
-    "wikiNotes": "Completion of   Sins of the Father"
+    "wikiNotes": "Completion of   Sins of the Father",
+    "location": {
+      "x": 3606,
+      "y": 3361,
+      "plane": 0
+    }
   },
   {
     "structId": 2435,
@@ -7744,7 +8784,12 @@
         "level": 85
       }
     ],
-    "wikiNotes": "85 Slayer"
+    "wikiNotes": "85 Slayer",
+    "location": {
+      "x": 3417,
+      "y": 3568,
+      "plane": 2
+    }
   },
   {
     "structId": 2438,
@@ -7783,7 +8828,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 93.1
+    "completionPercent": 93.1,
+    "location": {
+      "x": 3565,
+      "y": 3292,
+      "plane": 0
+    }
   },
   {
     "structId": 2443,
@@ -7890,7 +8940,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 21.6,
-    "wikiNotes": "Completion of   Shades of Mort'ton"
+    "wikiNotes": "Completion of   Shades of Mort'ton",
+    "location": {
+      "x": 3463,
+      "y": 3311,
+      "plane": 0
+    }
   },
   {
     "structId": 2481,
@@ -7915,7 +8970,12 @@
     "skill": null,
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 94.9
+    "completionPercent": 94.9,
+    "location": {
+      "x": 3235,
+      "y": 3638,
+      "plane": 0
+    }
   },
   {
     "structId": 2485,
@@ -7946,7 +9006,12 @@
         "level": 52
       }
     ],
-    "wikiNotes": "52 Agility"
+    "wikiNotes": "52 Agility",
+    "location": {
+      "x": 2994,
+      "y": 3936,
+      "plane": 0
+    }
   },
   {
     "structId": 2490,
@@ -7965,7 +9030,12 @@
         "level": 67
       }
     ],
-    "wikiNotes": "67 Hunter"
+    "wikiNotes": "67 Hunter",
+    "location": {
+      "x": 3295,
+      "y": 3672,
+      "plane": 0
+    }
   },
   {
     "structId": 2491,
@@ -7984,7 +9054,12 @@
         "level": 73
       }
     ],
-    "wikiNotes": "73 Hunter"
+    "wikiNotes": "73 Hunter",
+    "location": {
+      "x": 3144,
+      "y": 3775,
+      "plane": 0
+    }
   },
   {
     "structId": 2496,
@@ -7996,7 +9071,12 @@
     "skill": null,
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 83.2
+    "completionPercent": 83.2,
+    "location": {
+      "x": 3105,
+      "y": 3556,
+      "plane": 0
+    }
   },
   {
     "structId": 2497,
@@ -8027,7 +9107,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 95.3
+    "completionPercent": 95.3,
+    "location": {
+      "x": 3205,
+      "y": 3824,
+      "plane": 0
+    }
   },
   {
     "structId": 2501,
@@ -8039,7 +9124,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 86.4
+    "completionPercent": 86.4,
+    "location": {
+      "x": 2977,
+      "y": 3702,
+      "plane": 0
+    }
   },
   {
     "structId": 2509,
@@ -8051,7 +9141,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 79.1
+    "completionPercent": 79.1,
+    "location": {
+      "x": 2979,
+      "y": 3846,
+      "plane": 0
+    }
   },
   {
     "structId": 2512,
@@ -8145,7 +9240,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 69.5
+    "completionPercent": 69.5,
+    "location": {
+      "x": 3654,
+      "y": 3468,
+      "plane": 0
+    }
   },
   {
     "structId": 2536,
@@ -8259,7 +9359,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 88.3
+    "completionPercent": 88.3,
+    "location": {
+      "x": 3046,
+      "y": 10332,
+      "plane": 0
+    }
   },
   {
     "structId": 2554,
@@ -8271,7 +9376,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 86.7
+    "completionPercent": 86.7,
+    "location": {
+      "x": 1580,
+      "y": 3495,
+      "plane": 0
+    }
   },
   {
     "structId": 5211,
@@ -8373,7 +9483,12 @@
         "level": 84
       }
     ],
-    "wikiNotes": "84 Slayer"
+    "wikiNotes": "84 Slayer",
+    "location": {
+      "x": 1175,
+      "y": 10199,
+      "plane": 0
+    }
   },
   {
     "structId": 5218,
@@ -8469,7 +9584,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 3.9
+    "completionPercent": 3.9,
+    "location": {
+      "x": 2937,
+      "y": 5772,
+      "plane": 0
+    }
   },
   {
     "structId": 5941,
@@ -8488,7 +9608,12 @@
         "level": 35
       }
     ],
-    "wikiNotes": "35 Fishing"
+    "wikiNotes": "35 Fishing",
+    "location": {
+      "x": 3173,
+      "y": 2845,
+      "plane": 0
+    }
   },
   {
     "structId": 3864,
@@ -8564,7 +9689,12 @@
         "level": 35
       }
     ],
-    "wikiNotes": "35 Firemaking Completion of   Shades of Mort'ton"
+    "wikiNotes": "35 Firemaking Completion of   Shades of Mort'ton",
+    "location": {
+      "x": 3473,
+      "y": 9691,
+      "plane": 0
+    }
   },
   {
     "structId": 3873,
@@ -8577,7 +9707,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 44.2,
-    "wikiNotes": "40 Combat level,  500 Skills"
+    "wikiNotes": "40 Combat level,  500 Skills",
+    "location": {
+      "x": 2209,
+      "y": 2857,
+      "plane": 0
+    }
   },
   {
     "structId": 3899,
@@ -8589,7 +9724,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 33.9
+    "completionPercent": 33.9,
+    "location": {
+      "x": 2465,
+      "y": 3489,
+      "plane": 0
+    }
   },
   {
     "structId": 3900,
@@ -8639,7 +9779,12 @@
         "level": 27
       }
     ],
-    "wikiNotes": "27 Runecraft"
+    "wikiNotes": "27 Runecraft",
+    "location": {
+      "x": 3614,
+      "y": 9477,
+      "plane": 0
+    }
   },
   {
     "structId": 5945,
@@ -8658,7 +9803,12 @@
         "level": 27
       }
     ],
-    "wikiNotes": "27 Runecraft"
+    "wikiNotes": "27 Runecraft",
+    "location": {
+      "x": 3614,
+      "y": 9477,
+      "plane": 0
+    }
   },
   {
     "structId": 4947,
@@ -8670,7 +9820,12 @@
     "skill": null,
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 34.8
+    "completionPercent": 34.8,
+    "location": {
+      "x": 2991,
+      "y": 3365,
+      "plane": 0
+    }
   },
   {
     "structId": 4948,
@@ -8689,7 +9844,12 @@
         "level": 20
       }
     ],
-    "wikiNotes": "20 Construction"
+    "wikiNotes": "20 Construction",
+    "location": {
+      "x": 2991,
+      "y": 3365,
+      "plane": 0
+    }
   },
   {
     "structId": 4949,
@@ -8708,7 +9868,12 @@
         "level": 50
       }
     ],
-    "wikiNotes": "50 Construction"
+    "wikiNotes": "50 Construction",
+    "location": {
+      "x": 2991,
+      "y": 3365,
+      "plane": 0
+    }
   },
   {
     "structId": 5947,
@@ -8720,7 +9885,12 @@
     "skill": null,
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 21.2
+    "completionPercent": 21.2,
+    "location": {
+      "x": 2991,
+      "y": 3365,
+      "plane": 0
+    }
   },
   {
     "structId": 5948,
@@ -8732,7 +9902,12 @@
     "skill": null,
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 13.2
+    "completionPercent": 13.2,
+    "location": {
+      "x": 2991,
+      "y": 3365,
+      "plane": 0
+    }
   },
   {
     "structId": 4955,
@@ -8745,7 +9920,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 45.5,
-    "wikiNotes": "Completion of   Sleeping Giants"
+    "wikiNotes": "Completion of   Sleeping Giants",
+    "location": {
+      "x": 3363,
+      "y": 3148,
+      "plane": 0
+    }
   },
   {
     "structId": 4956,
@@ -8758,7 +9938,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 38.8,
-    "wikiNotes": "Completion of   Sleeping Giants"
+    "wikiNotes": "Completion of   Sleeping Giants",
+    "location": {
+      "x": 3363,
+      "y": 3148,
+      "plane": 0
+    }
   },
   {
     "structId": 5949,
@@ -8771,7 +9956,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 26.7,
-    "wikiNotes": "Completion of   Sleeping Giants"
+    "wikiNotes": "Completion of   Sleeping Giants",
+    "location": {
+      "x": 3363,
+      "y": 3148,
+      "plane": 0
+    }
   },
   {
     "structId": 4961,
@@ -8887,7 +10077,12 @@
         "level": 35
       }
     ],
-    "wikiNotes": "35 Fishing"
+    "wikiNotes": "35 Fishing",
+    "location": {
+      "x": 3173,
+      "y": 2845,
+      "plane": 0
+    }
   },
   {
     "structId": 4994,
@@ -8934,7 +10129,12 @@
     "skill": null,
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 17
+    "completionPercent": 17,
+    "location": {
+      "x": 2991,
+      "y": 3365,
+      "plane": 0
+    }
   },
   {
     "structId": 4998,
@@ -8990,7 +10190,12 @@
         "level": 50
       }
     ],
-    "wikiNotes": "50 Smithing"
+    "wikiNotes": "50 Smithing",
+    "location": {
+      "x": 1378,
+      "y": 3816,
+      "plane": 0
+    }
   },
   {
     "structId": 5036,
@@ -9038,7 +10243,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 67.2,
-    "wikiNotes": "Use a gold ring on the Wilderness Volcano"
+    "wikiNotes": "Use a gold ring on the Wilderness Volcano",
+    "location": {
+      "x": 3230,
+      "y": 9487,
+      "plane": 0
+    }
   },
   {
     "structId": 5046,
@@ -9086,7 +10296,12 @@
         "level": 5
       }
     ],
-    "wikiNotes": "Big bass requires  46 Fishing, crawling hand requires  5 Slayer, Kbd heads require Wilderness, Kq head requires Desert, Vorkath's head requires Fremennik"
+    "wikiNotes": "Big bass requires  46 Fishing, crawling hand requires  5 Slayer, Kbd heads require Wilderness, Kq head requires Desert, Vorkath's head requires Fremennik",
+    "location": {
+      "x": 3479,
+      "y": 3484,
+      "plane": 0
+    }
   },
   {
     "structId": 5062,
@@ -9143,7 +10358,12 @@
         "level": 33
       }
     ],
-    "wikiNotes": "33 Magic"
+    "wikiNotes": "33 Magic",
+    "location": {
+      "x": 3709,
+      "y": 3312,
+      "plane": 0
+    }
   },
   {
     "structId": 5072,
@@ -9174,7 +10394,12 @@
         "level": 28
       }
     ],
-    "wikiNotes": "28 Thieving"
+    "wikiNotes": "28 Thieving",
+    "location": {
+      "x": 1929,
+      "y": 9447,
+      "plane": 0
+    }
   },
   {
     "structId": 5076,
@@ -9198,7 +10423,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 54.2
+    "completionPercent": 54.2,
+    "location": {
+      "x": 3198,
+      "y": 3359,
+      "plane": 0
+    }
   },
   {
     "structId": 5081,
@@ -9241,7 +10471,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 67.7
+    "completionPercent": 67.7,
+    "location": {
+      "x": 1580,
+      "y": 3495,
+      "plane": 0
+    }
   },
   {
     "structId": 5089,
@@ -9253,7 +10488,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 57
+    "completionPercent": 57,
+    "location": {
+      "x": 3089,
+      "y": 3859,
+      "plane": 0
+    }
   },
   {
     "structId": 5097,
@@ -9395,7 +10635,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 70.1
+    "completionPercent": 70.1,
+    "location": {
+      "x": 2155,
+      "y": 3427,
+      "plane": 0
+    }
   },
   {
     "structId": 5726,
@@ -9427,7 +10672,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 30,
-    "wikiNotes": "Completion of   Tower of Life"
+    "wikiNotes": "Completion of   Tower of Life",
+    "location": {
+      "x": 2648,
+      "y": 3219,
+      "plane": 0
+    }
   },
   {
     "structId": 5761,
@@ -9440,7 +10690,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 19.3,
-    "wikiNotes": "Completion of   Tower of Life"
+    "wikiNotes": "Completion of   Tower of Life",
+    "location": {
+      "x": 2648,
+      "y": 3219,
+      "plane": 0
+    }
   },
   {
     "structId": 5763,
@@ -9459,7 +10714,12 @@
         "level": 45
       }
     ],
-    "wikiNotes": "45 Smithing"
+    "wikiNotes": "45 Smithing",
+    "location": {
+      "x": 2343,
+      "y": 3666,
+      "plane": 0
+    }
   },
   {
     "structId": 5767,
@@ -9550,7 +10810,12 @@
         "level": 30
       }
     ],
-    "wikiNotes": "30 Agility"
+    "wikiNotes": "30 Agility",
+    "location": {
+      "x": 3222,
+      "y": 3414,
+      "plane": 0
+    }
   },
   {
     "structId": 5843,
@@ -9586,7 +10851,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 34.8
+    "completionPercent": 34.8,
+    "location": {
+      "x": 2466,
+      "y": 3497,
+      "plane": 0
+    }
   },
   {
     "structId": 2107,
@@ -9605,7 +10875,12 @@
         "level": 32
       }
     ],
-    "wikiNotes": "32 Cooking"
+    "wikiNotes": "32 Cooking",
+    "location": {
+      "x": 3143,
+      "y": 3449,
+      "plane": 0
+    }
   },
   {
     "structId": 2113,
@@ -9617,7 +10892,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 70.7
+    "completionPercent": 70.7,
+    "location": {
+      "x": 2860,
+      "y": 2997,
+      "plane": 1
+    }
   },
   {
     "structId": 2114,
@@ -9641,7 +10921,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 33.9
+    "completionPercent": 33.9,
+    "location": {
+      "x": 3019,
+      "y": 5576,
+      "plane": 0
+    }
   },
   {
     "structId": 2119,
@@ -9653,7 +10938,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 28.9
+    "completionPercent": 28.9,
+    "location": {
+      "x": 3361,
+      "y": 3412,
+      "plane": 0
+    }
   },
   {
     "structId": 2121,
@@ -9695,7 +10985,12 @@
         "level": 40
       }
     ],
-    "wikiNotes": "40 Ranged"
+    "wikiNotes": "40 Ranged",
+    "location": {
+      "x": 2670,
+      "y": 3421,
+      "plane": 0
+    }
   },
   {
     "structId": 2145,
@@ -9714,7 +11009,12 @@
         "level": 30
       }
     ],
-    "wikiNotes": "30 Construction"
+    "wikiNotes": "30 Construction",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
   },
   {
     "structId": 2151,
@@ -9737,7 +11037,12 @@
         "level": 99
       }
     ],
-    "wikiNotes": "99 Attack or  99 Strength or a combined Attack and Strength level of 130. Requires level  73 Strength to put 12 yards, at 100% run energy with 18lb (north range) standing throw, and dusted hands (or  78  if undusted)."
+    "wikiNotes": "99 Attack or  99 Strength or a combined Attack and Strength level of 130. Requires level  73 Strength to put 12 yards, at 100% run energy with 18lb (north range) standing throw, and dusted hands (or  78  if undusted).",
+    "location": {
+      "x": 2845,
+      "y": 3541,
+      "plane": 0
+    }
   },
   {
     "structId": 2162,
@@ -9782,7 +11087,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 76.8,
-    "wikiNotes": "1,000 coins"
+    "wikiNotes": "1,000 coins",
+    "location": {
+      "x": 3222,
+      "y": 3219,
+      "plane": 0
+    }
   },
   {
     "structId": 2276,
@@ -9813,7 +11123,12 @@
         "level": 45
       }
     ],
-    "wikiNotes": "45 Mining Partial completion of   Beneath Cursed Sands"
+    "wikiNotes": "45 Mining Partial completion of   Beneath Cursed Sands",
+    "location": {
+      "x": 3317,
+      "y": 2708,
+      "plane": 0
+    }
   },
   {
     "structId": 2289,
@@ -9906,7 +11221,12 @@
         "level": 15
       }
     ],
-    "wikiNotes": "15 Thieving"
+    "wikiNotes": "15 Thieving",
+    "location": {
+      "x": 2668,
+      "y": 3710,
+      "plane": 0
+    }
   },
   {
     "structId": 2342,
@@ -9918,7 +11238,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 57.6
+    "completionPercent": 57.6,
+    "location": {
+      "x": 2668,
+      "y": 3710,
+      "plane": 0
+    }
   },
   {
     "structId": 2343,
@@ -9937,7 +11262,12 @@
         "level": 25
       }
     ],
-    "wikiNotes": "25 Hunter"
+    "wikiNotes": "25 Hunter",
+    "location": {
+      "x": 2719,
+      "y": 3800,
+      "plane": 0
+    }
   },
   {
     "structId": 2344,
@@ -9949,7 +11279,12 @@
     "skill": null,
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 64.5
+    "completionPercent": 64.5,
+    "location": {
+      "x": 3659,
+      "y": 3517,
+      "plane": 0
+    }
   },
   {
     "structId": 2345,
@@ -9968,7 +11303,12 @@
         "level": 30
       }
     ],
-    "wikiNotes": "30 Smithing"
+    "wikiNotes": "30 Smithing",
+    "location": {
+      "x": 3685,
+      "y": 3479,
+      "plane": 0
+    }
   },
   {
     "structId": 2347,
@@ -10000,7 +11340,12 @@
         "level": 62
       }
     ],
-    "wikiNotes": "62 Woodcutting Partial completion of   Sins of the Father"
+    "wikiNotes": "62 Woodcutting Partial completion of   Sins of the Father",
+    "location": {
+      "x": 3633,
+      "y": 3361,
+      "plane": 0
+    }
   },
   {
     "structId": 2355,
@@ -10019,7 +11364,12 @@
         "level": 60
       }
     ],
-    "wikiNotes": "60 Woodcutting"
+    "wikiNotes": "60 Woodcutting",
+    "location": {
+      "x": 1634,
+      "y": 3502,
+      "plane": 0
+    }
   },
   {
     "structId": 2356,
@@ -10042,7 +11392,12 @@
         "level": 60
       }
     ],
-    "wikiNotes": "60 Woodcutting to access Woodcutting Guild sawmill OR  86 Magic and Fremennik or Grimoire to cast Plank Make"
+    "wikiNotes": "60 Woodcutting to access Woodcutting Guild sawmill OR  86 Magic and Fremennik or Grimoire to cast Plank Make",
+    "location": {
+      "x": 3302,
+      "y": 3491,
+      "plane": 0
+    }
   },
   {
     "structId": 2357,
@@ -10090,7 +11445,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 70
+    "completionPercent": 70,
+    "location": {
+      "x": 1692,
+      "y": 3536,
+      "plane": 0
+    }
   },
   {
     "structId": 2385,
@@ -10109,7 +11469,12 @@
         "level": 42
       }
     ],
-    "wikiNotes": "42 Woodcutting"
+    "wikiNotes": "42 Woodcutting",
+    "location": {
+      "x": 1706,
+      "y": 3518,
+      "plane": 0
+    }
   },
   {
     "structId": 2400,
@@ -10128,7 +11493,12 @@
         "level": 42
       }
     ],
-    "wikiNotes": "42 Woodcutting"
+    "wikiNotes": "42 Woodcutting",
+    "location": {
+      "x": 1369,
+      "y": 3615,
+      "plane": 0
+    }
   },
   {
     "structId": 2408,
@@ -10147,7 +11517,12 @@
         "level": 15
       }
     ],
-    "wikiNotes": "15 Hunter"
+    "wikiNotes": "15 Hunter",
+    "location": {
+      "x": 1714,
+      "y": 3460,
+      "plane": 0
+    }
   },
   {
     "structId": 2411,
@@ -10159,7 +11534,12 @@
     "skill": null,
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 78
+    "completionPercent": 78,
+    "location": {
+      "x": 1552,
+      "y": 3633,
+      "plane": 0
+    }
   },
   {
     "structId": 2417,
@@ -10197,7 +11577,12 @@
         "level": 30
       }
     ],
-    "wikiNotes": "30 Smithing"
+    "wikiNotes": "30 Smithing",
+    "location": {
+      "x": 1645,
+      "y": 3634,
+      "plane": 0
+    }
   },
   {
     "structId": 2429,
@@ -10216,7 +11601,12 @@
         "level": 14
       }
     ],
-    "wikiNotes": "14 Prayer"
+    "wikiNotes": "14 Prayer",
+    "location": {
+      "x": 1733,
+      "y": 3573,
+      "plane": 0
+    }
   },
   {
     "structId": 2455,
@@ -10240,7 +11630,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 31.7
+    "completionPercent": 31.7,
+    "location": {
+      "x": 1439,
+      "y": 10081,
+      "plane": 0
+    }
   },
   {
     "structId": 2457,
@@ -10291,7 +11686,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 68.7,
-    "wikiNotes": "40 Combat level"
+    "wikiNotes": "40 Combat level",
+    "location": {
+      "x": 2662,
+      "y": 2655,
+      "plane": 0
+    }
   },
   {
     "structId": 2464,
@@ -10485,7 +11885,12 @@
         "level": 42
       }
     ],
-    "wikiNotes": "42 Mining"
+    "wikiNotes": "42 Mining",
+    "location": {
+      "x": 1437,
+      "y": 3868,
+      "plane": 0
+    }
   },
   {
     "structId": 3785,
@@ -10520,7 +11925,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 43.2
+    "completionPercent": 43.2,
+    "location": {
+      "x": 2749,
+      "y": 9065,
+      "plane": 0
+    }
   },
   {
     "structId": 3806,
@@ -10532,7 +11942,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 76.5
+    "completionPercent": 76.5,
+    "location": {
+      "x": 3299,
+      "y": 9867,
+      "plane": 0
+    }
   },
   {
     "structId": 3807,
@@ -10544,7 +11959,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 66.6
+    "completionPercent": 66.6,
+    "location": {
+      "x": 3299,
+      "y": 9867,
+      "plane": 0
+    }
   },
   {
     "structId": 3808,
@@ -10556,7 +11976,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 60.4
+    "completionPercent": 60.4,
+    "location": {
+      "x": 3299,
+      "y": 9867,
+      "plane": 0
+    }
   },
   {
     "structId": 3810,
@@ -10651,7 +12076,12 @@
         "level": 46
       }
     ],
-    "wikiNotes": "46 Hunter"
+    "wikiNotes": "46 Hunter",
+    "location": {
+      "x": 1563,
+      "y": 3036,
+      "plane": 0
+    }
   },
   {
     "structId": 3821,
@@ -10670,7 +12100,12 @@
         "level": 46
       }
     ],
-    "wikiNotes": "46 Hunter"
+    "wikiNotes": "46 Hunter",
+    "location": {
+      "x": 1563,
+      "y": 3036,
+      "plane": 0
+    }
   },
   {
     "structId": 3822,
@@ -10689,7 +12124,12 @@
         "level": 46
       }
     ],
-    "wikiNotes": "46 Hunter"
+    "wikiNotes": "46 Hunter",
+    "location": {
+      "x": 1563,
+      "y": 3036,
+      "plane": 0
+    }
   },
   {
     "structId": 3827,
@@ -10701,7 +12141,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 63.6
+    "completionPercent": 63.6,
+    "location": {
+      "x": 1805,
+      "y": 9508,
+      "plane": 0
+    }
   },
   {
     "structId": 3840,
@@ -10783,7 +12228,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 75.7,
-    "wikiNotes": "Completion of   Perilous Moons"
+    "wikiNotes": "Completion of   Perilous Moons",
+    "location": {
+      "x": 1436,
+      "y": 3124,
+      "plane": 0
+    }
   },
   {
     "structId": 3849,
@@ -10796,7 +12246,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 56,
-    "wikiNotes": "Completion of   Perilous Moons"
+    "wikiNotes": "Completion of   Perilous Moons",
+    "location": {
+      "x": 1436,
+      "y": 3124,
+      "plane": 0
+    }
   },
   {
     "structId": 3850,
@@ -10809,7 +12264,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 42.8,
-    "wikiNotes": "Completion of   Perilous Moons"
+    "wikiNotes": "Completion of   Perilous Moons",
+    "location": {
+      "x": 1436,
+      "y": 3124,
+      "plane": 0
+    }
   },
   {
     "structId": 3853,
@@ -10828,7 +12288,12 @@
         "level": 41
       }
     ],
-    "wikiNotes": "41 Mining"
+    "wikiNotes": "41 Mining",
+    "location": {
+      "x": 1512,
+      "y": 9544,
+      "plane": 1
+    }
   },
   {
     "structId": 3854,
@@ -10847,7 +12312,12 @@
         "level": 41
       }
     ],
-    "wikiNotes": "41 Mining"
+    "wikiNotes": "41 Mining",
+    "location": {
+      "x": 1512,
+      "y": 9544,
+      "plane": 1
+    }
   },
   {
     "structId": 3855,
@@ -10885,7 +12355,12 @@
         "level": 55
       }
     ],
-    "wikiNotes": "55 Mining"
+    "wikiNotes": "55 Mining",
+    "location": {
+      "x": 1473,
+      "y": 3876,
+      "plane": 0
+    }
   },
   {
     "structId": 3861,
@@ -10904,7 +12379,12 @@
         "level": 65
       }
     ],
-    "wikiNotes": "65 Thieving"
+    "wikiNotes": "65 Thieving",
+    "location": {
+      "x": 1685,
+      "y": 3098,
+      "plane": 0
+    }
   },
   {
     "structId": 3862,
@@ -11054,7 +12534,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 44.7
+    "completionPercent": 44.7,
+    "location": {
+      "x": 1509,
+      "y": 3290,
+      "plane": 0
+    }
   },
   {
     "structId": 5922,
@@ -11138,7 +12623,12 @@
         "level": 48
       }
     ],
-    "wikiNotes": "48 Slayer"
+    "wikiNotes": "48 Slayer",
+    "location": {
+      "x": 1362,
+      "y": 4511,
+      "plane": 0
+    }
   },
   {
     "structId": 5935,
@@ -11157,7 +12647,12 @@
         "level": 50
       }
     ],
-    "wikiNotes": "50 Agility"
+    "wikiNotes": "50 Agility",
+    "location": {
+      "x": 1655,
+      "y": 2915,
+      "plane": 0
+    }
   },
   {
     "structId": 1187,
@@ -11169,7 +12664,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 68.7
+    "completionPercent": 68.7,
+    "location": {
+      "x": 1501,
+      "y": 3126,
+      "plane": 0
+    }
   },
   {
     "structId": 1188,
@@ -11200,7 +12700,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 55.6
+    "completionPercent": 55.6,
+    "location": {
+      "x": 1703,
+      "y": 9627,
+      "plane": 0
+    }
   },
   {
     "structId": 1190,
@@ -11213,7 +12718,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 29.2,
-    "wikiNotes": "Completion of   Death on the Isle"
+    "wikiNotes": "Completion of   Death on the Isle",
+    "location": {
+      "x": 1415,
+      "y": 2974,
+      "plane": 0
+    }
   },
   {
     "structId": 1193,
@@ -11225,7 +12735,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 28
+    "completionPercent": 28,
+    "location": {
+      "x": 4076,
+      "y": 4432,
+      "plane": 0
+    }
   },
   {
     "structId": 1194,
@@ -11237,7 +12752,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 18.2
+    "completionPercent": 18.2,
+    "location": {
+      "x": 4076,
+      "y": 4432,
+      "plane": 0
+    }
   },
   {
     "structId": 1203,
@@ -11261,7 +12781,12 @@
     "skill": null,
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 68.9
+    "completionPercent": 68.9,
+    "location": {
+      "x": 2269,
+      "y": 3190,
+      "plane": 0
+    }
   },
   {
     "structId": 1205,
@@ -11280,7 +12805,12 @@
         "level": 75
       }
     ],
-    "wikiNotes": "75 Thieving"
+    "wikiNotes": "75 Thieving",
+    "location": {
+      "x": 3277,
+      "y": 6101,
+      "plane": 0
+    }
   },
   {
     "structId": 1206,
@@ -11299,7 +12829,12 @@
         "level": 50
       }
     ],
-    "wikiNotes": "50 Thieving"
+    "wikiNotes": "50 Thieving",
+    "location": {
+      "x": 3281,
+      "y": 6097,
+      "plane": 0
+    }
   },
   {
     "structId": 1215,
@@ -11323,7 +12858,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 31.7
+    "completionPercent": 31.7,
+    "location": {
+      "x": 1415,
+      "y": 2974,
+      "plane": 0
+    }
   },
   {
     "structId": 1219,
@@ -11336,7 +12876,12 @@
     "tier": 2,
     "tierName": "Medium",
     "completionPercent": 22,
-    "wikiNotes": "Adamant scimitar"
+    "wikiNotes": "Adamant scimitar",
+    "location": {
+      "x": 1497,
+      "y": 3087,
+      "plane": 0
+    }
   },
   {
     "structId": 1223,
@@ -11405,7 +12950,12 @@
         "level": 47
       }
     ],
-    "wikiNotes": "47 Slayer"
+    "wikiNotes": "47 Slayer",
+    "location": {
+      "x": 2706,
+      "y": 10133,
+      "plane": 0
+    }
   },
   {
     "structId": 1937,
@@ -11460,7 +13010,12 @@
         "level": 11
       }
     ],
-    "wikiNotes": "11 Firemaking,  11 Crafting Partial completion of   Barbarian Training"
+    "wikiNotes": "11 Firemaking,  11 Crafting Partial completion of   Barbarian Training",
+    "location": {
+      "x": 2518,
+      "y": 3522,
+      "plane": 0
+    }
   },
   {
     "structId": 1953,
@@ -11479,7 +13034,12 @@
         "level": 35
       }
     ],
-    "wikiNotes": "35 Thieving"
+    "wikiNotes": "35 Thieving",
+    "location": {
+      "x": 2663,
+      "y": 3296,
+      "plane": 0
+    }
   },
   {
     "structId": 1954,
@@ -11498,7 +13058,12 @@
         "level": 50
       }
     ],
-    "wikiNotes": "50 Thieving"
+    "wikiNotes": "50 Thieving",
+    "location": {
+      "x": 2657,
+      "y": 3314,
+      "plane": 0
+    }
   },
   {
     "structId": 1955,
@@ -11517,7 +13082,12 @@
         "level": 65
       }
     ],
-    "wikiNotes": "65 Thieving"
+    "wikiNotes": "65 Thieving",
+    "location": {
+      "x": 2658,
+      "y": 3297,
+      "plane": 0
+    }
   },
   {
     "structId": 1959,
@@ -11708,7 +13278,12 @@
         "level": 51
       }
     ],
-    "wikiNotes": "51 Hunter"
+    "wikiNotes": "51 Hunter",
+    "location": {
+      "x": 2713,
+      "y": 3771,
+      "plane": 0
+    }
   },
   {
     "structId": 2043,
@@ -11727,7 +13302,12 @@
         "level": 42
       }
     ],
-    "wikiNotes": "42 Thieving"
+    "wikiNotes": "42 Thieving",
+    "location": {
+      "x": 2649,
+      "y": 3678,
+      "plane": 0
+    }
   },
   {
     "structId": 2044,
@@ -11746,7 +13326,12 @@
         "level": 49
       }
     ],
-    "wikiNotes": "49 Thieving"
+    "wikiNotes": "49 Thieving",
+    "location": {
+      "x": 2620,
+      "y": 3675,
+      "plane": 0
+    }
   },
   {
     "structId": 2045,
@@ -11795,7 +13380,12 @@
     "skill": "All",
     "tier": 2,
     "tierName": "Medium",
-    "completionPercent": 80.7
+    "completionPercent": 80.7,
+    "location": {
+      "x": 2122,
+      "y": 3931,
+      "plane": 0
+    }
   },
   {
     "structId": 2056,
@@ -11814,7 +13404,12 @@
         "level": 5
       }
     ],
-    "wikiNotes": "5 Thieving"
+    "wikiNotes": "5 Thieving",
+    "location": {
+      "x": 2886,
+      "y": 10206,
+      "plane": 0
+    }
   },
   {
     "structId": 2573,
@@ -12128,7 +13723,12 @@
         "level": 50
       }
     ],
-    "wikiNotes": "50 Firemaking"
+    "wikiNotes": "50 Firemaking",
+    "location": {
+      "x": 1630,
+      "y": 4009,
+      "plane": 0
+    }
   },
   {
     "structId": 5469,
@@ -12147,7 +13747,12 @@
         "level": 45
       }
     ],
-    "wikiNotes": "45 Farming"
+    "wikiNotes": "45 Farming",
+    "location": {
+      "x": 1248,
+      "y": 3726,
+      "plane": 0
+    }
   },
   {
     "structId": 5494,
@@ -12166,7 +13771,12 @@
         "level": 54
       }
     ],
-    "wikiNotes": "54 Farming"
+    "wikiNotes": "54 Farming",
+    "location": {
+      "x": 1800,
+      "y": 3502,
+      "plane": 0
+    }
   },
   {
     "structId": 5495,
@@ -12185,7 +13795,12 @@
         "level": 74
       }
     ],
-    "wikiNotes": "74 Farming"
+    "wikiNotes": "74 Farming",
+    "location": {
+      "x": 1800,
+      "y": 3502,
+      "plane": 0
+    }
   },
   {
     "structId": 5498,
@@ -12204,7 +13819,12 @@
         "level": 85
       }
     ],
-    "wikiNotes": "85 Farming"
+    "wikiNotes": "85 Farming",
+    "location": {
+      "x": 1248,
+      "y": 3726,
+      "plane": 0
+    }
   },
   {
     "structId": 5505,
@@ -12223,7 +13843,12 @@
         "level": 75
       }
     ],
-    "wikiNotes": "75 Mining"
+    "wikiNotes": "75 Mining",
+    "location": {
+      "x": 1500,
+      "y": 3861,
+      "plane": 0
+    }
   },
   {
     "structId": 5536,
@@ -12254,7 +13879,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 14.4
+    "completionPercent": 14.4,
+    "location": {
+      "x": 1480,
+      "y": 3593,
+      "plane": 0
+    }
   },
   {
     "structId": 5548,
@@ -12266,7 +13896,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 9.3
+    "completionPercent": 9.3,
+    "location": {
+      "x": 1840,
+      "y": 9900,
+      "plane": 0
+    }
   },
   {
     "structId": 5549,
@@ -12278,7 +13913,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 4.9
+    "completionPercent": 4.9,
+    "location": {
+      "x": 1840,
+      "y": 9900,
+      "plane": 0
+    }
   },
   {
     "structId": 5557,
@@ -12290,7 +13930,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 49.7
+    "completionPercent": 49.7,
+    "location": {
+      "x": 1647,
+      "y": 10006,
+      "plane": 0
+    }
   },
   {
     "structId": 5558,
@@ -12302,7 +13947,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 10.9
+    "completionPercent": 10.9,
+    "location": {
+      "x": 1647,
+      "y": 10006,
+      "plane": 0
+    }
   },
   {
     "structId": 5566,
@@ -12321,7 +13971,12 @@
         "level": 95
       }
     ],
-    "wikiNotes": "95 Slayer Hydra Slayer task"
+    "wikiNotes": "95 Slayer Hydra Slayer task",
+    "location": {
+      "x": 1364,
+      "y": 10265,
+      "plane": 0
+    }
   },
   {
     "structId": 5567,
@@ -12340,7 +13995,12 @@
         "level": 95
       }
     ],
-    "wikiNotes": "95 Slayer Hydra Slayer task"
+    "wikiNotes": "95 Slayer Hydra Slayer task",
+    "location": {
+      "x": 1364,
+      "y": 10265,
+      "plane": 0
+    }
   },
   {
     "structId": 5568,
@@ -12359,7 +14019,12 @@
         "level": 95
       }
     ],
-    "wikiNotes": "95 Slayer Hydra Slayer task"
+    "wikiNotes": "95 Slayer Hydra Slayer task",
+    "location": {
+      "x": 1364,
+      "y": 10265,
+      "plane": 0
+    }
   },
   {
     "structId": 5577,
@@ -12371,7 +14036,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 48.3
+    "completionPercent": 48.3,
+    "location": {
+      "x": 1232,
+      "y": 3573,
+      "plane": 0
+    }
   },
   {
     "structId": 5962,
@@ -12383,7 +14053,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 15.9
+    "completionPercent": 15.9,
+    "location": {
+      "x": 1232,
+      "y": 3573,
+      "plane": 0
+    }
   },
   {
     "structId": 5578,
@@ -12395,7 +14070,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 6.4
+    "completionPercent": 6.4,
+    "location": {
+      "x": 1232,
+      "y": 3573,
+      "plane": 0
+    }
   },
   {
     "structId": 5601,
@@ -12599,7 +14279,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 18.8
+    "completionPercent": 18.8,
+    "location": {
+      "x": 2718,
+      "y": 3494,
+      "plane": 0
+    }
   },
   {
     "structId": 5687,
@@ -12611,7 +14296,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 3
+    "completionPercent": 3,
+    "location": {
+      "x": 2718,
+      "y": 3494,
+      "plane": 0
+    }
   },
   {
     "structId": 5696,
@@ -13407,7 +15097,12 @@
         "level": 74
       }
     ],
-    "wikiNotes": "74 Hunter,  75 Crafting"
+    "wikiNotes": "74 Hunter,  75 Crafting",
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
   },
   {
     "structId": 4836,
@@ -13430,7 +15125,12 @@
         "level": 80
       }
     ],
-    "wikiNotes": "80 Hunter,  31 Herblore"
+    "wikiNotes": "80 Hunter,  31 Herblore",
+    "location": {
+      "x": 3705,
+      "y": 3846,
+      "plane": 0
+    }
   },
   {
     "structId": 4839,
@@ -13449,7 +15149,12 @@
         "level": 75
       }
     ],
-    "wikiNotes": "75 Farming"
+    "wikiNotes": "75 Farming",
+    "location": {
+      "x": 3193,
+      "y": 3231,
+      "plane": 0
+    }
   },
   {
     "structId": 1958,
@@ -13461,7 +15166,12 @@
     "skill": null,
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 5.7
+    "completionPercent": 5.7,
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
   },
   {
     "structId": 1962,
@@ -13473,7 +15183,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 57.5
+    "completionPercent": 57.5,
+    "location": {
+      "x": 1585,
+      "y": 5072,
+      "plane": 0
+    }
   },
   {
     "structId": 1967,
@@ -13538,7 +15253,12 @@
         "level": 85
       }
     ],
-    "wikiNotes": "85 Slayer"
+    "wikiNotes": "85 Slayer",
+    "location": {
+      "x": 3038,
+      "y": 4823,
+      "plane": 0
+    }
   },
   {
     "structId": 1978,
@@ -13557,7 +15277,12 @@
         "level": 85
       }
     ],
-    "wikiNotes": "85 Slayer"
+    "wikiNotes": "85 Slayer",
+    "location": {
+      "x": 3037,
+      "y": 4785,
+      "plane": 0
+    }
   },
   {
     "structId": 1984,
@@ -13612,7 +15337,12 @@
         "level": 74
       }
     ],
-    "wikiNotes": "74 Farming"
+    "wikiNotes": "74 Farming",
+    "location": {
+      "x": 3292,
+      "y": 6119,
+      "plane": 0
+    }
   },
   {
     "structId": 2016,
@@ -13631,7 +15361,12 @@
         "level": 75
       }
     ],
-    "wikiNotes": "75 Agility"
+    "wikiNotes": "75 Agility",
+    "location": {
+      "x": 3288,
+      "y": 6142,
+      "plane": 0
+    }
   },
   {
     "structId": 4853,
@@ -13650,7 +15385,12 @@
         "level": 75
       }
     ],
-    "wikiNotes": "75 Agility"
+    "wikiNotes": "75 Agility",
+    "location": {
+      "x": 3288,
+      "y": 6142,
+      "plane": 0
+    }
   },
   {
     "structId": 2019,
@@ -13669,7 +15409,12 @@
         "level": 65
       }
     ],
-    "wikiNotes": "65 Runecraft"
+    "wikiNotes": "65 Runecraft",
+    "location": {
+      "x": 2204,
+      "y": 4837,
+      "plane": 0
+    }
   },
   {
     "structId": 2020,
@@ -13723,7 +15468,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 89.1
+    "completionPercent": 89.1,
+    "location": {
+      "x": 3228,
+      "y": 6116,
+      "plane": 0
+    }
   },
   {
     "structId": 2029,
@@ -13735,7 +15485,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 84.3
+    "completionPercent": 84.3,
+    "location": {
+      "x": 3228,
+      "y": 6116,
+      "plane": 0
+    }
   },
   {
     "structId": 2032,
@@ -13747,7 +15502,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 44.9
+    "completionPercent": 44.9,
+    "location": {
+      "x": 3031,
+      "y": 6048,
+      "plane": 0
+    }
   },
   {
     "structId": 2034,
@@ -13759,7 +15519,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 80.6
+    "completionPercent": 80.6,
+    "location": {
+      "x": 2268,
+      "y": 3073,
+      "plane": 0
+    }
   },
   {
     "structId": 2036,
@@ -13859,7 +15624,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 14.5
+    "completionPercent": 14.5,
+    "location": {
+      "x": 3031,
+      "y": 6048,
+      "plane": 0
+    }
   },
   {
     "structId": 4868,
@@ -13871,7 +15641,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 62.5
+    "completionPercent": 62.5,
+    "location": {
+      "x": 2268,
+      "y": 3073,
+      "plane": 0
+    }
   },
   {
     "structId": 2057,
@@ -13890,7 +15665,12 @@
         "level": 80
       }
     ],
-    "wikiNotes": "80 Slayer"
+    "wikiNotes": "80 Slayer",
+    "location": {
+      "x": 3225,
+      "y": 12439,
+      "plane": 0
+    }
   },
   {
     "structId": 2060,
@@ -13944,7 +15724,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 58.4
+    "completionPercent": 58.4,
+    "location": {
+      "x": 3266,
+      "y": 6069,
+      "plane": 0
+    }
   },
   {
     "structId": 2068,
@@ -14001,7 +15786,12 @@
         "level": 75
       }
     ],
-    "wikiNotes": "75 Construction Fremennik or Varlamore"
+    "wikiNotes": "75 Construction Fremennik or Varlamore",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
   },
   {
     "structId": 4871,
@@ -14020,7 +15810,12 @@
         "level": 80
       }
     ],
-    "wikiNotes": "80 Agility"
+    "wikiNotes": "80 Agility",
+    "location": {
+      "x": 2628,
+      "y": 3677,
+      "plane": 0
+    }
   },
   {
     "structId": 2078,
@@ -14039,7 +15834,12 @@
         "level": 62
       }
     ],
-    "wikiNotes": "62 Farming"
+    "wikiNotes": "62 Farming",
+    "location": {
+      "x": 2848,
+      "y": 3934,
+      "plane": 0
+    }
   },
   {
     "structId": 4872,
@@ -14058,7 +15858,12 @@
         "level": 55
       }
     ],
-    "wikiNotes": "55 Hunter"
+    "wikiNotes": "55 Hunter",
+    "location": {
+      "x": 2717,
+      "y": 3789,
+      "plane": 0
+    }
   },
   {
     "structId": 2083,
@@ -14081,7 +15886,12 @@
         "level": 72
       }
     ],
-    "wikiNotes": "72 Mining,  72 Construction"
+    "wikiNotes": "72 Mining,  72 Construction",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
   },
   {
     "structId": 2084,
@@ -14100,7 +15910,12 @@
         "level": 87
       }
     ],
-    "wikiNotes": "87 Magic"
+    "wikiNotes": "87 Magic",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
   },
   {
     "structId": 2086,
@@ -14119,7 +15934,12 @@
         "level": 60
       }
     ],
-    "wikiNotes": "60 Slayer Completion of   The Fremennik Exiles"
+    "wikiNotes": "60 Slayer Completion of   The Fremennik Exiles",
+    "location": {
+      "x": 2431,
+      "y": 10386,
+      "plane": 0
+    }
   },
   {
     "structId": 2087,
@@ -14131,7 +15951,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 71.9
+    "completionPercent": 71.9,
+    "location": {
+      "x": 2269,
+      "y": 4062,
+      "plane": 0
+    }
   },
   {
     "structId": 2092,
@@ -14185,7 +16010,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 76.2
+    "completionPercent": 76.2,
+    "location": {
+      "x": 2631,
+      "y": 9667,
+      "plane": 0
+    }
   },
   {
     "structId": 2104,
@@ -14245,7 +16075,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 40.2
+    "completionPercent": 40.2,
+    "location": {
+      "x": 2269,
+      "y": 4062,
+      "plane": 0
+    }
   },
   {
     "structId": 4879,
@@ -14257,7 +16092,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 10.6
+    "completionPercent": 10.6,
+    "location": {
+      "x": 2269,
+      "y": 4062,
+      "plane": 0
+    }
   },
   {
     "structId": 4881,
@@ -14269,7 +16109,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 34.3
+    "completionPercent": 34.3,
+    "location": {
+      "x": 2631,
+      "y": 9667,
+      "plane": 0
+    }
   },
   {
     "structId": 4882,
@@ -14281,7 +16126,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 6.6
+    "completionPercent": 6.6,
+    "location": {
+      "x": 2631,
+      "y": 9667,
+      "plane": 0
+    }
   },
   {
     "structId": 2122,
@@ -14437,7 +16287,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 38.8,
-    "wikiNotes": "Completion of   Throne of Miscellania"
+    "wikiNotes": "Completion of   Throne of Miscellania",
+    "location": {
+      "x": 2534,
+      "y": 3861,
+      "plane": 0
+    }
   },
   {
     "structId": 2142,
@@ -14468,7 +16323,12 @@
     "skill": null,
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 37.7
+    "completionPercent": 37.7,
+    "location": {
+      "x": 2786,
+      "y": 9572,
+      "plane": 0
+    }
   },
   {
     "structId": 4893,
@@ -14487,7 +16347,12 @@
         "level": 72
       }
     ],
-    "wikiNotes": "72 Farming"
+    "wikiNotes": "72 Farming",
+    "location": {
+      "x": 2796,
+      "y": 3101,
+      "plane": 0
+    }
   },
   {
     "structId": 2157,
@@ -14518,7 +16383,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 48.8
+    "completionPercent": 48.8,
+    "location": {
+      "x": 2437,
+      "y": 5168,
+      "plane": 0
+    }
   },
   {
     "structId": 2167,
@@ -14581,7 +16451,12 @@
         "level": 35
       }
     ],
-    "wikiNotes": "35 Woodcutting"
+    "wikiNotes": "35 Woodcutting",
+    "location": {
+      "x": 2797,
+      "y": 3085,
+      "plane": 0
+    }
   },
   {
     "structId": 2193,
@@ -14600,7 +16475,12 @@
         "level": 80
       }
     ],
-    "wikiNotes": "80 Thieving"
+    "wikiNotes": "80 Thieving",
+    "location": {
+      "x": 2648,
+      "y": 3303,
+      "plane": 0
+    }
   },
   {
     "structId": 5138,
@@ -14619,7 +16499,12 @@
         "level": 60
       }
     ],
-    "wikiNotes": "60 Agility"
+    "wikiNotes": "60 Agility",
+    "location": {
+      "x": 2729,
+      "y": 3488,
+      "plane": 0
+    }
   },
   {
     "structId": 2207,
@@ -14676,7 +16561,12 @@
         "level": 57
       }
     ],
-    "wikiNotes": "57 Farming"
+    "wikiNotes": "57 Farming",
+    "location": {
+      "x": 2476,
+      "y": 3446,
+      "plane": 0
+    }
   },
   {
     "structId": 2213,
@@ -14688,7 +16578,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 38.3
+    "completionPercent": 38.3,
+    "location": {
+      "x": 1834,
+      "y": 5401,
+      "plane": 0
+    }
   },
   {
     "structId": 2214,
@@ -14700,7 +16595,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 36.4
+    "completionPercent": 36.4,
+    "location": {
+      "x": 2107,
+      "y": 5661,
+      "plane": 0
+    }
   },
   {
     "structId": 2215,
@@ -14719,7 +16619,12 @@
         "level": 93
       }
     ],
-    "wikiNotes": "93 Slayer"
+    "wikiNotes": "93 Slayer",
+    "location": {
+      "x": 2394,
+      "y": 9443,
+      "plane": 0
+    }
   },
   {
     "structId": 2226,
@@ -14738,7 +16643,12 @@
         "level": 87
       }
     ],
-    "wikiNotes": "87 Slayer"
+    "wikiNotes": "87 Slayer",
+    "location": {
+      "x": 2271,
+      "y": 10011,
+      "plane": 0
+    }
   },
   {
     "structId": 2230,
@@ -14803,7 +16713,12 @@
         "level": 87
       }
     ],
-    "wikiNotes": "87 Slayer"
+    "wikiNotes": "87 Slayer",
+    "location": {
+      "x": 2278,
+      "y": 10034,
+      "plane": 0
+    }
   },
   {
     "structId": 5146,
@@ -14822,7 +16737,12 @@
         "level": 87
       }
     ],
-    "wikiNotes": "87 Slayer"
+    "wikiNotes": "87 Slayer",
+    "location": {
+      "x": 2278,
+      "y": 10034,
+      "plane": 0
+    }
   },
   {
     "structId": 5148,
@@ -14834,7 +16754,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 11.3
+    "completionPercent": 11.3,
+    "location": {
+      "x": 2107,
+      "y": 5661,
+      "plane": 0
+    }
   },
   {
     "structId": 2252,
@@ -14869,7 +16794,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 5.2
+    "completionPercent": 5.2,
+    "location": {
+      "x": 2532,
+      "y": 3570,
+      "plane": 0
+    }
   },
   {
     "structId": 2259,
@@ -15005,7 +16935,12 @@
         "level": 54
       }
     ],
-    "wikiNotes": "54 Runecraft"
+    "wikiNotes": "54 Runecraft",
+    "location": {
+      "x": 2464,
+      "y": 4832,
+      "plane": 0
+    }
   },
   {
     "structId": 2285,
@@ -15062,7 +16997,12 @@
         "level": 70
       }
     ],
-    "wikiNotes": "70 Hitpoints"
+    "wikiNotes": "70 Hitpoints",
+    "location": {
+      "x": 2925,
+      "y": 5322,
+      "plane": 0
+    }
   },
   {
     "structId": 2301,
@@ -15081,7 +17021,12 @@
         "level": 70
       }
     ],
-    "wikiNotes": "70 Strength"
+    "wikiNotes": "70 Strength",
+    "location": {
+      "x": 2872,
+      "y": 5358,
+      "plane": 0
+    }
   },
   {
     "structId": 2302,
@@ -15123,7 +17068,12 @@
         "level": 70
       }
     ],
-    "wikiNotes": "70 Ranged"
+    "wikiNotes": "70 Ranged",
+    "location": {
+      "x": 2832,
+      "y": 5302,
+      "plane": 0
+    }
   },
   {
     "structId": 2309,
@@ -15142,7 +17092,12 @@
         "level": 70
       }
     ],
-    "wikiNotes": "70 Agility"
+    "wikiNotes": "70 Agility",
+    "location": {
+      "x": 2905,
+      "y": 5237,
+      "plane": 0
+    }
   },
   {
     "structId": 2315,
@@ -15161,7 +17116,12 @@
         "level": 91
       }
     ],
-    "wikiNotes": "91 Slayer"
+    "wikiNotes": "91 Slayer",
+    "location": {
+      "x": 1310,
+      "y": 1251,
+      "plane": 0
+    }
   },
   {
     "structId": 2316,
@@ -15215,7 +17175,12 @@
         "level": 70
       }
     ],
-    "wikiNotes": "70 Hitpoints,  70 Agility,  70 Ranged, or  70 Strength"
+    "wikiNotes": "70 Hitpoints,  70 Agility,  70 Ranged, or  70 Strength",
+    "location": {
+      "x": 2872,
+      "y": 5311,
+      "plane": 2
+    }
   },
   {
     "structId": 2318,
@@ -15246,7 +17211,12 @@
         "level": 70
       }
     ],
-    "wikiNotes": "70 Hitpoints,  70 Agility,  70 Ranged, or  70 Strength"
+    "wikiNotes": "70 Hitpoints,  70 Agility,  70 Ranged, or  70 Strength",
+    "location": {
+      "x": 2872,
+      "y": 5311,
+      "plane": 2
+    }
   },
   {
     "structId": 5158,
@@ -15258,7 +17228,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 3.5
+    "completionPercent": 3.5,
+    "location": {
+      "x": 2965,
+      "y": 3380,
+      "plane": 0
+    }
   },
   {
     "structId": 2325,
@@ -15339,7 +17314,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 69.6,
-    "wikiNotes": "100 Combat level"
+    "wikiNotes": "100 Combat level",
+    "location": {
+      "x": 2662,
+      "y": 2655,
+      "plane": 0
+    }
   },
   {
     "structId": 2337,
@@ -15352,7 +17332,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 69.9,
-    "wikiNotes": "100 Combat level"
+    "wikiNotes": "100 Combat level",
+    "location": {
+      "x": 2662,
+      "y": 2655,
+      "plane": 0
+    }
   },
   {
     "structId": 5168,
@@ -15371,7 +17356,12 @@
         "level": 81
       }
     ],
-    "wikiNotes": "81 Thieving"
+    "wikiNotes": "81 Thieving",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
   },
   {
     "structId": 5169,
@@ -15390,7 +17380,12 @@
         "level": 91
       }
     ],
-    "wikiNotes": "91 Thieving"
+    "wikiNotes": "91 Thieving",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
   },
   {
     "structId": 5170,
@@ -15409,7 +17404,12 @@
         "level": 91
       }
     ],
-    "wikiNotes": "91 Thieving"
+    "wikiNotes": "91 Thieving",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
   },
   {
     "structId": 2353,
@@ -15428,7 +17428,12 @@
         "level": 65
       }
     ],
-    "wikiNotes": "65 Thieving"
+    "wikiNotes": "65 Thieving",
+    "location": {
+      "x": 2892,
+      "y": 5467,
+      "plane": 0
+    }
   },
   {
     "structId": 5174,
@@ -15447,7 +17452,12 @@
         "level": 45
       }
     ],
-    "wikiNotes": "45 Thieving"
+    "wikiNotes": "45 Thieving",
+    "location": {
+      "x": 3286,
+      "y": 3180,
+      "plane": 0
+    }
   },
   {
     "structId": 2359,
@@ -15504,7 +17514,12 @@
         "level": 64
       }
     ],
-    "wikiNotes": "64 Farming"
+    "wikiNotes": "64 Farming",
+    "location": {
+      "x": 3316,
+      "y": 3203,
+      "plane": 0
+    }
   },
   {
     "structId": 2372,
@@ -15516,7 +17531,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 83.5
+    "completionPercent": 83.5,
+    "location": {
+      "x": 3186,
+      "y": 9424,
+      "plane": 0
+    }
   },
   {
     "structId": 2374,
@@ -15566,7 +17586,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 46.1
+    "completionPercent": 46.1,
+    "location": {
+      "x": 3186,
+      "y": 9424,
+      "plane": 0
+    }
   },
   {
     "structId": 2077,
@@ -15578,7 +17603,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 11.6
+    "completionPercent": 11.6,
+    "location": {
+      "x": 3186,
+      "y": 9424,
+      "plane": 0
+    }
   },
   {
     "structId": 5180,
@@ -15629,7 +17659,12 @@
         "level": 82
       }
     ],
-    "wikiNotes": "82 Agility Completion of   Sins of the Father"
+    "wikiNotes": "82 Agility Completion of   Sins of the Father",
+    "location": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    }
   },
   {
     "structId": 2416,
@@ -15648,7 +17683,12 @@
         "level": 52
       }
     ],
-    "wikiNotes": "52 Agility Completion of   Sins of the Father, see Hallowed Sepulchre page for other skill requirements"
+    "wikiNotes": "52 Agility Completion of   Sins of the Father, see Hallowed Sepulchre page for other skill requirements",
+    "location": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    }
   },
   {
     "structId": 2420,
@@ -15679,7 +17719,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 29
+    "completionPercent": 29,
+    "location": {
+      "x": 3863,
+      "y": 9942,
+      "plane": 0
+    }
   },
   {
     "structId": 2439,
@@ -15794,7 +17839,12 @@
         "level": 75
       }
     ],
-    "wikiNotes": "75 Slayer"
+    "wikiNotes": "75 Slayer",
+    "location": {
+      "x": 3428,
+      "y": 3543,
+      "plane": 2
+    }
   },
   {
     "structId": 5198,
@@ -15813,7 +17863,12 @@
         "level": 75
       }
     ],
-    "wikiNotes": "75 Slayer"
+    "wikiNotes": "75 Slayer",
+    "location": {
+      "x": 3428,
+      "y": 3543,
+      "plane": 2
+    }
   },
   {
     "structId": 5199,
@@ -15832,7 +17887,12 @@
         "level": 75
       }
     ],
-    "wikiNotes": "75 Slayer"
+    "wikiNotes": "75 Slayer",
+    "location": {
+      "x": 3428,
+      "y": 3543,
+      "plane": 2
+    }
   },
   {
     "structId": 2467,
@@ -15919,7 +17979,12 @@
     "skill": null,
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 89.5
+    "completionPercent": 89.5,
+    "location": {
+      "x": 3235,
+      "y": 3638,
+      "plane": 0
+    }
   },
   {
     "structId": 5203,
@@ -15938,7 +18003,12 @@
         "level": 85
       }
     ],
-    "wikiNotes": "85 Fishing"
+    "wikiNotes": "85 Fishing",
+    "location": {
+      "x": 3349,
+      "y": 3805,
+      "plane": 0
+    }
   },
   {
     "structId": 5204,
@@ -16034,7 +18104,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 75.6
+    "completionPercent": 75.6,
+    "location": {
+      "x": 3319,
+      "y": 3798,
+      "plane": 0
+    }
   },
   {
     "structId": 2505,
@@ -16046,7 +18121,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 70.1
+    "completionPercent": 70.1,
+    "location": {
+      "x": 3233,
+      "y": 10341,
+      "plane": 0
+    }
   },
   {
     "structId": 5205,
@@ -16058,7 +18138,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 74.8
+    "completionPercent": 74.8,
+    "location": {
+      "x": 3291,
+      "y": 3849,
+      "plane": 0
+    }
   },
   {
     "structId": 2510,
@@ -16070,7 +18155,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 79.3
+    "completionPercent": 79.3,
+    "location": {
+      "x": 3219,
+      "y": 3788,
+      "plane": 0
+    }
   },
   {
     "structId": 2513,
@@ -16082,7 +18172,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 71.4
+    "completionPercent": 71.4,
+    "location": {
+      "x": 3261,
+      "y": 3927,
+      "plane": 0
+    }
   },
   {
     "structId": 2514,
@@ -16094,7 +18189,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 86.9
+    "completionPercent": 86.9,
+    "location": {
+      "x": 3109,
+      "y": 10265,
+      "plane": 0
+    }
   },
   {
     "structId": 2516,
@@ -16144,7 +18244,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 35.3
+    "completionPercent": 35.3,
+    "location": {
+      "x": 3313,
+      "y": 10078,
+      "plane": 0
+    }
   },
   {
     "structId": 5207,
@@ -16156,7 +18261,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 8.6
+    "completionPercent": 8.6,
+    "location": {
+      "x": 3313,
+      "y": 10078,
+      "plane": 0
+    }
   },
   {
     "structId": 2527,
@@ -16280,7 +18390,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 13.4
+    "completionPercent": 13.4,
+    "location": {
+      "x": 3863,
+      "y": 9942,
+      "plane": 0
+    }
   },
   {
     "structId": 5940,
@@ -16292,7 +18407,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 11.2
+    "completionPercent": 11.2,
+    "location": {
+      "x": 3871,
+      "y": 9952,
+      "plane": 0
+    }
   },
   {
     "structId": 5942,
@@ -16311,7 +18431,12 @@
         "level": 35
       }
     ],
-    "wikiNotes": "35 Fishing"
+    "wikiNotes": "35 Fishing",
+    "location": {
+      "x": 3173,
+      "y": 2845,
+      "plane": 0
+    }
   },
   {
     "structId": 5273,
@@ -16361,7 +18486,12 @@
         "level": 80
       }
     ],
-    "wikiNotes": "80 Firemaking Completion of   Shades of Mort'ton"
+    "wikiNotes": "80 Firemaking Completion of   Shades of Mort'ton",
+    "location": {
+      "x": 3503,
+      "y": 9675,
+      "plane": 0
+    }
   },
   {
     "structId": 3878,
@@ -16380,7 +18510,12 @@
         "level": 10
       }
     ],
-    "wikiNotes": "10 Mining"
+    "wikiNotes": "10 Mining",
+    "location": {
+      "x": 3022,
+      "y": 3341,
+      "plane": 0
+    }
   },
   {
     "structId": 3880,
@@ -16412,7 +18547,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 40.2,
-    "wikiNotes": "Completion of   The Frozen Door"
+    "wikiNotes": "Completion of   The Frozen Door",
+    "location": {
+      "x": 2975,
+      "y": 9955,
+      "plane": 0
+    }
   },
   {
     "structId": 3905,
@@ -16425,7 +18565,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 21.8,
-    "wikiNotes": "Completion of   The Frozen Door"
+    "wikiNotes": "Completion of   The Frozen Door",
+    "location": {
+      "x": 2975,
+      "y": 9955,
+      "plane": 0
+    }
   },
   {
     "structId": 4908,
@@ -16438,7 +18583,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 7.8,
-    "wikiNotes": "Completion of   The Frozen Door"
+    "wikiNotes": "Completion of   The Frozen Door",
+    "location": {
+      "x": 2975,
+      "y": 9955,
+      "plane": 0
+    }
   },
   {
     "structId": 3913,
@@ -16485,7 +18635,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 46.5
+    "completionPercent": 46.5,
+    "location": {
+      "x": 1128,
+      "y": 3417,
+      "plane": 0
+    }
   },
   {
     "structId": 4911,
@@ -16497,7 +18652,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 33.3
+    "completionPercent": 33.3,
+    "location": {
+      "x": 1128,
+      "y": 3417,
+      "plane": 0
+    }
   },
   {
     "structId": 4912,
@@ -16509,7 +18669,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 24.1
+    "completionPercent": 24.1,
+    "location": {
+      "x": 1128,
+      "y": 3417,
+      "plane": 0
+    }
   },
   {
     "structId": 4915,
@@ -16521,7 +18686,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 10
+    "completionPercent": 10,
+    "location": {
+      "x": 2656,
+      "y": 6369,
+      "plane": 0
+    }
   },
   {
     "structId": 4916,
@@ -16533,7 +18703,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 1.8
+    "completionPercent": 1.8,
+    "location": {
+      "x": 2656,
+      "y": 6369,
+      "plane": 0
+    }
   },
   {
     "structId": 4917,
@@ -16545,7 +18720,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 0.4
+    "completionPercent": 0.4,
+    "location": {
+      "x": 2656,
+      "y": 6369,
+      "plane": 0
+    }
   },
   {
     "structId": 4920,
@@ -16557,7 +18737,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 28.1
+    "completionPercent": 28.1,
+    "location": {
+      "x": 2081,
+      "y": 6372,
+      "plane": 0
+    }
   },
   {
     "structId": 4921,
@@ -16569,7 +18754,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 15.4
+    "completionPercent": 15.4,
+    "location": {
+      "x": 2081,
+      "y": 6372,
+      "plane": 0
+    }
   },
   {
     "structId": 4922,
@@ -16581,7 +18771,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 7.8
+    "completionPercent": 7.8,
+    "location": {
+      "x": 2081,
+      "y": 6372,
+      "plane": 0
+    }
   },
   {
     "structId": 4925,
@@ -16593,7 +18788,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 31.5
+    "completionPercent": 31.5,
+    "location": {
+      "x": 3039,
+      "y": 6454,
+      "plane": 0
+    }
   },
   {
     "structId": 4926,
@@ -16605,7 +18805,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 14.8
+    "completionPercent": 14.8,
+    "location": {
+      "x": 3039,
+      "y": 6454,
+      "plane": 0
+    }
   },
   {
     "structId": 4927,
@@ -16617,7 +18822,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 7
+    "completionPercent": 7,
+    "location": {
+      "x": 3039,
+      "y": 6454,
+      "plane": 0
+    }
   },
   {
     "structId": 4930,
@@ -16630,7 +18840,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 60.4,
-    "wikiNotes": "Completion of   Beneath Cursed Sands Gives 3 Sage's Renown, despite that system only appearing in the Shattered Relics League and has no effect here."
+    "wikiNotes": "Completion of   Beneath Cursed Sands Gives 3 Sage's Renown, despite that system only appearing in the Shattered Relics League and has no effect here.",
+    "location": {
+      "x": 3348,
+      "y": 2722,
+      "plane": 0
+    }
   },
   {
     "structId": 5943,
@@ -16643,7 +18858,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 18.3,
-    "wikiNotes": "Completion of   Beneath Cursed Sands Gives 3 Sage's Renown, despite that system only appearing in the Shattered Relics League and has no effect here."
+    "wikiNotes": "Completion of   Beneath Cursed Sands Gives 3 Sage's Renown, despite that system only appearing in the Shattered Relics League and has no effect here.",
+    "location": {
+      "x": 3348,
+      "y": 2722,
+      "plane": 0
+    }
   },
   {
     "structId": 5946,
@@ -16662,7 +18882,12 @@
         "level": 27
       }
     ],
-    "wikiNotes": "27 Runecraft"
+    "wikiNotes": "27 Runecraft",
+    "location": {
+      "x": 3614,
+      "y": 9477,
+      "plane": 0
+    }
   },
   {
     "structId": 4937,
@@ -16674,7 +18899,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 47.9
+    "completionPercent": 47.9,
+    "location": {
+      "x": 2909,
+      "y": 10317,
+      "plane": 0
+    }
   },
   {
     "structId": 4938,
@@ -16686,7 +18916,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 23.5
+    "completionPercent": 23.5,
+    "location": {
+      "x": 2909,
+      "y": 10317,
+      "plane": 0
+    }
   },
   {
     "structId": 4939,
@@ -16698,7 +18933,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 5.2
+    "completionPercent": 5.2,
+    "location": {
+      "x": 2909,
+      "y": 10317,
+      "plane": 0
+    }
   },
   {
     "structId": 4941,
@@ -16711,7 +18951,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 33.9,
-    "wikiNotes": "Completion of   TzHaar Fight Cave"
+    "wikiNotes": "Completion of   TzHaar Fight Cave",
+    "location": {
+      "x": 2543,
+      "y": 5111,
+      "plane": 0
+    }
   },
   {
     "structId": 4942,
@@ -16724,7 +18969,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 28.6,
-    "wikiNotes": "Completion of   TzHaar Fight Cave"
+    "wikiNotes": "Completion of   TzHaar Fight Cave",
+    "location": {
+      "x": 2543,
+      "y": 5111,
+      "plane": 0
+    }
   },
   {
     "structId": 4943,
@@ -16737,7 +18987,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 23.2,
-    "wikiNotes": "Completion of   TzHaar Fight Cave"
+    "wikiNotes": "Completion of   TzHaar Fight Cave",
+    "location": {
+      "x": 2543,
+      "y": 5111,
+      "plane": 0
+    }
   },
   {
     "structId": 4950,
@@ -16756,7 +19011,12 @@
         "level": 70
       }
     ],
-    "wikiNotes": "70 Construction"
+    "wikiNotes": "70 Construction",
+    "location": {
+      "x": 2991,
+      "y": 3365,
+      "plane": 0
+    }
   },
   {
     "structId": 4951,
@@ -16768,7 +19028,12 @@
     "skill": null,
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 8.6
+    "completionPercent": 8.6,
+    "location": {
+      "x": 2991,
+      "y": 3365,
+      "plane": 0
+    }
   },
   {
     "structId": 4954,
@@ -16800,7 +19065,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 26.4,
-    "wikiNotes": "Completion of   Sleeping Giants"
+    "wikiNotes": "Completion of   Sleeping Giants",
+    "location": {
+      "x": 3363,
+      "y": 3148,
+      "plane": 0
+    }
   },
   {
     "structId": 4958,
@@ -16813,7 +19083,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 10.7,
-    "wikiNotes": "Completion of   Sleeping Giants"
+    "wikiNotes": "Completion of   Sleeping Giants",
+    "location": {
+      "x": 3363,
+      "y": 3148,
+      "plane": 0
+    }
   },
   {
     "structId": 4959,
@@ -16826,7 +19101,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 2.9,
-    "wikiNotes": "Completion of   Sleeping Giants"
+    "wikiNotes": "Completion of   Sleeping Giants",
+    "location": {
+      "x": 3363,
+      "y": 3148,
+      "plane": 0
+    }
   },
   {
     "structId": 4971,
@@ -16946,7 +19226,12 @@
         "level": 35
       }
     ],
-    "wikiNotes": "35 Fishing"
+    "wikiNotes": "35 Fishing",
+    "location": {
+      "x": 3173,
+      "y": 2845,
+      "plane": 0
+    }
   },
   {
     "structId": 5007,
@@ -16965,7 +19250,12 @@
         "level": 76
       }
     ],
-    "wikiNotes": "76 Farming"
+    "wikiNotes": "76 Farming",
+    "location": {
+      "x": 1232,
+      "y": 3736,
+      "plane": 0
+    }
   },
   {
     "structId": 5009,
@@ -17003,7 +19293,12 @@
         "level": 90
       }
     ],
-    "wikiNotes": "90 Woodcutting"
+    "wikiNotes": "90 Woodcutting",
+    "location": {
+      "x": 1570,
+      "y": 3487,
+      "plane": 1
+    }
   },
   {
     "structId": 5039,
@@ -17035,7 +19330,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 11.3,
-    "wikiNotes": "Completion of   Gertrude's Cat, partial completion of   Plague City"
+    "wikiNotes": "Completion of   Gertrude's Cat, partial completion of   Plague City",
+    "location": {
+      "x": 2662,
+      "y": 3305,
+      "plane": 0
+    }
   },
   {
     "structId": 5068,
@@ -17048,7 +19348,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 63.5,
-    "wikiNotes": "1,000,000 coins"
+    "wikiNotes": "1,000,000 coins",
+    "location": {
+      "x": 3672,
+      "y": 3541,
+      "plane": 0
+    }
   },
   {
     "structId": 5086,
@@ -17079,7 +19384,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 39
+    "completionPercent": 39,
+    "location": {
+      "x": 1580,
+      "y": 3495,
+      "plane": 0
+    }
   },
   {
     "structId": 5090,
@@ -17091,7 +19401,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 9.3
+    "completionPercent": 9.3,
+    "location": {
+      "x": 3089,
+      "y": 3859,
+      "plane": 0
+    }
   },
   {
     "structId": 5093,
@@ -17309,7 +19624,12 @@
         "level": 70
       }
     ],
-    "wikiNotes": "70 Mining"
+    "wikiNotes": "70 Mining",
+    "location": {
+      "x": 3292,
+      "y": 12447,
+      "plane": 0
+    }
   },
   {
     "structId": 5129,
@@ -17328,7 +19648,12 @@
         "level": 75
       }
     ],
-    "wikiNotes": "75 Agility"
+    "wikiNotes": "75 Agility",
+    "location": {
+      "x": 3288,
+      "y": 6142,
+      "plane": 0
+    }
   },
   {
     "structId": 5130,
@@ -17347,7 +19672,12 @@
         "level": 35
       }
     ],
-    "wikiNotes": "35 Woodcutting"
+    "wikiNotes": "35 Woodcutting",
+    "location": {
+      "x": 3310,
+      "y": 6122,
+      "plane": 0
+    }
   },
   {
     "structId": 5131,
@@ -17359,7 +19689,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 73.4
+    "completionPercent": 73.4,
+    "location": {
+      "x": 3266,
+      "y": 6069,
+      "plane": 0
+    }
   },
   {
     "structId": 5133,
@@ -17390,7 +19725,12 @@
         "level": 90
       }
     ],
-    "wikiNotes": "90 Prayer"
+    "wikiNotes": "90 Prayer",
+    "location": {
+      "x": 3246,
+      "y": 6115,
+      "plane": 0
+    }
   },
   {
     "structId": 5136,
@@ -17421,7 +19761,12 @@
         "level": 91
       }
     ],
-    "wikiNotes": "91 Slayer"
+    "wikiNotes": "91 Slayer",
+    "location": {
+      "x": 1310,
+      "y": 1251,
+      "plane": 0
+    }
   },
   {
     "structId": 5711,
@@ -17440,7 +19785,12 @@
         "level": 91
       }
     ],
-    "wikiNotes": "91 Slayer"
+    "wikiNotes": "91 Slayer",
+    "location": {
+      "x": 1310,
+      "y": 1251,
+      "plane": 0
+    }
   },
   {
     "structId": 5713,
@@ -17471,7 +19821,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 47.6
+    "completionPercent": 47.6,
+    "location": {
+      "x": 3319,
+      "y": 3798,
+      "plane": 0
+    }
   },
   {
     "structId": 5718,
@@ -17483,7 +19838,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 25.7
+    "completionPercent": 25.7,
+    "location": {
+      "x": 3319,
+      "y": 3798,
+      "plane": 0
+    }
   },
   {
     "structId": 5720,
@@ -17495,7 +19855,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 43.7
+    "completionPercent": 43.7,
+    "location": {
+      "x": 3219,
+      "y": 3788,
+      "plane": 0
+    }
   },
   {
     "structId": 5721,
@@ -17507,7 +19872,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 16.3
+    "completionPercent": 16.3,
+    "location": {
+      "x": 3219,
+      "y": 3788,
+      "plane": 0
+    }
   },
   {
     "structId": 5723,
@@ -17519,7 +19889,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 49.2
+    "completionPercent": 49.2,
+    "location": {
+      "x": 3291,
+      "y": 3849,
+      "plane": 0
+    }
   },
   {
     "structId": 5724,
@@ -17531,7 +19906,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 31.9
+    "completionPercent": 31.9,
+    "location": {
+      "x": 3291,
+      "y": 3849,
+      "plane": 0
+    }
   },
   {
     "structId": 5727,
@@ -17595,7 +19975,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 12.5,
-    "wikiNotes": "Completion of   Tower of Life"
+    "wikiNotes": "Completion of   Tower of Life",
+    "location": {
+      "x": 2648,
+      "y": 3219,
+      "plane": 0
+    }
   },
   {
     "structId": 5759,
@@ -17608,7 +19993,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 4.8,
-    "wikiNotes": "Completion of   Tower of Life, partial completion of   Recipe for Disaster"
+    "wikiNotes": "Completion of   Tower of Life, partial completion of   Recipe for Disaster",
+    "location": {
+      "x": 2648,
+      "y": 3219,
+      "plane": 0
+    }
   },
   {
     "structId": 5765,
@@ -17620,7 +20010,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 44.8
+    "completionPercent": 44.8,
+    "location": {
+      "x": 2393,
+      "y": 3488,
+      "plane": 0
+    }
   },
   {
     "structId": 5771,
@@ -17909,7 +20304,12 @@
         "level": 40
       }
     ],
-    "wikiNotes": "40 Cooking"
+    "wikiNotes": "40 Cooking",
+    "location": {
+      "x": 2340,
+      "y": 3091,
+      "plane": 0
+    }
   },
   {
     "structId": 5839,
@@ -17940,7 +20340,12 @@
         "level": 40
       }
     ],
-    "wikiNotes": "40 Ranged"
+    "wikiNotes": "40 Ranged",
+    "location": {
+      "x": 2670,
+      "y": 3421,
+      "plane": 0
+    }
   },
   {
     "structId": 2146,
@@ -17959,7 +20364,12 @@
         "level": 39
       }
     ],
-    "wikiNotes": "39 Construction"
+    "wikiNotes": "39 Construction",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
   },
   {
     "structId": 2148,
@@ -17990,7 +20400,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 17.9
+    "completionPercent": 17.9,
+    "location": {
+      "x": 2443,
+      "y": 10150,
+      "plane": 0
+    }
   },
   {
     "structId": 2312,
@@ -18009,7 +20424,12 @@
         "level": 35
       }
     ],
-    "wikiNotes": "35 Mining All buckets of sand must be claimed in one go."
+    "wikiNotes": "35 Mining All buckets of sand must be claimed in one go.",
+    "location": {
+      "x": 3152,
+      "y": 2909,
+      "plane": 0
+    }
   },
   {
     "structId": 2346,
@@ -18047,7 +20467,12 @@
         "level": 72
       }
     ],
-    "wikiNotes": "72 Agility"
+    "wikiNotes": "72 Agility",
+    "location": {
+      "x": 3235,
+      "y": 3638,
+      "plane": 0
+    }
   },
   {
     "structId": 2410,
@@ -18074,7 +20499,12 @@
         "level": 77
       }
     ],
-    "wikiNotes": "77 Runecraft,  38 Mining,  38 Crafting"
+    "wikiNotes": "77 Runecraft,  38 Mining,  38 Crafting",
+    "location": {
+      "x": 3231,
+      "y": 4833,
+      "plane": 0
+    }
   },
   {
     "structId": 2412,
@@ -18093,7 +20523,12 @@
         "level": 45
       }
     ],
-    "wikiNotes": "45 Agility Any crossbow and a mith grapple"
+    "wikiNotes": "45 Agility Any crossbow and a mith grapple",
+    "location": {
+      "x": 1552,
+      "y": 3633,
+      "plane": 0
+    }
   },
   {
     "structId": 2459,
@@ -18152,7 +20587,12 @@
         "level": 50
       }
     ],
-    "wikiNotes": "36 Farming,  50 Prayer,  65 Cooking"
+    "wikiNotes": "36 Farming,  50 Prayer,  65 Cooking",
+    "location": {
+      "x": 1811,
+      "y": 3555,
+      "plane": 0
+    }
   },
   {
     "structId": 2851,
@@ -18200,7 +20640,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 49.5,
-    "wikiNotes": "See Scurrius#Combat Achievements"
+    "wikiNotes": "See Scurrius#Combat Achievements",
+    "location": {
+      "x": 3299,
+      "y": 9867,
+      "plane": 0
+    }
   },
   {
     "structId": 3799,
@@ -18224,7 +20669,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 15.3
+    "completionPercent": 15.3,
+    "location": {
+      "x": 2749,
+      "y": 9065,
+      "plane": 0
+    }
   },
   {
     "structId": 3804,
@@ -18236,7 +20686,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 7.3
+    "completionPercent": 7.3,
+    "location": {
+      "x": 2749,
+      "y": 9065,
+      "plane": 0
+    }
   },
   {
     "structId": 3805,
@@ -18255,7 +20710,12 @@
         "level": 52
       }
     ],
-    "wikiNotes": "52 Agility"
+    "wikiNotes": "52 Agility",
+    "location": {
+      "x": 2994,
+      "y": 3936,
+      "plane": 0
+    }
   },
   {
     "structId": 3823,
@@ -18274,7 +20734,12 @@
         "level": 46
       }
     ],
-    "wikiNotes": "46 Hunter"
+    "wikiNotes": "46 Hunter",
+    "location": {
+      "x": 1563,
+      "y": 3036,
+      "plane": 0
+    }
   },
   {
     "structId": 3824,
@@ -18306,7 +20771,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 52.4,
-    "wikiNotes": "2,000 Glory"
+    "wikiNotes": "2,000 Glory",
+    "location": {
+      "x": 1805,
+      "y": 9508,
+      "plane": 0
+    }
   },
   {
     "structId": 3826,
@@ -18331,7 +20801,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 42.5
+    "completionPercent": 42.5,
+    "location": {
+      "x": 1805,
+      "y": 9508,
+      "plane": 0
+    }
   },
   {
     "structId": 3833,
@@ -18478,7 +20953,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 22.9,
-    "wikiNotes": "Completion of   Perilous Moons"
+    "wikiNotes": "Completion of   Perilous Moons",
+    "location": {
+      "x": 1436,
+      "y": 3124,
+      "plane": 0
+    }
   },
   {
     "structId": 3852,
@@ -18510,7 +20990,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 17.6,
-    "wikiNotes": "Wines do not have to be blessed, making 100 jugs of sunfire wine will complete the task"
+    "wikiNotes": "Wines do not have to be blessed, making 100 jugs of sunfire wine will complete the task",
+    "location": {
+      "x": 1512,
+      "y": 9544,
+      "plane": 1
+    }
   },
   {
     "structId": 3858,
@@ -18529,7 +21014,12 @@
         "level": 55
       }
     ],
-    "wikiNotes": "55 Farming Completion of   The Ribbiting Tale of a Lily Pad Labour Dispute"
+    "wikiNotes": "55 Farming Completion of   The Ribbiting Tale of a Lily Pad Labour Dispute",
+    "location": {
+      "x": 1684,
+      "y": 2974,
+      "plane": 0
+    }
   },
   {
     "structId": 3860,
@@ -18548,7 +21038,12 @@
         "level": 72
       }
     ],
-    "wikiNotes": "72 Hunter"
+    "wikiNotes": "72 Hunter",
+    "location": {
+      "x": 1745,
+      "y": 3008,
+      "plane": 0
+    }
   },
   {
     "structId": 3884,
@@ -18685,7 +21180,12 @@
         "level": 92
       }
     ],
-    "wikiNotes": "92 Slayer"
+    "wikiNotes": "92 Slayer",
+    "location": {
+      "x": 3635,
+      "y": 9815,
+      "plane": 0
+    }
   },
   {
     "structId": 5913,
@@ -18704,7 +21204,12 @@
         "level": 92
       }
     ],
-    "wikiNotes": "92 Slayer"
+    "wikiNotes": "92 Slayer",
+    "location": {
+      "x": 3635,
+      "y": 9815,
+      "plane": 0
+    }
   },
   {
     "structId": 5914,
@@ -18723,7 +21228,12 @@
         "level": 92
       }
     ],
-    "wikiNotes": "92 Slayer"
+    "wikiNotes": "92 Slayer",
+    "location": {
+      "x": 3635,
+      "y": 9815,
+      "plane": 0
+    }
   },
   {
     "structId": 5918,
@@ -18754,7 +21264,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 10.3
+    "completionPercent": 10.3,
+    "location": {
+      "x": 1509,
+      "y": 3290,
+      "plane": 0
+    }
   },
   {
     "structId": 5921,
@@ -18766,7 +21281,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 2.4
+    "completionPercent": 2.4,
+    "location": {
+      "x": 1509,
+      "y": 3290,
+      "plane": 0
+    }
   },
   {
     "structId": 5923,
@@ -18812,7 +21332,12 @@
         "level": 60
       }
     ],
-    "wikiNotes": "60 Herblore"
+    "wikiNotes": "60 Herblore",
+    "location": {
+      "x": 1394,
+      "y": 9327,
+      "plane": 0
+    }
   },
   {
     "structId": 5926,
@@ -18911,7 +21436,12 @@
         "level": 48
       }
     ],
-    "wikiNotes": "48 Slayer"
+    "wikiNotes": "48 Slayer",
+    "location": {
+      "x": 1362,
+      "y": 4511,
+      "plane": 0
+    }
   },
   {
     "structId": 5934,
@@ -18930,7 +21460,12 @@
         "level": 48
       }
     ],
-    "wikiNotes": "48 Slayer"
+    "wikiNotes": "48 Slayer",
+    "location": {
+      "x": 1362,
+      "y": 4511,
+      "plane": 0
+    }
   },
   {
     "structId": 5936,
@@ -18965,7 +21500,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 9.7
+    "completionPercent": 9.7,
+    "location": {
+      "x": 4076,
+      "y": 4432,
+      "plane": 0
+    }
   },
   {
     "structId": 1196,
@@ -18977,7 +21517,12 @@
     "skill": "All",
     "tier": 3,
     "tierName": "Hard",
-    "completionPercent": 4.1
+    "completionPercent": 4.1,
+    "location": {
+      "x": 4076,
+      "y": 4432,
+      "plane": 0
+    }
   },
   {
     "structId": 1197,
@@ -19128,7 +21673,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 31.9,
-    "wikiNotes": "See Amoxliatl#Combat Achievements"
+    "wikiNotes": "See Amoxliatl#Combat Achievements",
+    "location": {
+      "x": 1362,
+      "y": 4511,
+      "plane": 0
+    }
   },
   {
     "structId": 1210,
@@ -19141,7 +21691,12 @@
     "tier": 3,
     "tierName": "Hard",
     "completionPercent": 4,
-    "wikiNotes": "See Hueycoatl#Combat Achievements"
+    "wikiNotes": "See Hueycoatl#Combat Achievements",
+    "location": {
+      "x": 1509,
+      "y": 3290,
+      "plane": 0
+    }
   },
   {
     "structId": 1224,
@@ -19282,7 +21837,12 @@
         "level": 50
       }
     ],
-    "wikiNotes": "50 Smithing"
+    "wikiNotes": "50 Smithing",
+    "location": {
+      "x": 1946,
+      "y": 4959,
+      "plane": 0
+    }
   },
   {
     "structId": 1889,
@@ -19301,7 +21861,12 @@
         "level": 80
       }
     ],
-    "wikiNotes": "80 Agility"
+    "wikiNotes": "80 Agility",
+    "location": {
+      "x": 2628,
+      "y": 3677,
+      "plane": 0
+    }
   },
   {
     "structId": 1933,
@@ -19370,7 +21935,12 @@
         "level": 75
       }
     ],
-    "wikiNotes": "75 Fishing Angler's outfit"
+    "wikiNotes": "75 Fishing Angler's outfit",
+    "location": {
+      "x": 2596,
+      "y": 3413,
+      "plane": 0
+    }
   },
   {
     "structId": 1979,
@@ -19468,7 +22038,12 @@
         "level": 90
       }
     ],
-    "wikiNotes": "90 Farming"
+    "wikiNotes": "90 Farming",
+    "location": {
+      "x": 1232,
+      "y": 3736,
+      "plane": 0
+    }
   },
   {
     "structId": 5569,
@@ -19487,7 +22062,12 @@
         "level": 95
       }
     ],
-    "wikiNotes": "95 Slayer Hydra Slayer task"
+    "wikiNotes": "95 Slayer Hydra Slayer task",
+    "location": {
+      "x": 1364,
+      "y": 10265,
+      "plane": 0
+    }
   },
   {
     "structId": 5963,
@@ -19499,7 +22079,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 1.1
+    "completionPercent": 1.1,
+    "location": {
+      "x": 1232,
+      "y": 3573,
+      "plane": 0
+    }
   },
   {
     "structId": 5600,
@@ -20717,7 +23302,12 @@
         "level": 87
       }
     ],
-    "wikiNotes": "Check the associated bosses,  87 Construction"
+    "wikiNotes": "Check the associated bosses,  87 Construction",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
   },
   {
     "structId": 1909,
@@ -20763,7 +23353,12 @@
         "level": 80
       }
     ],
-    "wikiNotes": "80 Hunter,  31 Herblore"
+    "wikiNotes": "80 Hunter,  31 Herblore",
+    "location": {
+      "x": 3705,
+      "y": 3846,
+      "plane": 0
+    }
   },
   {
     "structId": 1943,
@@ -20782,7 +23377,12 @@
         "level": 85
       }
     ],
-    "wikiNotes": "85 Mining"
+    "wikiNotes": "85 Mining",
+    "location": {
+      "x": 3815,
+      "y": 3810,
+      "plane": 0
+    }
   },
   {
     "structId": 1963,
@@ -20943,7 +23543,12 @@
         "level": 85
       }
     ],
-    "wikiNotes": "85 Slayer"
+    "wikiNotes": "85 Slayer",
+    "location": {
+      "x": 3038,
+      "y": 4823,
+      "plane": 0
+    }
   },
   {
     "structId": 4848,
@@ -20962,7 +23567,12 @@
         "level": 85
       }
     ],
-    "wikiNotes": "85 Slayer"
+    "wikiNotes": "85 Slayer",
+    "location": {
+      "x": 3038,
+      "y": 4823,
+      "plane": 0
+    }
   },
   {
     "structId": 4849,
@@ -20981,7 +23591,12 @@
         "level": 85
       }
     ],
-    "wikiNotes": "85 Slayer"
+    "wikiNotes": "85 Slayer",
+    "location": {
+      "x": 3038,
+      "y": 4823,
+      "plane": 0
+    }
   },
   {
     "structId": 1985,
@@ -21121,7 +23736,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 58.1
+    "completionPercent": 58.1,
+    "location": {
+      "x": 3228,
+      "y": 6116,
+      "plane": 0
+    }
   },
   {
     "structId": 4865,
@@ -21133,7 +23753,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 9.9
+    "completionPercent": 9.9,
+    "location": {
+      "x": 3228,
+      "y": 6116,
+      "plane": 0
+    }
   },
   {
     "structId": 5952,
@@ -21145,7 +23770,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 9.7
+    "completionPercent": 9.7,
+    "location": {
+      "x": 3031,
+      "y": 6048,
+      "plane": 0
+    }
   },
   {
     "structId": 4869,
@@ -21157,7 +23787,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 40.1
+    "completionPercent": 40.1,
+    "location": {
+      "x": 2268,
+      "y": 3073,
+      "plane": 0
+    }
   },
   {
     "structId": 2061,
@@ -21265,7 +23900,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 23.2
+    "completionPercent": 23.2,
+    "location": {
+      "x": 2269,
+      "y": 4062,
+      "plane": 0
+    }
   },
   {
     "structId": 2110,
@@ -21277,7 +23917,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 44.9
+    "completionPercent": 44.9,
+    "location": {
+      "x": 2269,
+      "y": 4062,
+      "plane": 0
+    }
   },
   {
     "structId": 4880,
@@ -21289,7 +23934,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 4.6
+    "completionPercent": 4.6,
+    "location": {
+      "x": 2269,
+      "y": 4062,
+      "plane": 0
+    }
   },
   {
     "structId": 2118,
@@ -21301,7 +23951,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 2.9
+    "completionPercent": 2.9,
+    "location": {
+      "x": 2631,
+      "y": 9667,
+      "plane": 0
+    }
   },
   {
     "structId": 2131,
@@ -21352,7 +24007,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 41.3,
-    "wikiNotes": "Completion of   TzHaar Fight Cave"
+    "wikiNotes": "Completion of   TzHaar Fight Cave",
+    "location": {
+      "x": 2496,
+      "y": 5115,
+      "plane": 0
+    }
   },
   {
     "structId": 2172,
@@ -21364,7 +24024,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 7.7
+    "completionPercent": 7.7,
+    "location": {
+      "x": 2437,
+      "y": 5168,
+      "plane": 0
+    }
   },
   {
     "structId": 4902,
@@ -21376,7 +24041,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 2
+    "completionPercent": 2,
+    "location": {
+      "x": 2437,
+      "y": 5168,
+      "plane": 0
+    }
   },
   {
     "structId": 2175,
@@ -21388,7 +24058,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 1.5
+    "completionPercent": 1.5,
+    "location": {
+      "x": 2496,
+      "y": 5115,
+      "plane": 0
+    }
   },
   {
     "structId": 2176,
@@ -21400,7 +24075,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 0.3
+    "completionPercent": 0.3,
+    "location": {
+      "x": 2496,
+      "y": 5115,
+      "plane": 0
+    }
   },
   {
     "structId": 2182,
@@ -21425,7 +24105,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 61.7
+    "completionPercent": 61.7,
+    "location": {
+      "x": 2449,
+      "y": 5150,
+      "plane": 0
+    }
   },
   {
     "structId": 5139,
@@ -21444,7 +24129,12 @@
         "level": 90
       }
     ],
-    "wikiNotes": "90 Agility"
+    "wikiNotes": "90 Agility",
+    "location": {
+      "x": 2674,
+      "y": 3297,
+      "plane": 0
+    }
   },
   {
     "structId": 5140,
@@ -21501,7 +24191,12 @@
         "level": 81
       }
     ],
-    "wikiNotes": "81 Farming"
+    "wikiNotes": "81 Farming",
+    "location": {
+      "x": 2861,
+      "y": 3434,
+      "plane": 0
+    }
   },
   {
     "structId": 2218,
@@ -21654,7 +24349,12 @@
         "level": 87
       }
     ],
-    "wikiNotes": "87 Slayer"
+    "wikiNotes": "87 Slayer",
+    "location": {
+      "x": 2278,
+      "y": 10034,
+      "plane": 0
+    }
   },
   {
     "structId": 2239,
@@ -21666,7 +24366,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 5.9
+    "completionPercent": 5.9,
+    "location": {
+      "x": 2107,
+      "y": 5661,
+      "plane": 0
+    }
   },
   {
     "structId": 5149,
@@ -21678,7 +24383,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 3.1
+    "completionPercent": 3.1,
+    "location": {
+      "x": 2107,
+      "y": 5661,
+      "plane": 0
+    }
   },
   {
     "structId": 2247,
@@ -21690,7 +24400,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 4.9
+    "completionPercent": 4.9,
+    "location": {
+      "x": 2532,
+      "y": 3570,
+      "plane": 0
+    }
   },
   {
     "structId": 2264,
@@ -22067,7 +24782,12 @@
         "level": 70
       }
     ],
-    "wikiNotes": "70 Hitpoints,  70 Agility,  70 Ranged, or  70 Strength"
+    "wikiNotes": "70 Hitpoints,  70 Agility,  70 Ranged, or  70 Strength",
+    "location": {
+      "x": 2872,
+      "y": 5311,
+      "plane": 2
+    }
   },
   {
     "structId": 2326,
@@ -22099,7 +24819,12 @@
         "level": 65
       }
     ],
-    "wikiNotes": "65 Thieving"
+    "wikiNotes": "65 Thieving",
+    "location": {
+      "x": 3286,
+      "y": 3180,
+      "plane": 0
+    }
   },
   {
     "structId": 2375,
@@ -22192,7 +24917,12 @@
         "level": 92
       }
     ],
-    "wikiNotes": "92 Agility Completion of   Sins of the Father"
+    "wikiNotes": "92 Agility Completion of   Sins of the Father",
+    "location": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    }
   },
   {
     "structId": 5188,
@@ -22211,7 +24941,12 @@
         "level": 92
       }
     ],
-    "wikiNotes": "92 Agility Completion of   Sins of the Father"
+    "wikiNotes": "92 Agility Completion of   Sins of the Father",
+    "location": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    }
   },
   {
     "structId": 2414,
@@ -22361,7 +25096,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 21,
-    "wikiNotes": "Gives 4 Sage's Renown, despite that system only appearing in the Shattered Relics League and has no effect here."
+    "wikiNotes": "Gives 4 Sage's Renown, despite that system only appearing in the Shattered Relics League and has no effect here.",
+    "location": {
+      "x": 3651,
+      "y": 3208,
+      "plane": 0
+    }
   },
   {
     "structId": 3888,
@@ -22373,7 +25113,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 6.8
+    "completionPercent": 6.8,
+    "location": {
+      "x": 3651,
+      "y": 3208,
+      "plane": 0
+    }
   },
   {
     "structId": 2089,
@@ -22385,7 +25130,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 0.7
+    "completionPercent": 0.7,
+    "location": {
+      "x": 3651,
+      "y": 3208,
+      "plane": 0
+    }
   },
   {
     "structId": 2468,
@@ -22530,7 +25280,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 4.2
+    "completionPercent": 4.2,
+    "location": {
+      "x": 3313,
+      "y": 10078,
+      "plane": 0
+    }
   },
   {
     "structId": 2520,
@@ -22542,7 +25297,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 2.4
+    "completionPercent": 2.4,
+    "location": {
+      "x": 3313,
+      "y": 10078,
+      "plane": 0
+    }
   },
   {
     "structId": 2524,
@@ -22700,7 +25460,12 @@
         "level": 96
       }
     ],
-    "wikiNotes": "96 Magic"
+    "wikiNotes": "96 Magic",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
   },
   {
     "structId": 2565,
@@ -22744,7 +25509,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 6.1
+    "completionPercent": 6.1,
+    "location": {
+      "x": 3266,
+      "y": 6069,
+      "plane": 0
+    }
   },
   {
     "structId": 2571,
@@ -22912,7 +25682,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 6.7
+    "completionPercent": 6.7,
+    "location": {
+      "x": 3871,
+      "y": 9952,
+      "plane": 0
+    }
   },
   {
     "structId": 5223,
@@ -22924,7 +25699,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 1.1
+    "completionPercent": 1.1,
+    "location": {
+      "x": 3871,
+      "y": 9952,
+      "plane": 0
+    }
   },
   {
     "structId": 5265,
@@ -23066,7 +25846,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 2.6,
-    "wikiNotes": "Completion of   The Frozen Door"
+    "wikiNotes": "Completion of   The Frozen Door",
+    "location": {
+      "x": 2975,
+      "y": 9955,
+      "plane": 0
+    }
   },
   {
     "structId": 3909,
@@ -23148,7 +25933,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 15.6
+    "completionPercent": 15.6,
+    "location": {
+      "x": 1128,
+      "y": 3417,
+      "plane": 0
+    }
   },
   {
     "structId": 4914,
@@ -23160,7 +25950,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 19.4
+    "completionPercent": 19.4,
+    "location": {
+      "x": 1128,
+      "y": 3417,
+      "plane": 0
+    }
   },
   {
     "structId": 4918,
@@ -23172,7 +25967,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 0.1
+    "completionPercent": 0.1,
+    "location": {
+      "x": 2656,
+      "y": 6369,
+      "plane": 0
+    }
   },
   {
     "structId": 4919,
@@ -23184,7 +25984,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 1
+    "completionPercent": 1,
+    "location": {
+      "x": 2656,
+      "y": 6369,
+      "plane": 0
+    }
   },
   {
     "structId": 4923,
@@ -23196,7 +26001,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 4.1
+    "completionPercent": 4.1,
+    "location": {
+      "x": 2081,
+      "y": 6372,
+      "plane": 0
+    }
   },
   {
     "structId": 4924,
@@ -23208,7 +26018,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 4.3
+    "completionPercent": 4.3,
+    "location": {
+      "x": 2081,
+      "y": 6372,
+      "plane": 0
+    }
   },
   {
     "structId": 4928,
@@ -23220,7 +26035,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 4.1
+    "completionPercent": 4.1,
+    "location": {
+      "x": 3039,
+      "y": 6454,
+      "plane": 0
+    }
   },
   {
     "structId": 4929,
@@ -23232,7 +26052,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 14.2
+    "completionPercent": 14.2,
+    "location": {
+      "x": 3039,
+      "y": 6454,
+      "plane": 0
+    }
   },
   {
     "structId": 4931,
@@ -23245,7 +26070,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 4.6,
-    "wikiNotes": "Completion of   Beneath Cursed Sands"
+    "wikiNotes": "Completion of   Beneath Cursed Sands",
+    "location": {
+      "x": 3348,
+      "y": 2722,
+      "plane": 0
+    }
   },
   {
     "structId": 5944,
@@ -23258,7 +26088,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 0.3,
-    "wikiNotes": "Completion of   Beneath Cursed Sands"
+    "wikiNotes": "Completion of   Beneath Cursed Sands",
+    "location": {
+      "x": 3348,
+      "y": 2722,
+      "plane": 0
+    }
   },
   {
     "structId": 4940,
@@ -23270,7 +26105,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 0.8
+    "completionPercent": 0.8,
+    "location": {
+      "x": 2909,
+      "y": 10317,
+      "plane": 0
+    }
   },
   {
     "structId": 4944,
@@ -23283,7 +26123,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 18.4,
-    "wikiNotes": "Completion of   TzHaar Fight Cave"
+    "wikiNotes": "Completion of   TzHaar Fight Cave",
+    "location": {
+      "x": 2543,
+      "y": 5111,
+      "plane": 0
+    }
   },
   {
     "structId": 4945,
@@ -23296,7 +26141,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 14.5,
-    "wikiNotes": "Completion of   TzHaar Fight Cave"
+    "wikiNotes": "Completion of   TzHaar Fight Cave",
+    "location": {
+      "x": 2543,
+      "y": 5111,
+      "plane": 0
+    }
   },
   {
     "structId": 4946,
@@ -23309,7 +26159,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 10.9,
-    "wikiNotes": "Completion of   TzHaar Fight Cave"
+    "wikiNotes": "Completion of   TzHaar Fight Cave",
+    "location": {
+      "x": 2543,
+      "y": 5111,
+      "plane": 0
+    }
   },
   {
     "structId": 4965,
@@ -23655,7 +26510,12 @@
         "level": 83
       }
     ],
-    "wikiNotes": "95 Construction,  83 Farming"
+    "wikiNotes": "95 Construction,  83 Farming",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
   },
   {
     "structId": 5095,
@@ -23735,7 +26595,12 @@
         "level": 90
       }
     ],
-    "wikiNotes": "90 Woodcutting"
+    "wikiNotes": "90 Woodcutting",
+    "location": {
+      "x": 1570,
+      "y": 3487,
+      "plane": 1
+    }
   },
   {
     "structId": 5123,
@@ -23754,7 +26619,12 @@
         "level": 63
       }
     ],
-    "wikiNotes": "63 Hunter"
+    "wikiNotes": "63 Hunter",
+    "location": {
+      "x": 2272,
+      "y": 3407,
+      "plane": 0
+    }
   },
   {
     "structId": 5125,
@@ -23861,7 +26731,12 @@
         "level": 91
       }
     ],
-    "wikiNotes": "91 Slayer"
+    "wikiNotes": "91 Slayer",
+    "location": {
+      "x": 1310,
+      "y": 1251,
+      "plane": 0
+    }
   },
   {
     "structId": 739,
@@ -23900,7 +26775,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 16.3
+    "completionPercent": 16.3,
+    "location": {
+      "x": 2268,
+      "y": 3073,
+      "plane": 0
+    }
   },
   {
     "structId": 5719,
@@ -23912,7 +26792,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 14.9
+    "completionPercent": 14.9,
+    "location": {
+      "x": 3319,
+      "y": 3798,
+      "plane": 0
+    }
   },
   {
     "structId": 5722,
@@ -23924,7 +26809,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 6.3
+    "completionPercent": 6.3,
+    "location": {
+      "x": 3219,
+      "y": 3788,
+      "plane": 0
+    }
   },
   {
     "structId": 5725,
@@ -23936,7 +26826,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 19.8
+    "completionPercent": 19.8,
+    "location": {
+      "x": 3291,
+      "y": 3849,
+      "plane": 0
+    }
   },
   {
     "structId": 5734,
@@ -23985,7 +26880,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 0.7,
-    "wikiNotes": "See The Whisperer#Combat Achievements Requires Kourend or Grimoire relic for Arceuus spellbook"
+    "wikiNotes": "See The Whisperer#Combat Achievements Requires Kourend or Grimoire relic for Arceuus spellbook",
+    "location": {
+      "x": 2656,
+      "y": 6369,
+      "plane": 0
+    }
   },
   {
     "structId": 5740,
@@ -23998,7 +26898,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 12,
-    "wikiNotes": "See Vardorvis#Combat Achievements"
+    "wikiNotes": "See Vardorvis#Combat Achievements",
+    "location": {
+      "x": 1128,
+      "y": 3417,
+      "plane": 0
+    }
   },
   {
     "structId": 5741,
@@ -24011,7 +26916,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 7.9,
-    "wikiNotes": "See Duke Sucellus#Combat Achievements"
+    "wikiNotes": "See Duke Sucellus#Combat Achievements",
+    "location": {
+      "x": 3039,
+      "y": 6454,
+      "plane": 0
+    }
   },
   {
     "structId": 5742,
@@ -24024,7 +26934,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 3.4,
-    "wikiNotes": "See The Leviathan#Combat Achievements"
+    "wikiNotes": "See The Leviathan#Combat Achievements",
+    "location": {
+      "x": 2081,
+      "y": 6372,
+      "plane": 0
+    }
   },
   {
     "structId": 5747,
@@ -24037,7 +26952,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 31.8,
-    "wikiNotes": "See Zulrah#Combat Achievements"
+    "wikiNotes": "See Zulrah#Combat Achievements",
+    "location": {
+      "x": 2268,
+      "y": 3073,
+      "plane": 0
+    }
   },
   {
     "structId": 5748,
@@ -24050,7 +26970,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 17.8,
-    "wikiNotes": "See Dagannoth Kings#Combat Achievements"
+    "wikiNotes": "See Dagannoth Kings#Combat Achievements",
+    "location": {
+      "x": 2631,
+      "y": 9667,
+      "plane": 0
+    }
   },
   {
     "structId": 5749,
@@ -24063,7 +26988,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 10.5,
-    "wikiNotes": "See Vorkath#Combat Achievements"
+    "wikiNotes": "See Vorkath#Combat Achievements",
+    "location": {
+      "x": 2269,
+      "y": 4062,
+      "plane": 0
+    }
   },
   {
     "structId": 5750,
@@ -24076,7 +27006,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 8.4,
-    "wikiNotes": "See Phantom Muspah#Combat Achievements"
+    "wikiNotes": "See Phantom Muspah#Combat Achievements",
+    "location": {
+      "x": 2909,
+      "y": 10317,
+      "plane": 0
+    }
   },
   {
     "structId": 5751,
@@ -24089,7 +27024,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 3.1,
-    "wikiNotes": "See The Nightmare#Combat Achievements"
+    "wikiNotes": "See The Nightmare#Combat Achievements",
+    "location": {
+      "x": 3871,
+      "y": 9952,
+      "plane": 0
+    }
   },
   {
     "structId": 5752,
@@ -24102,7 +27042,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 3.3,
-    "wikiNotes": "See Phosani's Nightmare#Combat Achievements"
+    "wikiNotes": "See Phosani's Nightmare#Combat Achievements",
+    "location": {
+      "x": 3871,
+      "y": 9952,
+      "plane": 0
+    }
   },
   {
     "structId": 5753,
@@ -24115,7 +27060,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 11.3,
-    "wikiNotes": "See Grotesque Guardians#Combat Achievements"
+    "wikiNotes": "See Grotesque Guardians#Combat Achievements",
+    "location": {
+      "x": 3428,
+      "y": 3543,
+      "plane": 2
+    }
   },
   {
     "structId": 5754,
@@ -24128,7 +27078,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 11,
-    "wikiNotes": "See Abyssal Sire#Combat Achievements"
+    "wikiNotes": "See Abyssal Sire#Combat Achievements",
+    "location": {
+      "x": 3107,
+      "y": 4791,
+      "plane": 0
+    }
   },
   {
     "structId": 5755,
@@ -24141,7 +27096,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 9.4,
-    "wikiNotes": "See Alchemical Hydra#Combat Achievements"
+    "wikiNotes": "See Alchemical Hydra#Combat Achievements",
+    "location": {
+      "x": 1364,
+      "y": 10265,
+      "plane": 0
+    }
   },
   {
     "structId": 5757,
@@ -25009,7 +27969,12 @@
         "level": 40
       }
     ],
-    "wikiNotes": "40 Ranged"
+    "wikiNotes": "40 Ranged",
+    "location": {
+      "x": 2670,
+      "y": 3421,
+      "plane": 0
+    }
   },
   {
     "structId": 2321,
@@ -25022,7 +27987,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 69.5,
-    "wikiNotes": "1,000,000 coins"
+    "wikiNotes": "1,000,000 coins",
+    "location": {
+      "x": 2712,
+      "y": 9471,
+      "plane": 0
+    }
   },
   {
     "structId": 2409,
@@ -25049,7 +28019,12 @@
         "level": 90
       }
     ],
-    "wikiNotes": "90 Runecraft,  38 Mining,  38 Crafting"
+    "wikiNotes": "90 Runecraft,  38 Mining,  38 Crafting",
+    "location": {
+      "x": 1581,
+      "y": 3847,
+      "plane": 0
+    }
   },
   {
     "structId": 2423,
@@ -25068,7 +28043,12 @@
         "level": 82
       }
     ],
-    "wikiNotes": "82 Fishing"
+    "wikiNotes": "82 Fishing",
+    "location": {
+      "x": 1828,
+      "y": 3769,
+      "plane": 0
+    }
   },
   {
     "structId": 2460,
@@ -25123,7 +28103,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 10.3,
-    "wikiNotes": "See Araxxor#Combat Achievements"
+    "wikiNotes": "See Araxxor#Combat Achievements",
+    "location": {
+      "x": 3635,
+      "y": 9815,
+      "plane": 0
+    }
   },
   {
     "structId": 3829,
@@ -25135,7 +28120,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 32.4
+    "completionPercent": 32.4,
+    "location": {
+      "x": 1805,
+      "y": 9508,
+      "plane": 0
+    }
   },
   {
     "structId": 3830,
@@ -25147,7 +28137,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 37.4
+    "completionPercent": 37.4,
+    "location": {
+      "x": 1805,
+      "y": 9508,
+      "plane": 0
+    }
   },
   {
     "structId": 3831,
@@ -25159,7 +28154,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 27.4
+    "completionPercent": 27.4,
+    "location": {
+      "x": 1805,
+      "y": 9508,
+      "plane": 0
+    }
   },
   {
     "structId": 3836,
@@ -25191,7 +28191,12 @@
     "tier": 4,
     "tierName": "Elite",
     "completionPercent": 24.2,
-    "wikiNotes": "See Moons of Peril#Combat Achievements"
+    "wikiNotes": "See Moons of Peril#Combat Achievements",
+    "location": {
+      "x": 1436,
+      "y": 3124,
+      "plane": 0
+    }
   },
   {
     "structId": 3859,
@@ -25210,7 +28215,12 @@
         "level": 91
       }
     ],
-    "wikiNotes": "91 Hunter"
+    "wikiNotes": "91 Hunter",
+    "location": {
+      "x": 1558,
+      "y": 9419,
+      "plane": 0
+    }
   },
   {
     "structId": 5909,
@@ -25229,7 +28239,12 @@
         "level": 79
       }
     ],
-    "wikiNotes": "79 Hunter"
+    "wikiNotes": "79 Hunter",
+    "location": {
+      "x": 1473,
+      "y": 3094,
+      "plane": 0
+    }
   },
   {
     "structId": 5911,
@@ -25279,7 +28294,12 @@
         "level": 92
       }
     ],
-    "wikiNotes": "92 Slayer"
+    "wikiNotes": "92 Slayer",
+    "location": {
+      "x": 3635,
+      "y": 9815,
+      "plane": 0
+    }
   },
   {
     "structId": 5916,
@@ -25352,7 +28372,12 @@
         "level": 60
       }
     ],
-    "wikiNotes": "60 Herblore"
+    "wikiNotes": "60 Herblore",
+    "location": {
+      "x": 1394,
+      "y": 9327,
+      "plane": 0
+    }
   },
   {
     "structId": 5937,
@@ -25364,7 +28389,12 @@
     "skill": "All",
     "tier": 4,
     "tierName": "Elite",
-    "completionPercent": 11.3
+    "completionPercent": 11.3,
+    "location": {
+      "x": 1700,
+      "y": 3100,
+      "plane": 0
+    }
   },
   {
     "structId": 5938,
@@ -25441,7 +28471,12 @@
         "level": 85
       }
     ],
-    "wikiNotes": "85 Smithing"
+    "wikiNotes": "85 Smithing",
+    "location": {
+      "x": 1946,
+      "y": 4959,
+      "plane": 0
+    }
   },
   {
     "structId": 1936,
@@ -25603,7 +28638,12 @@
         "level": 99
       }
     ],
-    "wikiNotes": "99 Construction Fremennik or Varlamore"
+    "wikiNotes": "99 Construction Fremennik or Varlamore",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
   },
   {
     "structId": 4886,
@@ -25640,7 +28680,12 @@
     "skill": "All",
     "tier": 5,
     "tierName": "Master",
-    "completionPercent": 0.2
+    "completionPercent": 0.2,
+    "location": {
+      "x": 2496,
+      "y": 5115,
+      "plane": 0
+    }
   },
   {
     "structId": 2221,
@@ -26089,7 +29134,12 @@
     "tier": 5,
     "tierName": "Master",
     "completionPercent": 1,
-    "wikiNotes": "See Inferno#Combat Achievements"
+    "wikiNotes": "See Inferno#Combat Achievements",
+    "location": {
+      "x": 2496,
+      "y": 5115,
+      "plane": 0
+    }
   },
   {
     "structId": 5738,
@@ -26102,7 +29152,12 @@
     "tier": 5,
     "tierName": "Master",
     "completionPercent": 4.3,
-    "wikiNotes": "See TzHaar Fight Cave#Combat Achievements"
+    "wikiNotes": "See TzHaar Fight Cave#Combat Achievements",
+    "location": {
+      "x": 2437,
+      "y": 5168,
+      "plane": 0
+    }
   },
   {
     "structId": 5743,
@@ -26115,7 +29170,12 @@
     "tier": 5,
     "tierName": "Master",
     "completionPercent": 0.2,
-    "wikiNotes": "See Chambers of Xeric#Combat Achievements"
+    "wikiNotes": "See Chambers of Xeric#Combat Achievements",
+    "location": {
+      "x": 1232,
+      "y": 3573,
+      "plane": 0
+    }
   },
   {
     "structId": 5744,
@@ -26128,7 +29188,12 @@
     "tier": 5,
     "tierName": "Master",
     "completionPercent": 0.1,
-    "wikiNotes": "See Theatre of Blood#Combat Achievements"
+    "wikiNotes": "See Theatre of Blood#Combat Achievements",
+    "location": {
+      "x": 3651,
+      "y": 3208,
+      "plane": 0
+    }
   },
   {
     "structId": 5745,
@@ -26141,7 +29206,12 @@
     "tier": 5,
     "tierName": "Master",
     "completionPercent": 0.2,
-    "wikiNotes": "See Tombs of Amascut#Combat Achievements"
+    "wikiNotes": "See Tombs of Amascut#Combat Achievements",
+    "location": {
+      "x": 3348,
+      "y": 2722,
+      "plane": 0
+    }
   },
   {
     "structId": 5746,
@@ -26154,7 +29224,12 @@
     "tier": 5,
     "tierName": "Master",
     "completionPercent": 4.1,
-    "wikiNotes": "See General Graardor#Combat Achievements, Kree'arra#Combat Achievements, Commander Zilyana#Combat Achievements, K'ril Tsutsaroth#Combat Achievements and Nex#Combat Achievements"
+    "wikiNotes": "See General Graardor#Combat Achievements, Kree'arra#Combat Achievements, Commander Zilyana#Combat Achievements, K'ril Tsutsaroth#Combat Achievements and Nex#Combat Achievements",
+    "location": {
+      "x": 2872,
+      "y": 5311,
+      "plane": 2
+    }
   },
   {
     "structId": 5756,
@@ -26167,7 +29242,12 @@
     "tier": 5,
     "tierName": "Master",
     "completionPercent": 15.8,
-    "wikiNotes": "See Gauntlet#Combat Achievements and See Corrupted Gauntlet#Combat Achievements"
+    "wikiNotes": "See Gauntlet#Combat Achievements and See Corrupted Gauntlet#Combat Achievements",
+    "location": {
+      "x": 3228,
+      "y": 6116,
+      "plane": 0
+    }
   },
   {
     "structId": 5775,
@@ -26192,7 +29272,12 @@
     "tier": 5,
     "tierName": "Master",
     "completionPercent": 4.3,
-    "wikiNotes": "See TzHaar-Ket-Rak's Challenges#Combat Achievements"
+    "wikiNotes": "See TzHaar-Ket-Rak's Challenges#Combat Achievements",
+    "location": {
+      "x": 2543,
+      "y": 5111,
+      "plane": 0
+    }
   },
   {
     "structId": 5840,
@@ -26205,7 +29290,12 @@
     "tier": 5,
     "tierName": "Master",
     "completionPercent": 1.8,
-    "wikiNotes": "Completion of   Fight caves. The league-only challenge  appears and can be played after completing TzHaar-Ket-Rak's sixth Challenge."
+    "wikiNotes": "Completion of   Fight caves. The league-only challenge  appears and can be played after completing TzHaar-Ket-Rak's sixth Challenge.",
+    "location": {
+      "x": 2543,
+      "y": 5111,
+      "plane": 0
+    }
   },
   {
     "structId": 2322,
@@ -26229,7 +29319,12 @@
     "skill": "All",
     "tier": 5,
     "tierName": "Master",
-    "completionPercent": 3.8
+    "completionPercent": 3.8,
+    "location": {
+      "x": 1805,
+      "y": 9508,
+      "plane": 0
+    }
   },
   {
     "structId": 3835,
@@ -26261,7 +29356,12 @@
     "tier": 5,
     "tierName": "Master",
     "completionPercent": 3.8,
-    "wikiNotes": "See Fortis Colosseum#Combat Achievements"
+    "wikiNotes": "See Fortis Colosseum#Combat Achievements",
+    "location": {
+      "x": 1805,
+      "y": 9508,
+      "plane": 0
+    }
   },
   {
     "structId": 3846,
@@ -26273,7 +29373,12 @@
     "skill": "All",
     "tier": 5,
     "tierName": "Master",
-    "completionPercent": 29.8
+    "completionPercent": 29.8,
+    "location": {
+      "x": 1823,
+      "y": 3123,
+      "plane": 0
+    }
   },
   {
     "structId": 3847,
@@ -26285,7 +29390,12 @@
     "skill": "All",
     "tier": 5,
     "tierName": "Master",
-    "completionPercent": 27.2
+    "completionPercent": 27.2,
+    "location": {
+      "x": 1823,
+      "y": 3123,
+      "plane": 0
+    }
   },
   {
     "structId": 1934,
