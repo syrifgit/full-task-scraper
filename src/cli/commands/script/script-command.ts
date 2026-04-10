@@ -2,7 +2,7 @@ import { Injectable } from '@nestjs/common';
 import { ScriptService } from '../../../core/services/script/script.service';
 import { ScriptAnalysisService } from '../../../core/services/script/script-analysis.service';
 import { Rs2asmFormatter } from '../../../core/services/script/rs2asm-formatter';
-import { writeFileSync, mkdirSync } from 'fs';
+import { writeFileSync, mkdirSync } from 'node:fs';
 
 @Injectable()
 export class ScriptCommand {
@@ -111,10 +111,8 @@ export class ScriptCommand {
     }
 
     if (options.output) {
-      // Save to file (would need fs module)
-      console.log(`💾 Saving to ${options.output}...`);
-      // TODO: Implement file saving
-      console.log('File saving not yet implemented');
+      writeFileSync(options.output, rs2asm);
+      console.log(`💾 Saved to ${options.output}`);
     } else {
       console.log(rs2asm);
     }

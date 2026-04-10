@@ -1,7 +1,7 @@
 import { ParamID, Struct } from '@abextm/cache2';
 import { Injectable } from '@nestjs/common';
 import axios from 'axios';
-import { writeFileSync, mkdirSync, readFileSync, existsSync } from 'fs';
+import { writeFileSync, mkdirSync, readFileSync, existsSync } from 'node:fs';
 import * as path from 'path';
 import { StructService } from '../../../core/services/struct/struct.service';
 import { EnumService } from '../../../core/services/enum/enum.service';
@@ -17,6 +17,9 @@ import { LEAGUE_5_COLUMNS } from './column-definitions/league-5-columns';
 
 @Injectable()
 export class TasksCommand {
+  private static readonly TASK_TYPES_URL =
+    'https://raw.githubusercontent.com/osrs-reldo/task-json-store/refs/heads/main/task-types.json';
+
   constructor(
     private structService: StructService,
     private enumService: EnumService,
@@ -84,7 +87,7 @@ export class TasksCommand {
   }
 
   public async handleGenerateFullTasks(taskTypeName: string | undefined): Promise<void> {
-    const taskTypesUrl = 'https://raw.githubusercontent.com/osrs-reldo/task-json-store/refs/heads/main/task-types.json';
+    const taskTypesUrl = TasksCommand.TASK_TYPES_URL;
 
     // 0. If no task type specified, detect the active league from metadata
     if (!taskTypeName) {
@@ -284,7 +287,7 @@ export class TasksCommand {
     }
 
     // We need the id param to match wiki rows to tasks by varbit index
-    const taskTypesUrl = 'https://raw.githubusercontent.com/osrs-reldo/task-json-store/refs/heads/main/task-types.json';
+    const taskTypesUrl = TasksCommand.TASK_TYPES_URL;
     const taskTypesResponse = await axios.get(taskTypesUrl);
     const taskTypes: ITaskType[] = taskTypesResponse.data;
     const taskType = taskTypes.find(
@@ -541,7 +544,7 @@ export class TasksCommand {
   public async handleUpdateVarps(options: any): Promise<ITaskType> {
     console.log('🔧 Updating task varps...');
     
-    const taskTypesUrl = 'https://raw.githubusercontent.com/osrs-reldo/task-json-store/refs/heads/main/task-types.json';
+    const taskTypesUrl = TasksCommand.TASK_TYPES_URL;
     
     // Load task-type definitions from GitHub
     console.log(`📡 Fetching task-types from ${taskTypesUrl}...`);

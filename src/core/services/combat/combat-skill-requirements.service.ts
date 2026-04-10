@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { readFileSync } from 'fs';
+import { readFileSync } from 'node:fs';
 import * as path from 'path';
 import { QuestRequirementsService } from '../quests/quest-requirements.service';
 import { ITask, ITaskSkill } from '../../types/task-mockup.interface';

@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { writeFileSync } from 'fs';
+import { writeFileSync } from 'node:fs';
 import * as path from 'path';
 import { QuestRequirementsService } from '../../../core/services/quests/quest-requirements.service';
 

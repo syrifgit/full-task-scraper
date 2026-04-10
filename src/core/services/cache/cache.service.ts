@@ -1,6 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import axios from 'axios';
-import * as fs from 'fs';
+import * as fs from 'node:fs';
 import * as path from 'path';
 
 const GITHUB_API_URL = 'https://api.github.com/repos';

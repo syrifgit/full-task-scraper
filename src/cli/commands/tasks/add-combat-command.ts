@@ -8,7 +8,6 @@ export const combatCommand = new Command('combat').description('combat achieveme
 combatCommand
   .command('generate')
   .option('--json', 'output to json file', false)
-  .option('--legacy', 'outputs legacy task json format', false)
   .action(async (options: any) => {
     const command: CombatCommand = await getCommandInstance(CombatCommand, CombatCommandModule);
     await command.handleCombatTasks(options);

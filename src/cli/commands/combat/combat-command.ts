@@ -1,6 +1,6 @@
 import { ParamID, Struct } from '@abextm/cache2';
 import { Injectable } from '@nestjs/common';
-import { readFileSync, writeFileSync, mkdirSync } from 'fs';
+import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { PARAM_ID } from '../../../core/data/param-ids';
 import { replacer } from '../../../core/json-replacer';
 import { CombatSkillRequirementsService } from '../../../core/services/combat/combat-skill-requirements.service';
@@ -36,30 +36,10 @@ export class CombatCommand {
       allTaskStructs.push(taskStruct);
     }
 
-    let allTasksFormatted: any[] = [];
-
-    if (options.legacy) {
-      allTasksFormatted = allTaskStructs.map((s, i) => {
-        const out = {
-          id: '' + (s.params.get(PARAM_ID.CA_VARBIT_INDEX) as number),
-          monster: '' + (s.params.get(PARAM_ID.CA_MONSTER_ID) as number),
-          name: s.params.get(PARAM_ID.CA_NAME) as string,
-          description: s.params.get(PARAM_ID.CA_DESCRIPTION) as string,
-          category: '',
-          tier: this.getLegacyTier(s.params.get(PARAM_ID.CA_TIER_ID) as number),
-          clientSortId: '' + i,
-        };
-        return out;
-      });
-    } else {
-      allTasksFormatted = allTaskStructs.map((s, i) => {
-        const out: ITask = {
-          structId: s.id,
-          sortId: i,
-        };
-        return out;
-      });
-    }
+    const allTasksFormatted: ITask[] = allTaskStructs.map((s, i) => ({
+      structId: s.id,
+      sortId: i,
+    }));
 
     if (options.json) {
       this.writeToFile(allTasksFormatted, 'combat.json');
@@ -132,22 +112,4 @@ export class CombatCommand {
     writeFileSync('./out/' + fileNameAndPath, JSON.stringify(obj, null));
   }
 
-  private getLegacyTier(value: number): string {
-    switch (value) {
-      case 1:
-        return 'Easy';
-      case 2:
-        return 'Medium';
-      case 3:
-        return 'Hard';
-      case 4:
-        return 'Elite';
-      case 5:
-        return 'Master';
-      case 6:
-        return 'Grandmaster';
-      default:
-        throw new Error('invalid value ' + value);
-    }
-  }
 }

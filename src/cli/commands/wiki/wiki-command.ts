@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { writeFileSync, mkdirSync } from 'fs';
+import { writeFileSync, mkdirSync } from 'node:fs';
 import { IColumnDefinitions } from '../../../core/services/wiki/column-definitions.interface';
 import { WikiService } from '../../../core/services/wiki/wiki.service';
 import { InteractivePrompt } from '../../interactive-prompt.util';
