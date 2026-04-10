@@ -1,0 +1,996 @@
+{
+  "_comment": "Extracted from shortest-path plugin. All coords are guaranteed walkable tiles.",
+  "banks": {
+    "Keldagrim": {
+      "x": 2836,
+      "y": 10207,
+      "plane": 0
+    },
+    "Al Kharid": {
+      "x": 3269,
+      "y": 3169,
+      "plane": 0
+    },
+    "Draynor Village": {
+      "x": 3092,
+      "y": 3245,
+      "plane": 0
+    },
+    "Edgeville": {
+      "x": 3098,
+      "y": 3494,
+      "plane": 0
+    },
+    "Warriors' Guild": {
+      "x": 2843,
+      "y": 3543,
+      "plane": 0
+    },
+    "Catherby": {
+      "x": 2807,
+      "y": 3441,
+      "plane": 0
+    },
+    "Ardougne": {
+      "x": 2655,
+      "y": 3286,
+      "plane": 0
+    },
+    "Fishing Guild": {
+      "x": 2586,
+      "y": 3422,
+      "plane": 0
+    },
+    "Yanille": {
+      "x": 2613,
+      "y": 3094,
+      "plane": 0
+    },
+    "Tree Gnome Stronghold": {
+      "x": 2446,
+      "y": 3427,
+      "plane": 1
+    },
+    "Nardah": {
+      "x": 3427,
+      "y": 2894,
+      "plane": 0
+    },
+    "Varrock": {
+      "x": 3256,
+      "y": 3420,
+      "plane": 0
+    },
+    "Grand Exchange": {
+      "x": 3162,
+      "y": 3489,
+      "plane": 0
+    },
+    "Cooks' Guild": {
+      "x": 3148,
+      "y": 3450,
+      "plane": 0
+    },
+    "Corsair Cove": {
+      "x": 2569,
+      "y": 2864,
+      "plane": 0
+    },
+    "Farming Guild": {
+      "x": 1249,
+      "y": 3758,
+      "plane": 0
+    },
+    "Kourend Castle": {
+      "x": 1613,
+      "y": 3681,
+      "plane": 2
+    },
+    "Clan Hall": {
+      "x": 1748,
+      "y": 5476,
+      "plane": 0
+    },
+    "Mos Le'Harmless": {
+      "x": 3680,
+      "y": 2983,
+      "plane": 0
+    },
+    "Burgh de Rott": {
+      "x": 3495,
+      "y": 3211,
+      "plane": 0
+    },
+    "Void Knights' Output": {
+      "x": 2668,
+      "y": 2653,
+      "plane": 0
+    },
+    "Port Phasmatys": {
+      "x": 3691,
+      "y": 3466,
+      "plane": 0
+    },
+    "Lunar Isle": {
+      "x": 2099,
+      "y": 3919,
+      "plane": 0
+    },
+    "Lumbridge Castle": {
+      "x": 3209,
+      "y": 3220,
+      "plane": 2
+    },
+    "Sophanem": {
+      "x": 2801,
+      "y": 5169,
+      "plane": 0
+    },
+    "Dorgesh-Kaan": {
+      "x": 2701,
+      "y": 5352,
+      "plane": 0
+    },
+    "Falador": {
+      "x": 3015,
+      "y": 3355,
+      "plane": 0
+    },
+    "Canifis": {
+      "x": 3512,
+      "y": 3483,
+      "plane": 0
+    },
+    "Seers' Village": {
+      "x": 2729,
+      "y": 3493,
+      "plane": 0
+    },
+    "Hosidius": {
+      "x": 1748,
+      "y": 3600,
+      "plane": 0
+    },
+    "Port Piscarilius": {
+      "x": 1808,
+      "y": 3790,
+      "plane": 0
+    },
+    "Arceuus": {
+      "x": 1635,
+      "y": 3749,
+      "plane": 0
+    },
+    "Lovakengj": {
+      "x": 1530,
+      "y": 3740,
+      "plane": 0
+    },
+    "Ver Sinhaza": {
+      "x": 3652,
+      "y": 3208,
+      "plane": 0
+    },
+    "Prifddinas": {
+      "x": 3295,
+      "y": 6060,
+      "plane": 0
+    },
+    "Darkmeyer": {
+      "x": 3607,
+      "y": 3367,
+      "plane": 0
+    },
+    "Ape Atoll": {
+      "x": 2780,
+      "y": 2783,
+      "plane": 0
+    },
+    "Barbarian Outpost": {
+      "x": 2536,
+      "y": 3573,
+      "plane": 0
+    },
+    "Land's End": {
+      "x": 1512,
+      "y": 3421,
+      "plane": 0
+    },
+    "Castle Wars": {
+      "x": 2443,
+      "y": 3083,
+      "plane": 0
+    },
+    "Trouble Brewing": {
+      "x": 3810,
+      "y": 3021,
+      "plane": 0
+    },
+    "Mining Guild": {
+      "x": 3013,
+      "y": 9718,
+      "plane": 0
+    },
+    "Woodcutting Guild": {
+      "x": 1551,
+      "y": 9873,
+      "plane": 0
+    },
+    "Port Khazard": {
+      "x": 2661,
+      "y": 3162,
+      "plane": 0
+    },
+    "Mage Arena": {
+      "x": 2534,
+      "y": 4712,
+      "plane": 0
+    },
+    "Rogues' Den": {
+      "x": 3040,
+      "y": 4969,
+      "plane": 1
+    },
+    "Blast Furnace": {
+      "x": 1948,
+      "y": 4957,
+      "plane": 0
+    },
+    "Motherlode Mine": {
+      "x": 3760,
+      "y": 5666,
+      "plane": 0
+    },
+    "Ferox Enclave": {
+      "x": 3130,
+      "y": 3631,
+      "plane": 0
+    },
+    "Zanaris": {
+      "x": 2381,
+      "y": 4460,
+      "plane": 0
+    },
+    "Mount Quidamortem": {
+      "x": 1254,
+      "y": 3571,
+      "plane": 0
+    },
+    "Myths' Guild": {
+      "x": 2465,
+      "y": 2848,
+      "plane": 1
+    },
+    "Hallowed Sepulchre": {
+      "x": 2404,
+      "y": 5986,
+      "plane": 0
+    },
+    "Crafting Guild": {
+      "x": 2935,
+      "y": 3280,
+      "plane": 0
+    },
+    "Daimon's Crater": {
+      "x": 3426,
+      "y": 4069,
+      "plane": 0
+    },
+    "Fortis Colosseum": {
+      "x": 1804,
+      "y": 9501,
+      "plane": 0
+    },
+    "Fossil Island Volcano": {
+      "x": 3819,
+      "y": 3809,
+      "plane": 0
+    },
+    "Giants' Foundry": {
+      "x": 3374,
+      "y": 11493,
+      "plane": 0
+    },
+    "Hosidius Sand Crabs": {
+      "x": 1719,
+      "y": 3465,
+      "plane": 0
+    },
+    "Hunter Guild": {
+      "x": 1542,
+      "y": 3040,
+      "plane": 0
+    },
+    "Mage Training Arena": {
+      "x": 3365,
+      "y": 3318,
+      "plane": 1
+    },
+    "Mor Ul Rek": {
+      "x": 2543,
+      "y": 5141,
+      "plane": 0
+    },
+    "Mount Karuulm": {
+      "x": 1324,
+      "y": 3824,
+      "plane": 0
+    },
+    "Fossil Island Museum Camp": {
+      "x": 3741,
+      "y": 3805,
+      "plane": 0
+    },
+    "Neitiznot": {
+      "x": 2339,
+      "y": 3807,
+      "plane": 0
+    },
+    "Hosidius Vinery": {
+      "x": 1809,
+      "y": 3566,
+      "plane": 0
+    },
+    "Hosidius Kitchen": {
+      "x": 1676,
+      "y": 3615,
+      "plane": 0
+    },
+    "Shayzien Encampment": {
+      "x": 1486,
+      "y": 3646,
+      "plane": 0
+    },
+    "Ruins of Camdozaal": {
+      "x": 2978,
+      "y": 5798,
+      "plane": 0
+    },
+    "Ruins of Unkah": {
+      "x": 3156,
+      "y": 2835,
+      "plane": 0
+    },
+    "Shantay Pass": {
+      "x": 3308,
+      "y": 3120,
+      "plane": 0
+    },
+    "Soul Wars": {
+      "x": 2212,
+      "y": 2859,
+      "plane": 0
+    },
+    "Sulphur Mine": {
+      "x": 1501,
+      "y": 3871,
+      "plane": 0
+    },
+    "Temple of the Eye": {
+      "x": 3618,
+      "y": 9473,
+      "plane": 0
+    },
+    "Wintertodt Camp": {
+      "x": 1640,
+      "y": 3944,
+      "plane": 0
+    },
+    "Great Conch": {
+      "x": 3182,
+      "y": 2418,
+      "plane": 0
+    },
+    "Legends' Guild": {
+      "x": 2732,
+      "y": 3381,
+      "plane": 2
+    },
+    "Pandemonium": {
+      "x": 3039,
+      "y": 2999,
+      "plane": 0
+    }
+  },
+  "altars": {
+    "Tal Teklan": {
+      "x": 1226,
+      "y": 3105,
+      "plane": 0
+    },
+    "Tutorial Island": {
+      "x": 1712,
+      "y": 6114,
+      "plane": 0
+    },
+    "West Ardougne": {
+      "x": 2529,
+      "y": 3287,
+      "plane": 0
+    },
+    "Ardougne Monastery": {
+      "x": 2605,
+      "y": 3209,
+      "plane": 0
+    },
+    "East Ardougne": {
+      "x": 2617,
+      "y": 3308,
+      "plane": 0
+    },
+    "Seers' Village": {
+      "x": 2695,
+      "y": 3462,
+      "plane": 0
+    },
+    "Port Sarim": {
+      "x": 2996,
+      "y": 3177,
+      "plane": 0
+    },
+    "Lumbridge": {
+      "x": 3243,
+      "y": 3208,
+      "plane": 0
+    },
+    "Varrock Palace": {
+      "x": 3209,
+      "y": 3494,
+      "plane": 1
+    },
+    "Emir's Arena": {
+      "x": 3376,
+      "y": 3284,
+      "plane": 0
+    },
+    "Paterdomus Temple": {
+      "x": 3415,
+      "y": 3488,
+      "plane": 0
+    },
+    "Edgeville Monastery": {
+      "x": 3051,
+      "y": 3497,
+      "plane": 1
+    },
+    "Well of Voyage": {
+      "x": 2340,
+      "y": 9629,
+      "plane": 0
+    },
+    "Jaldraocht Pyramid": {
+      "x": 3231,
+      "y": 9311,
+      "plane": 0
+    },
+    "Gorlah": {
+      "x": 2283,
+      "y": 3428,
+      "plane": 0
+    },
+    "Lletya": {
+      "x": 2355,
+      "y": 3171,
+      "plane": 1
+    },
+    "Prifddinas": {
+      "x": 3246,
+      "y": 6115,
+      "plane": 0
+    },
+    "Tower of Voices": {
+      "x": 3263,
+      "y": 6090,
+      "plane": 2
+    },
+    "Varrock": {
+      "x": 3253,
+      "y": 3485,
+      "plane": 0
+    },
+    "Camelot": {
+      "x": 2749,
+      "y": 3497,
+      "plane": 1
+    },
+    "Heroes' Guild": {
+      "x": 2890,
+      "y": 3510,
+      "plane": 1
+    },
+    "Sophanem": {
+      "x": 3281,
+      "y": 2773,
+      "plane": 0
+    },
+    "Arceuus church": {
+      "x": 1690,
+      "y": 3793,
+      "plane": 2
+    },
+    "Xeric's Shrine": {
+      "x": 1310,
+      "y": 3618,
+      "plane": 0
+    },
+    "Molch": {
+      "x": 1283,
+      "y": 3677,
+      "plane": 0
+    },
+    "Myths' Guild": {
+      "x": 2457,
+      "y": 2840,
+      "plane": 2
+    },
+    "East of Ferox Enclave": {
+      "x": 3176,
+      "y": 3625,
+      "plane": 0
+    },
+    "Clan Hall": {
+      "x": 1774,
+      "y": 5467,
+      "plane": 0
+    },
+    "Shayzien": {
+      "x": 1497,
+      "y": 3563,
+      "plane": 0
+    },
+    "Goblin Temple": {
+      "x": 3741,
+      "y": 4320,
+      "plane": 0
+    },
+    "Kourend Castle": {
+      "x": 1616,
+      "y": 3673,
+      "plane": 2
+    },
+    "Witchaven": {
+      "x": 2727,
+      "y": 3283,
+      "plane": 0
+    },
+    "South of Hosidius": {
+      "x": 1743,
+      "y": 3499,
+      "plane": 0
+    },
+    "Hosidius": {
+      "x": 1733,
+      "y": 3573,
+      "plane": 0
+    },
+    "Lovakengj": {
+      "x": 1546,
+      "y": 3808,
+      "plane": 0
+    },
+    "Lunar Isle": {
+      "x": 2156,
+      "y": 3864,
+      "plane": 0
+    },
+    "Giants' Plateau": {
+      "x": 3420,
+      "y": 3180,
+      "plane": 0
+    },
+    "Ancient Prison": {
+      "x": 2938,
+      "y": 5202,
+      "plane": 0
+    },
+    "Ferox Enclave": {
+      "x": 3127,
+      "y": 3636,
+      "plane": 0
+    }
+  },
+  "canoe_stations": {
+    "Edgeville": {
+      "x": 3132,
+      "y": 3510,
+      "plane": 0
+    },
+    "Barbarian Village": {
+      "x": 3112,
+      "y": 3411,
+      "plane": 0
+    },
+    "Champions' Guild": {
+      "x": 3202,
+      "y": 3343,
+      "plane": 0
+    },
+    "Lumbridge": {
+      "x": 3243,
+      "y": 3237,
+      "plane": 0
+    },
+    "Ferox Enclave": {
+      "x": 3154,
+      "y": 3630,
+      "plane": 0
+    },
+    "Castle Wars": {
+      "x": 2439,
+      "y": 3135,
+      "plane": 0
+    },
+    "Tree Gnome Village": {
+      "x": 2485,
+      "y": 3192,
+      "plane": 0
+    },
+    "The Clock Tower": {
+      "x": 2579,
+      "y": 3260,
+      "plane": 0
+    },
+    "Chaos Druid Tower": {
+      "x": 2573,
+      "y": 3358,
+      "plane": 0
+    },
+    "Tree Gnome Stronghold": {
+      "x": 2525,
+      "y": 3408,
+      "plane": 0
+    }
+  },
+  "charter_ports": {
+    "Aldarin": {
+      "x": 1455,
+      "y": 2968,
+      "plane": 0
+    },
+    "Brimhaven": {
+      "x": 2760,
+      "y": 3238,
+      "plane": 0
+    },
+    "Catherby": {
+      "x": 2792,
+      "y": 3414,
+      "plane": 0
+    },
+    "Civitas illa Fortis": {
+      "x": 1743,
+      "y": 3136,
+      "plane": 0
+    },
+    "Corsair Cove": {
+      "x": 2589,
+      "y": 2851,
+      "plane": 0
+    },
+    "Land's End": {
+      "x": 1496,
+      "y": 3403,
+      "plane": 0
+    },
+    "Mos Le'Harmless": {
+      "x": 3671,
+      "y": 2931,
+      "plane": 0
+    },
+    "Musa Point": {
+      "x": 2954,
+      "y": 3158,
+      "plane": 0
+    },
+    "Port Khazard": {
+      "x": 2674,
+      "y": 3144,
+      "plane": 0
+    },
+    "Port Phasmatys": {
+      "x": 3702,
+      "y": 3503,
+      "plane": 0
+    },
+    "Port Piscarilius": {
+      "x": 1808,
+      "y": 3679,
+      "plane": 0
+    },
+    "Port Sarim": {
+      "x": 3038,
+      "y": 3192,
+      "plane": 0
+    },
+    "Port Tyras": {
+      "x": 2142,
+      "y": 3122,
+      "plane": 0
+    },
+    "Prifddinas": {
+      "x": 2157,
+      "y": 3330,
+      "plane": 0
+    },
+    "Ship Yard": {
+      "x": 3001,
+      "y": 3032,
+      "plane": 0
+    },
+    "Sunset Coast": {
+      "x": 1514,
+      "y": 2971,
+      "plane": 0
+    }
+  },
+  "carpet_stops": {
+    "Uzer": {
+      "x": 3467,
+      "y": 3110,
+      "plane": 0
+    },
+    "Shantay Pass": {
+      "x": 3311,
+      "y": 3109,
+      "plane": 0
+    },
+    "Bedabin Camp": {
+      "x": 3182,
+      "y": 3043,
+      "plane": 0
+    },
+    "Pollnivneach": {
+      "x": 3350,
+      "y": 3001,
+      "plane": 0
+    },
+    "Nardah": {
+      "x": 3401,
+      "y": 2918,
+      "plane": 0
+    },
+    "Sophanem": {
+      "x": 3287,
+      "y": 2813,
+      "plane": 0
+    },
+    "Menaphos": {
+      "x": 3243,
+      "y": 2813,
+      "plane": 0
+    }
+  },
+  "boat_departures": {
+    "Fishing Platform": {
+      "x": 2720,
+      "y": 3301,
+      "plane": 0
+    },
+    "Post Phasmatys": {
+      "x": 3680,
+      "y": 3536,
+      "plane": 0
+    },
+    "Port Phasmatys": {
+      "x": 3703,
+      "y": 3487,
+      "plane": 0
+    },
+    "Mort Myre": {
+      "x": 3498,
+      "y": 3380,
+      "plane": 0
+    },
+    "Rellekka": {
+      "x": 2621,
+      "y": 3683,
+      "plane": 0
+    },
+    "Fossil Island": {
+      "x": 3660,
+      "y": 3848,
+      "plane": 0
+    },
+    "Hosidius": {
+      "x": 1783,
+      "y": 3458,
+      "plane": 0
+    },
+    "Crash Island": {
+      "x": 2892,
+      "y": 2724,
+      "plane": 0
+    },
+    "Al Kharid": {
+      "x": 3271,
+      "y": 3144,
+      "plane": 0
+    },
+    "Stranglewood": {
+      "x": 1229,
+      "y": 3470,
+      "plane": 0
+    },
+    "Molch Island": {
+      "x": 1384,
+      "y": 3665,
+      "plane": 0
+    },
+    "Burgh de Rott": {
+      "x": 3525,
+      "y": 3170,
+      "plane": 0
+    },
+    "Achilka boat between Kastori": {
+      "x": 1390,
+      "y": 3073,
+      "plane": 0
+    },
+    "Rowboat over Custodia's lake": {
+      "x": 1256,
+      "y": 3394,
+      "plane": 0
+    },
+    "Keldagrim boats": {
+      "x": 2841,
+      "y": 10129,
+      "plane": 0
+    },
+    "Angler's Retreat Boat": {
+      "x": 2543,
+      "y": 2844,
+      "plane": 0
+    },
+    "Kathy Corkat boat from Piscatoris to Gnome Stronghold (50 coins before Swan Song varbit 2098=200)": {
+      "x": 2357,
+      "y": 3641,
+      "plane": 0
+    }
+  },
+  "ship_departures": {
+    "Port Sarim": {
+      "x": 3029,
+      "y": 3217,
+      "plane": 0
+    },
+    "Musa Point": {
+      "x": 2956,
+      "y": 3146,
+      "plane": 0
+    },
+    "Ardougne": {
+      "x": 2683,
+      "y": 3271,
+      "plane": 0
+    },
+    "Rimmington": {
+      "x": 2909,
+      "y": 3226,
+      "plane": 0
+    },
+    "Digsite": {
+      "x": 3362,
+      "y": 3445,
+      "plane": 0
+    },
+    "Lady of the Waves: Cairn Isle": {
+      "x": 2763,
+      "y": 2960,
+      "plane": 1
+    },
+    "Port Phasmatys": {
+      "x": 3709,
+      "y": 3496,
+      "plane": 0
+    },
+    "Rellekka": {
+      "x": 2629,
+      "y": 3693,
+      "plane": 0
+    },
+    "Pirates' Cove": {
+      "x": 2222,
+      "y": 3796,
+      "plane": 2
+    }
+  },
+  "farming_patches": {
+    "_comment": "Farming patch coords from OSRS wiki. Keyed by location name (matched against task description).",
+    "Lumbridge": {
+      "x": 3193,
+      "y": 3231,
+      "plane": 0,
+      "_type": "tree"
+    },
+    "Varrock": {
+      "x": 3229,
+      "y": 3459,
+      "plane": 0,
+      "_type": "tree"
+    },
+    "Taverley": {
+      "x": 3004,
+      "y": 3373,
+      "plane": 0,
+      "_type": "tree"
+    },
+    "Gnome Stronghold": {
+      "x": 2936,
+      "y": 3438,
+      "plane": 0,
+      "_type": "tree"
+    },
+    "Tree Gnome Stronghold": {
+      "x": 2476,
+      "y": 3446,
+      "plane": 0,
+      "_type": "fruit_tree"
+    },
+    "Falador": {
+      "x": 2436,
+      "y": 3415,
+      "plane": 0,
+      "_type": "tree"
+    },
+    "Farming Guild": {
+      "x": 1232,
+      "y": 3736,
+      "plane": 0,
+      "_type": "tree"
+    },
+    "Catherby": {
+      "x": 2861,
+      "y": 3434,
+      "plane": 0,
+      "_type": "fruit_tree"
+    },
+    "Lletya": {
+      "x": 2347,
+      "y": 3162,
+      "plane": 0,
+      "_type": "fruit_tree"
+    },
+    "Brimhaven": {
+      "x": 2765,
+      "y": 3213,
+      "plane": 0,
+      "_type": "fruit_tree"
+    },
+    "Al Kharid": {
+      "x": 3316,
+      "y": 3203,
+      "plane": 0,
+      "_type": "cactus"
+    },
+    "Prifddinas": {
+      "x": 3292,
+      "y": 6119,
+      "plane": 0,
+      "_type": "crystal"
+    },
+    "Karamja": {
+      "x": 2796,
+      "y": 3101,
+      "plane": 0,
+      "_type": "calquat"
+    },
+    "Fossil Island": {
+      "x": 3700,
+      "y": 3840,
+      "plane": 0,
+      "_type": "hardwood"
+    },
+    "Troll Stronghold": {
+      "x": 2826,
+      "y": 3694,
+      "plane": 0,
+      "_type": "herb"
+    },
+    "Weiss": {
+      "x": 2848,
+      "y": 3934,
+      "plane": 0,
+      "_type": "herb"
+    }
+  }
+}

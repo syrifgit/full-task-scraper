@@ -56,6 +56,15 @@ export function addTasksCommand(commandName: string, program: RootCommand): void
       await command.handleUpdateWikiData(taskTypeName);
     });
 
+  const mergeLocations = new Command('merge-locations')
+    .description('Merges classification and location data from classify.py output into full.json')
+    .argument('<task-type-name>', 'task type name (e.g., LEAGUE_5)')
+    .requiredOption('--locations <path>', 'path to locations.json produced by classify.py --output')
+    .action(async (taskTypeName: string, options: { locations: string }) => {
+      const command: TasksCommand = await getCommandInstance(TasksCommand, TasksCommandModule);
+      await command.handleMergeLocations(taskTypeName, options.locations);
+    });
+
   program
     .command(commandName)
     .description('data operations related to tasks')
@@ -64,5 +73,6 @@ export function addTasksCommand(commandName: string, program: RootCommand): void
     .addCommand(extract)
     .addCommand(generateFrontendTasks)
     .addCommand(generateFull)
-    .addCommand(updateWiki);
+    .addCommand(updateWiki)
+    .addCommand(mergeLocations);
 }

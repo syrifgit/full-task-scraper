@@ -67,6 +67,26 @@ jobs:
         if: steps.check-cache.outputs.changed == 'true'
         run: npm run cli -- tasks generate-full ${{ steps.check-active.outputs.task_type }}
 
+      - name: Classify task locations
+        if: steps.check-cache.outputs.changed == 'true'
+        run: |
+          LEAGUE_DIR=$(python3 -c "
+          import json
+          leagues = json.load(open('generated/leagues.json'))
+          for l in leagues:
+            if l.get('taskTypeName','').upper() == '${{ steps.check-active.outputs.task_type }}'.upper():
+              print('generated/' + l['dir'])
+              break
+          ")
+          TASK_TYPE=${{ steps.check-active.outputs.task_type }}
+          python3 scripts/classify.py \
+            --input="${LEAGUE_DIR}/${TASK_TYPE}.full.json" \
+            --coords \
+            --output="${LEAGUE_DIR}/locations.json" \
+            --data-dir=data/
+          npm run cli -- tasks merge-locations ${TASK_TYPE} \
+            --locations="${LEAGUE_DIR}/locations.json"
+
       - name: Commit and push if changed
         if: steps.check-cache.outputs.changed == 'true'
         run: |

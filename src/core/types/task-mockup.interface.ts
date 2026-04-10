@@ -56,4 +56,8 @@ export interface ITaskFull extends ITask {
   tier: number | null;
   /** Tier resolved to display name from stringEnumMap (e.g., "Easy") */
   tierName: string | null;
+  /** Location classification: SINGLE, MULTI, or UNCLEAR */
+  classification?: string;
+  /** Coordinate for SINGLE-location tasks */
+  location?: { x: number; y: number; plane: number };
 }

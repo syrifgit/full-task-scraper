@@ -1,0 +1,1323 @@
+{
+  "_comment": "Manual coordinates for SINGLE tasks. 'locations' maps place names (matched case-insensitively against task description + rule reason) to coords. 'tasks' maps structId to coords for one-offs.",
+  "locations": {
+    "_comment_0": "Minigames and activities",
+    "blast furnace": {
+      "x": 1946,
+      "y": 4959,
+      "plane": 0
+    },
+    "hallowed sepulchre": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    },
+    "fortis colosseum": {
+      "x": 1805,
+      "y": 9508,
+      "plane": 0
+    },
+    "gauntlet": {
+      "x": 3228,
+      "y": 6116,
+      "plane": 0
+    },
+    "pest control": {
+      "x": 2662,
+      "y": 2655,
+      "plane": 0
+    },
+    "tempoross": {
+      "x": 3173,
+      "y": 2845,
+      "plane": 0
+    },
+    "wintertodt": {
+      "x": 1630,
+      "y": 4009,
+      "plane": 0
+    },
+    "tithe farm": {
+      "x": 1800,
+      "y": 3502,
+      "plane": 0
+    },
+    "barbarian assault": {
+      "x": 2532,
+      "y": 3570,
+      "plane": 0
+    },
+    "castle wars": {
+      "x": 2441,
+      "y": 3090,
+      "plane": 0
+    },
+    "soul wars": {
+      "x": 2209,
+      "y": 2857,
+      "plane": 0
+    },
+    "fishing trawler": {
+      "x": 2667,
+      "y": 3165,
+      "plane": 0
+    },
+    "mage training arena": {
+      "x": 3365,
+      "y": 3308,
+      "plane": 0
+    },
+    "brimhaven agility arena": {
+      "x": 2786,
+      "y": 9572,
+      "plane": 0
+    },
+    "volcanic mine": {
+      "x": 3815,
+      "y": 3810,
+      "plane": 0
+    },
+    "mahogany homes": {
+      "x": 2991,
+      "y": 3365,
+      "plane": 0
+    },
+    "giants' foundry": {
+      "x": 3363,
+      "y": 3148,
+      "plane": 0
+    },
+    "temple of the eye": {
+      "x": 3614,
+      "y": 9477,
+      "plane": 0
+    },
+    "camdozaal vault": {
+      "x": 2937,
+      "y": 5772,
+      "plane": 0
+    },
+    "mixology": {
+      "x": 1394,
+      "y": 9327,
+      "plane": 0
+    },
+    "mastering mixology": {
+      "x": 1394,
+      "y": 9327,
+      "plane": 0
+    },
+    "trouble brewing": {
+      "x": 3811,
+      "y": 3021,
+      "plane": 0
+    },
+    "gnomeball": {
+      "x": 2393,
+      "y": 3488,
+      "plane": 0
+    },
+    "gnome restaurant": {
+      "x": 2444,
+      "y": 3501,
+      "plane": 0
+    },
+    "target minigame": {
+      "x": 2670,
+      "y": 3421,
+      "plane": 0
+    },
+    "sorceress's garden": {
+      "x": 2892,
+      "y": 5467,
+      "plane": 0
+    },
+    "puro-puro": {
+      "x": 2592,
+      "y": 4319,
+      "plane": 0
+    },
+    "shades of mort'ton": {
+      "x": 3463,
+      "y": 3311,
+      "plane": 0
+    },
+    "_comment_1": "Bosses, raids, and combat encounters",
+    "theatre of blood": {
+      "x": 3651,
+      "y": 3208,
+      "plane": 0
+    },
+    "chambers of xeric": {
+      "x": 1232,
+      "y": 3573,
+      "plane": 0
+    },
+    "tombs of amascut": {
+      "x": 3348,
+      "y": 2722,
+      "plane": 0
+    },
+    "amoxliatl": {
+      "x": 1362,
+      "y": 4511,
+      "plane": 0
+    },
+    "hueycoatl": {
+      "x": 1509,
+      "y": 3290,
+      "plane": 0
+    },
+    "scurrius": {
+      "x": 3299,
+      "y": 9867,
+      "plane": 0
+    },
+    "araxxor": {
+      "x": 3635,
+      "y": 9815,
+      "plane": 0
+    },
+    "perilous moons": {
+      "x": 1436,
+      "y": 3124,
+      "plane": 0
+    },
+    "moons of peril": {
+      "x": 1436,
+      "y": 3124,
+      "plane": 0
+    },
+    "the whisperer": {
+      "x": 2656,
+      "y": 6369,
+      "plane": 0
+    },
+    "vardorvis": {
+      "x": 1128,
+      "y": 3417,
+      "plane": 0
+    },
+    "duke sucellus": {
+      "x": 3039,
+      "y": 6454,
+      "plane": 0
+    },
+    "the leviathan": {
+      "x": 2081,
+      "y": 6372,
+      "plane": 0
+    },
+    "zulrah": {
+      "x": 2268,
+      "y": 3073,
+      "plane": 0
+    },
+    "poison waste": {
+      "x": 2268,
+      "y": 3073,
+      "plane": 0
+    },
+    "dagannoth kings": {
+      "x": 2631,
+      "y": 9667,
+      "plane": 0
+    },
+    "vorkath": {
+      "x": 2269,
+      "y": 4062,
+      "plane": 0
+    },
+    "phantom muspah": {
+      "x": 2909,
+      "y": 10317,
+      "plane": 0
+    },
+    "the nightmare": {
+      "x": 3871,
+      "y": 9952,
+      "plane": 0
+    },
+    "sisterhood sanctuary": {
+      "x": 3727,
+      "y": 9755,
+      "plane": 0
+    },
+    "grotesque guardians": {
+      "x": 3428,
+      "y": 3543,
+      "plane": 2
+    },
+    "abyssal sire": {
+      "x": 3107,
+      "y": 4791,
+      "plane": 0
+    },
+    "alchemical hydra": {
+      "x": 1364,
+      "y": 10265,
+      "plane": 0
+    },
+    "phosani": {
+      "x": 3871,
+      "y": 9952,
+      "plane": 0
+    },
+    "cerberus": {
+      "x": 1310,
+      "y": 1251,
+      "plane": 0
+    },
+    "venenatis": {
+      "x": 3319,
+      "y": 3798,
+      "plane": 0
+    },
+    "spindel": {
+      "x": 3170,
+      "y": 3684,
+      "plane": 0
+    },
+    "callisto": {
+      "x": 3291,
+      "y": 3849,
+      "plane": 0
+    },
+    "artio": {
+      "x": 3116,
+      "y": 3677,
+      "plane": 0
+    },
+    "calvar'ion": {
+      "x": 3219,
+      "y": 3788,
+      "plane": 0
+    },
+    "sol heredit": {
+      "x": 1804,
+      "y": 9493,
+      "plane": 0
+    },
+    "inferno": {
+      "x": 2496,
+      "y": 5115,
+      "plane": 0
+    },
+    "fight cave": {
+      "x": 2437,
+      "y": 5168,
+      "plane": 0
+    },
+    "tzhaar-ket-rak": {
+      "x": 2543,
+      "y": 5111,
+      "plane": 0
+    },
+    "barrows": {
+      "x": 3565,
+      "y": 3292,
+      "plane": 0
+    },
+    "lizardman shaman": {
+      "x": 1424,
+      "y": 3718,
+      "plane": 0
+    },
+    "mimic": {
+      "x": 2718,
+      "y": 3494,
+      "plane": 0
+    },
+    "_comment_2": "Runecraft altars",
+    "air altar": {
+      "x": 2984,
+      "y": 3293,
+      "plane": 0
+    },
+    "water altar": {
+      "x": 2715,
+      "y": 4837,
+      "plane": 0
+    },
+    "cosmic altar": {
+      "x": 2141,
+      "y": 4834,
+      "plane": 0
+    },
+    "death altar": {
+      "x": 2204,
+      "y": 4837,
+      "plane": 0
+    },
+    "nature altar": {
+      "x": 2399,
+      "y": 4842,
+      "plane": 0
+    },
+    "blood altar": {
+      "x": 3231,
+      "y": 4833,
+      "plane": 0
+    },
+    "fire altar": {
+      "x": 2584,
+      "y": 4839,
+      "plane": 0
+    },
+    "ourania altar": {
+      "x": 2452,
+      "y": 3231,
+      "plane": 0
+    },
+    "astral altar": {
+      "x": 2152,
+      "y": 3863,
+      "plane": 0
+    },
+    "body altar": {
+      "x": 2521,
+      "y": 4836,
+      "plane": 0
+    },
+    "law altar": {
+      "x": 2464,
+      "y": 4832,
+      "plane": 0
+    },
+    "soul rune": {
+      "x": 1581,
+      "y": 3847,
+      "plane": 0
+    },
+    "_comment_3": "Agility courses",
+    "agility course: prifddinas": {
+      "x": 3288,
+      "y": 6142,
+      "plane": 0
+    },
+    "agility course: rellekka": {
+      "x": 2628,
+      "y": 3677,
+      "plane": 0
+    },
+    "agility course: draynor": {
+      "x": 3103,
+      "y": 3279,
+      "plane": 0
+    },
+    "agility course: varrock": {
+      "x": 3222,
+      "y": 3414,
+      "plane": 0
+    },
+    "agility course: seers' village": {
+      "x": 2729,
+      "y": 3488,
+      "plane": 0
+    },
+    "agility course: ardougne": {
+      "x": 2674,
+      "y": 3297,
+      "plane": 0
+    },
+    "agility course: al kharid": {
+      "x": 3273,
+      "y": 3197,
+      "plane": 0
+    },
+    "agility course: canifis": {
+      "x": 3507,
+      "y": 3489,
+      "plane": 0
+    },
+    "agility course: falador": {
+      "x": 3036,
+      "y": 3340,
+      "plane": 0
+    },
+    "agility course: werewolf": {
+      "x": 3532,
+      "y": 9912,
+      "plane": 0
+    },
+    "agility course: wilderness": {
+      "x": 2994,
+      "y": 3936,
+      "plane": 0
+    },
+    "agility course: shayzien basic": {
+      "x": 1552,
+      "y": 3633,
+      "plane": 0
+    },
+    "agility course: shayzien advanced": {
+      "x": 1552,
+      "y": 3633,
+      "plane": 0
+    },
+    "agility course: gnome stronghold": {
+      "x": 2474,
+      "y": 3435,
+      "plane": 0
+    },
+    "agility course: barbarian outpost": {
+      "x": 2545,
+      "y": 3569,
+      "plane": 0
+    },
+    "agility course: penguin": {
+      "x": 2632,
+      "y": 4061,
+      "plane": 0
+    },
+    "agility course: colossal wyrm": {
+      "x": 1655,
+      "y": 2915,
+      "plane": 0
+    },
+    "agility pyramid": {
+      "x": 3354,
+      "y": 2830,
+      "plane": 0
+    },
+    "wilderness agility course": {
+      "x": 2994,
+      "y": 3936,
+      "plane": 0
+    },
+    "_comment_4": "Guilds",
+    "fishing guild": {
+      "x": 2596,
+      "y": 3413,
+      "plane": 0
+    },
+    "ranging guild": {
+      "x": 2661,
+      "y": 3435,
+      "plane": 0
+    },
+    "warriors' guild": {
+      "x": 2845,
+      "y": 3541,
+      "plane": 0
+    },
+    "warriors guild": {
+      "x": 2845,
+      "y": 3541,
+      "plane": 0
+    },
+    "crafting guild": {
+      "x": 2933,
+      "y": 3290,
+      "plane": 0
+    },
+    "woodcutting guild": {
+      "x": 1634,
+      "y": 3502,
+      "plane": 0
+    },
+    "farming guild": {
+      "x": 1248,
+      "y": 3726,
+      "plane": 0
+    },
+    "heroes' guild": {
+      "x": 2899,
+      "y": 3509,
+      "plane": 0
+    },
+    "cooks' guild": {
+      "x": 3141,
+      "y": 3443,
+      "plane": 0
+    },
+    "wizards' guild": {
+      "x": 2592,
+      "y": 3088,
+      "plane": 0
+    },
+    "champions guild": {
+      "x": 3192,
+      "y": 3354,
+      "plane": 0
+    },
+    "_comment_5": "Dungeons and underground areas",
+    "waterbirth island dungeon": {
+      "x": 2443,
+      "y": 10150,
+      "plane": 0
+    },
+    "god wars dungeon": {
+      "x": 2872,
+      "y": 5311,
+      "plane": 2
+    },
+    "wilderness god wars dungeon": {
+      "x": 3066,
+      "y": 10150,
+      "plane": 0
+    },
+    "catacombs of kourend": {
+      "x": 1647,
+      "y": 10006,
+      "plane": 0
+    },
+    "tower of life": {
+      "x": 2648,
+      "y": 3219,
+      "plane": 0
+    },
+    "brimhaven dungeon": {
+      "x": 2712,
+      "y": 9471,
+      "plane": 0
+    },
+    "taverley dungeon": {
+      "x": 2884,
+      "y": 9798,
+      "plane": 0
+    },
+    "abyssal nexus": {
+      "x": 3037,
+      "y": 4785,
+      "plane": 0
+    },
+    "deep wilderness dungeon": {
+      "x": 3046,
+      "y": 10332,
+      "plane": 0
+    },
+    "cam torum": {
+      "x": 1512,
+      "y": 9544,
+      "plane": 1
+    },
+    "cerberus' lair": {
+      "x": 1310,
+      "y": 1251,
+      "plane": 0
+    },
+    "motherlode mine": {
+      "x": 3116,
+      "y": 9698,
+      "plane": 0
+    },
+    "ham hideout": {
+      "x": 3166,
+      "y": 9622,
+      "plane": 0
+    },
+    "ancient guthixian temple": {
+      "x": 4076,
+      "y": 4432,
+      "plane": 0
+    },
+    "slayer tower": {
+      "x": 3428,
+      "y": 3535,
+      "plane": 0
+    },
+    "_comment_6": "Canoe stations",
+    "canoe station lumbridge": {
+      "x": 3241,
+      "y": 3235,
+      "plane": 0
+    },
+    "canoe station champions": {
+      "x": 3200,
+      "y": 3341,
+      "plane": 0
+    },
+    "canoe station barbarian": {
+      "x": 3110,
+      "y": 3409,
+      "plane": 0
+    },
+    "canoe station edgeville": {
+      "x": 3130,
+      "y": 3508,
+      "plane": 0
+    },
+    "canoe station ferox": {
+      "x": 3155,
+      "y": 3628,
+      "plane": 0
+    },
+    "canoe station castle wars": {
+      "x": 2441,
+      "y": 3134,
+      "plane": 0
+    },
+    "canoe station gnome village": {
+      "x": 2484,
+      "y": 3190,
+      "plane": 0
+    },
+    "canoe station clocktower": {
+      "x": 2579,
+      "y": 3259,
+      "plane": 0
+    },
+    "canoe station chaos druid": {
+      "x": 2573,
+      "y": 3359,
+      "plane": 0
+    },
+    "canoe station gnome stronghold": {
+      "x": 2525,
+      "y": 3409,
+      "plane": 0
+    },
+    "_comment_7": "Specific locations (named sub-areas, landmarks, etc.)",
+    "paramaya inn": {
+      "x": 2860,
+      "y": 2997,
+      "plane": 1
+    },
+    "ardougne market": {
+      "x": 2658,
+      "y": 3309,
+      "plane": 0
+    },
+    "pyramid plunder": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    },
+    "varrock museum": {
+      "x": 3257,
+      "y": 3452,
+      "plane": 0
+    },
+    "party room": {
+      "x": 3046,
+      "y": 3378,
+      "plane": 0
+    },
+    "draynor manor": {
+      "x": 3108,
+      "y": 3353,
+      "plane": 0
+    },
+    "player owned house": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    },
+    "your player owned house": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    },
+    "hunter rumour": {
+      "x": 1563,
+      "y": 3036,
+      "plane": 0
+    },
+    "blast mine": {
+      "x": 1500,
+      "y": 3861,
+      "plane": 0
+    },
+    "fishing crane": {
+      "x": 1574,
+      "y": 3092,
+      "plane": 0
+    },
+    "juniper charcoal": {
+      "x": 1369,
+      "y": 3615,
+      "plane": 0
+    },
+    "pyre ship": {
+      "x": 2518,
+      "y": 3522,
+      "plane": 0
+    },
+    "tears of guthix": {
+      "x": 3232,
+      "y": 9531,
+      "plane": 2
+    },
+    "ectofuntus": {
+      "x": 3659,
+      "y": 3517,
+      "plane": 0
+    },
+    "dusuri's star shop": {
+      "x": 3022,
+      "y": 3341,
+      "plane": 0
+    },
+    "marcellus": {
+      "x": 1572,
+      "y": 3082,
+      "plane": 0
+    },
+    "sunset coast": {
+      "x": 1522,
+      "y": 2985,
+      "plane": 0
+    },
+    "lake molch": {
+      "x": 1370,
+      "y": 3635,
+      "plane": 0
+    },
+    "sawmill": {
+      "x": 3302,
+      "y": 3491,
+      "plane": 0
+    },
+    "hardwood grove": {
+      "x": 2822,
+      "y": 3082,
+      "plane": 0
+    },
+    "larran's": {
+      "x": 1580,
+      "y": 3495,
+      "plane": 0
+    },
+    "ham member": {
+      "x": 3166,
+      "y": 9622,
+      "plane": 0
+    },
+    "kourend castle": {
+      "x": 1645,
+      "y": 3634,
+      "plane": 0
+    },
+    "volcanic fissure": {
+      "x": 1378,
+      "y": 3816,
+      "plane": 0
+    },
+    "muddy chest": {
+      "x": 3092,
+      "y": 3862,
+      "plane": 0
+    },
+    "moon chest": {
+      "x": 1700,
+      "y": 3100,
+      "plane": 0
+    },
+    "longhall": {
+      "x": 3080,
+      "y": 3428,
+      "plane": 0
+    },
+    "beehives": {
+      "x": 2760,
+      "y": 3443,
+      "plane": 0
+    },
+    "the old nite": {
+      "x": 3654,
+      "y": 3468,
+      "plane": 0
+    },
+    "fortis spice stall": {
+      "x": 1683,
+      "y": 3097,
+      "plane": 0
+    },
+    "calquat": {
+      "x": 2795,
+      "y": 3101,
+      "plane": 0
+    },
+    "potato field": {
+      "x": 3150,
+      "y": 3275,
+      "plane": 0
+    },
+    "chaos temple": {
+      "x": 3235,
+      "y": 3638,
+      "plane": 0
+    },
+    "mage arena": {
+      "x": 3104,
+      "y": 3958,
+      "plane": 0
+    },
+    "rogue's castle": {
+      "x": 3288,
+      "y": 3932,
+      "plane": 0
+    },
+    "wilderness resource area": {
+      "x": 3184,
+      "y": 3944,
+      "plane": 0
+    },
+    "kharidian desert quarry": {
+      "x": 3164,
+      "y": 2914,
+      "plane": 0
+    },
+    "_comment_8": "Cities, towns, and broad areas (LAST - specific locations above match first)",
+    "sophanem": {
+      "x": 3281,
+      "y": 2770,
+      "plane": 0
+    },
+    "al kharid": {
+      "x": 3282,
+      "y": 3176,
+      "plane": 0
+    },
+    "varrock": {
+      "x": 3213,
+      "y": 3428,
+      "plane": 0
+    },
+    "lumbridge": {
+      "x": 3222,
+      "y": 3219,
+      "plane": 0
+    },
+    "falador": {
+      "x": 2965,
+      "y": 3380,
+      "plane": 0
+    },
+    "ardougne": {
+      "x": 2662,
+      "y": 3305,
+      "plane": 0
+    },
+    "catherby": {
+      "x": 2810,
+      "y": 3435,
+      "plane": 0
+    },
+    "rellekka": {
+      "x": 2668,
+      "y": 3710,
+      "plane": 0
+    },
+    "canifis": {
+      "x": 3515,
+      "y": 3481,
+      "plane": 0
+    },
+    "draynor": {
+      "x": 3093,
+      "y": 3257,
+      "plane": 0
+    },
+    "draynor village": {
+      "x": 3093,
+      "y": 3257,
+      "plane": 0
+    },
+    "shilo village": {
+      "x": 2852,
+      "y": 2954,
+      "plane": 0
+    },
+    "hosidius": {
+      "x": 1702,
+      "y": 3528,
+      "plane": 0
+    },
+    "piscarilius": {
+      "x": 1822,
+      "y": 3770,
+      "plane": 0
+    },
+    "shayzien": {
+      "x": 1480,
+      "y": 3593,
+      "plane": 0
+    },
+    "arceuus": {
+      "x": 1700,
+      "y": 3744,
+      "plane": 0
+    },
+    "aldarin": {
+      "x": 1415,
+      "y": 2974,
+      "plane": 0
+    },
+    "civitas illa fortis": {
+      "x": 1676,
+      "y": 3113,
+      "plane": 0
+    },
+    "prifddinas": {
+      "x": 3266,
+      "y": 6069,
+      "plane": 0
+    },
+    "lletya": {
+      "x": 2353,
+      "y": 3164,
+      "plane": 0
+    },
+    "nardah": {
+      "x": 3427,
+      "y": 2891,
+      "plane": 0
+    },
+    "port phasmatys": {
+      "x": 3675,
+      "y": 3469,
+      "plane": 0
+    },
+    "slepe": {
+      "x": 3709,
+      "y": 3312,
+      "plane": 0
+    },
+    "darkmeyer": {
+      "x": 3610,
+      "y": 3356,
+      "plane": 0
+    },
+    "keldagrim": {
+      "x": 2912,
+      "y": 10222,
+      "plane": 0
+    },
+    "brimhaven": {
+      "x": 2782,
+      "y": 3175,
+      "plane": 0
+    },
+    "musa point": {
+      "x": 2938,
+      "y": 3149,
+      "plane": 0
+    },
+    "tai bwo wannai": {
+      "x": 2797,
+      "y": 3085,
+      "plane": 0
+    },
+    "weiss": {
+      "x": 2858,
+      "y": 3953,
+      "plane": 0
+    },
+    "mor ul rek": {
+      "x": 2479,
+      "y": 5178,
+      "plane": 0
+    },
+    "bandit camp": {
+      "x": 3158,
+      "y": 2977,
+      "plane": 0
+    },
+    "tree gnome stronghold": {
+      "x": 2465,
+      "y": 3489,
+      "plane": 0
+    },
+    "tree gnome village": {
+      "x": 2504,
+      "y": 3191,
+      "plane": 0
+    },
+    "troll stronghold": {
+      "x": 2845,
+      "y": 3694,
+      "plane": 0
+    },
+    "fossil island": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    },
+    "museum camp": {
+      "x": 3756,
+      "y": 3869,
+      "plane": 0
+    },
+    "miscellania": {
+      "x": 2534,
+      "y": 3861,
+      "plane": 0
+    },
+    "lunar isle": {
+      "x": 2107,
+      "y": 3916,
+      "plane": 0
+    },
+    "harmony island": {
+      "x": 3792,
+      "y": 2856,
+      "plane": 0
+    },
+    "mos le'harmless": {
+      "x": 3678,
+      "y": 2959,
+      "plane": 0
+    },
+    "digsite": {
+      "x": 3361,
+      "y": 3412,
+      "plane": 0
+    },
+    "ferox enclave": {
+      "x": 3138,
+      "y": 3633,
+      "plane": 0
+    }
+  },
+  "tasks": {
+    "_comment": "structId-keyed overrides for one-off tasks",
+    "2137": {
+      "x": 2414,
+      "y": 3803,
+      "plane": 0,
+      "_note": "Bank on Jatizso"
+    },
+    "2164": {
+      "x": 3371,
+      "y": 3127,
+      "plane": 0,
+      "_note": "Catch a Salmon in the Desert - Shantay Pass area"
+    },
+    "2404": {
+      "x": 3228,
+      "y": 3108,
+      "plane": 0,
+      "_note": "Kalphite Lair entrance"
+    },
+    "3903": {
+      "x": 1676,
+      "y": 3113,
+      "plane": 0,
+      "_note": "Bird bath in Civitas illa Fortis"
+    },
+    "5058": {
+      "x": 3014,
+      "y": 3189,
+      "plane": 0,
+      "_note": "Port Sarim prisoner"
+    },
+    "1204": {
+      "x": 2269,
+      "y": 3190,
+      "plane": 0,
+      "_note": "Tripwire in Tirannwn (Isafdar)"
+    },
+    "1219": {
+      "x": 1497,
+      "y": 3087,
+      "plane": 0,
+      "_note": "Obtain a Cake from a Nest - Varlamore"
+    },
+    "2132": {
+      "x": 2634,
+      "y": 3664,
+      "plane": 0,
+      "_note": "Peer the Seer in Rellekka"
+    },
+    "2152": {
+      "x": 2622,
+      "y": 3414,
+      "plane": 0,
+      "_note": "Grandpa Jack's fishing rod (fishing guild area)"
+    },
+    "2321": {
+      "x": 2712,
+      "y": 9471,
+      "plane": 0,
+      "_note": "Saniboch at Brimhaven Dungeon entrance"
+    },
+    "5045": {
+      "x": 2222,
+      "y": 3092,
+      "plane": 0,
+      "_note": "Broken Hand'z telescope - Poison Waste"
+    },
+    "5150": {
+      "x": 2404,
+      "y": 3420,
+      "plane": 0,
+      "_note": "Brimstail in Gnome Stronghold cave"
+    },
+    "_comment_beehives": "Specific one-off locations",
+    "_comment_fremennik": "Fremennik stalls",
+    "2043": {
+      "x": 2649,
+      "y": 3678,
+      "plane": 0,
+      "_note": "Fish stall in Rellekka"
+    },
+    "2044": {
+      "x": 2620,
+      "y": 3675,
+      "plane": 0,
+      "_note": "Crossbow stall in Rellekka"
+    },
+    "_comment_one_offs2": "More one-off tasks",
+    "2098": {
+      "x": 2466,
+      "y": 3497,
+      "plane": 0,
+      "_note": "Herring on the mightiest tree - The Grand Tree in Tree Gnome Stronghold"
+    },
+    "2115": {
+      "x": 3019,
+      "y": 5576,
+      "plane": 0,
+      "_note": "Gorak - Gorak Plane"
+    },
+    "2145": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0,
+      "_note": "POH minigame room"
+    },
+    "2146": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0,
+      "_note": "POH entertainment room"
+    },
+    "2150": {
+      "x": 2855,
+      "y": 2974,
+      "plane": 0,
+      "_note": "Salmon on Karamja - Shilo Village"
+    },
+    "2366": {
+      "x": 1692,
+      "y": 3536,
+      "plane": 0,
+      "_note": "Dig Saltpetre in Hosidius"
+    },
+    "2408": {
+      "x": 1714,
+      "y": 3460,
+      "plane": 0,
+      "_note": "Capture sandworms - Hosidius beach"
+    },
+    "2496": {
+      "x": 3105,
+      "y": 3556,
+      "plane": 0,
+      "_note": "Abyss entrance - Mage of Zamorak near Edgeville"
+    },
+    "2772": {
+      "x": 1811,
+      "y": 3555,
+      "plane": 0,
+      "_note": "Zamorak's Grapes vineyard - Hosidius"
+    },
+    "5013": {
+      "x": 2427,
+      "y": 5134,
+      "plane": 0,
+      "_note": "Puro-Puro crop circle entrance (random)"
+    },
+    "5041": {
+      "x": 3230,
+      "y": 9487,
+      "plane": 0,
+      "_note": "Destroy the one ring - Lumbridge Swamp Caves"
+    },
+    "5059": {
+      "x": 3108,
+      "y": 3368,
+      "plane": 1,
+      "_note": "Haunted Chair - Draynor Manor upstairs"
+    },
+    "_comment_misc": "Miscellaneous",
+    "5746": {
+      "x": 2872,
+      "y": 5311,
+      "plane": 2,
+      "_note": "GWD combat achievements"
+    },
+    "_comment_the_old_nite": "Unique one-offs",
+    "_comment_vineyard": "Vineyard task",
+    "5063": {
+      "x": 1244,
+      "y": 2960,
+      "plane": 0,
+      "_note": "One vineyard - Aldarin area"
+    },
+    "5060": {
+      "x": 3223,
+      "y": 3367,
+      "plane": 0,
+      "_note": "Dark Wizard - Varrock stone circle (entity extraction would cause MULTI)"
+    },
+    "1193": {
+      "x": 4076,
+      "y": 4432,
+      "plane": 0,
+      "_note": "Tormented Demon - wiki centroid off-center, manually placed"
+    },
+    "1194": {
+      "x": 4076,
+      "y": 4432,
+      "plane": 0,
+      "_note": "Tormented Demon - wiki centroid off-center, manually placed"
+    },
+    "1195": {
+      "x": 4076,
+      "y": 4432,
+      "plane": 0,
+      "_note": "Tormented Demon - wiki centroid off-center, manually placed"
+    },
+    "1196": {
+      "x": 4076,
+      "y": 4432,
+      "plane": 0,
+      "_note": "Tormented Demon - wiki centroid off-center, manually placed"
+    },
+    "1211": {
+      "x": 3205,
+      "y": 3229,
+      "plane": 0,
+      "_note": "Northern Staircase in Lumbridge Castle"
+    },
+    "1944": {
+      "x": 3212,
+      "y": 3215,
+      "plane": 0,
+      "_note": "Cooking Range in Lumbridge Castle"
+    },
+    "5070": {
+      "x": 3084,
+      "y": 3363,
+      "plane": 0,
+      "_note": "Magic cabbage - Draynor Manor garden"
+    },
+    "3896": {
+      "x": 2820,
+      "y": 3469,
+      "plane": 0,
+      "_note": "Pick wheat in Catherby - wheat field near farming patches"
+    },
+    "2186": {
+      "x": 2449,
+      "y": 5150,
+      "plane": 0,
+      "_note": "Purchase Onyx - TzHaar-Hur-Lek's Ore and Gem Store in Mor Ul Rek"
+    },
+    "2345": {
+      "x": 3685,
+      "y": 3479,
+      "plane": 0,
+      "_note": "Smelt steel bar - furnace in Port Phasmatys"
+    },
+    "2067": {
+      "x": 2101,
+      "y": 3918,
+      "plane": 0,
+      "_note": "Switch to Lunar Spellbook - Lunar altar on Lunar Isle"
+    }
+  }
+}

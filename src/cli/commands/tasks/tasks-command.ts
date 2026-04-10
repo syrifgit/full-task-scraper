@@ -541,6 +541,47 @@ export class TasksCommand {
     return [headers.join(','), ...rows].join('\n') + '\n';
   }
 
+  /**
+   * Merges classification and location data from a locations.json file into
+   * the existing full.json for a league. The locations file is produced by
+   * classify.py --output and is keyed by structId.
+   */
+  public async handleMergeLocations(taskTypeName: string, locationsPath: string): Promise<void> {
+    const leagueMatch = this.findLeagueByTaskType(taskTypeName);
+    if (!leagueMatch) {
+      throw new Error(`No league entry found for "${taskTypeName}" in leagues.json`);
+    }
+
+    const fullFilePath = path.join(leagueMatch.dir, `${taskTypeName}.full.json`);
+    if (!existsSync(fullFilePath)) {
+      throw new Error(`No full.json found at ${fullFilePath}. Run generate-full first.`);
+    }
+    if (!existsSync(locationsPath)) {
+      throw new Error(`Locations file not found: ${locationsPath}`);
+    }
+
+    const fullTasks: ITaskFull[] = JSON.parse(readFileSync(fullFilePath, 'utf-8'));
+    const locations: Record<string, { classification: string; reason?: string; location?: { x: number; y: number; plane: number } }> =
+      JSON.parse(readFileSync(locationsPath, 'utf-8'));
+
+    let merged = 0;
+    let withLocation = 0;
+    for (const task of fullTasks) {
+      const loc = locations[String(task.structId)];
+      if (loc) {
+        task.classification = loc.classification;
+        if (loc.location) {
+          task.location = loc.location;
+          withLocation++;
+        }
+        merged++;
+      }
+    }
+
+    writeFileSync(fullFilePath, JSON.stringify(fullTasks, null, 2));
+    console.log(`Merged ${merged} classifications (${withLocation} with coordinates) into ${fullFilePath}`);
+  }
+
   public async handleUpdateVarps(options: any): Promise<ITaskType> {
     console.log('🔧 Updating task varps...');
     
