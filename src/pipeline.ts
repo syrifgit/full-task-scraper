@@ -1,44 +1,25 @@
 /**
  * Main pipeline orchestration.
  *
- * Game cache → extract structs → scrape wiki → resolve params/enums
- *   → classify tasks → resolve coordinates → output
+ * Self-sufficient: extracts tasks from game cache using stable param IDs,
+ * discovers enums from cache, scrapes wiki, classifies, outputs.
+ * No external task-type definitions needed.
  */
 
 import { mkdirSync } from 'fs';
 import { execSync } from 'child_process';
 import * as path from 'path';
-import axios from 'axios';
 import { createCacheProvider } from './cache/provider';
-import { extractTasksFromCache, hydrateTasks } from './cache/tasks';
+import { extractTasksFromCache, hydrateTasks, resolveTierParam } from './cache/tasks';
 import { scrapeAndMergeWikiData } from './wiki/scraper';
-import { writeFullJson, writeRawJson, writeCsv, mergeLocations } from './output/writers';
-import { findActiveLeague, resolveOutputDir, updateLeague, getWikiConfig } from './leagues';
-import { TaskTypeDefinition, WIKI_COLUMNS, PARAM_IDS } from './types';
-
-const TASK_TYPES_URL = 'https://raw.githubusercontent.com/osrs-reldo/task-json-store/refs/heads/main/task-types.json';
-
-/**
- * Fetch the task type definition from the task-json-store.
- */
-async function fetchTaskType(taskTypeName: string): Promise<TaskTypeDefinition> {
-  console.log(`Fetching task-types from ${TASK_TYPES_URL}...`);
-  const response = await axios.get(TASK_TYPES_URL);
-  const taskTypes: TaskTypeDefinition[] = response.data;
-  const taskType = taskTypes.find(
-    tt => tt.taskJsonName.toLowerCase() === taskTypeName.toLowerCase(),
-  );
-  if (!taskType) {
-    const available = taskTypes.map(tt => tt.taskJsonName).join(', ');
-    throw new Error(`Task type "${taskTypeName}" not found. Available: ${available}`);
-  }
-  return taskType;
-}
+import { writeFullJson, writeRawJson, writeMinJson, writeCsv, mergeLocations } from './output/writers';
+import { findActiveLeague, resolveOutputDir, updateLeague, getWikiConfig, isLeagueEnded } from './leagues';
+import { DEFAULT_WIKI_COLUMNS, PARAM_IDS } from './types';
 
 /**
  * Full pipeline: extract from cache, scrape wiki, hydrate, classify, output.
  */
-export async function generateFull(taskTypeName?: string): Promise<void> {
+export async function generateFull(taskTypeName?: string, force = false): Promise<void> {
   // Auto-detect active league if not specified
   if (!taskTypeName) {
     const active = findActiveLeague();
@@ -47,51 +28,60 @@ export async function generateFull(taskTypeName?: string): Promise<void> {
     console.log(`Auto-detected active league: ${active.name} (${taskTypeName})`);
   }
 
-  // 1. Fetch task type definition
-  const taskType = await fetchTaskType(taskTypeName);
-  console.log(`Task type: ${taskType.name} (${taskType.taskJsonName})`);
+  // Guard: don't overwrite historical league data unless forced
+  if (isLeagueEnded(taskTypeName) && !force) {
+    throw new Error(
+      `${taskTypeName} has ended. Its generated data is historical and should not be overwritten.\n` +
+      `Use --force to regenerate anyway (e.g., for initial backfill).`,
+    );
+  }
+
+  // 1. Resolve tier param from league name
+  const tierParam = resolveTierParam(taskTypeName);
+  console.log(`League: ${taskTypeName} (tier param: ${tierParam})`);
 
   // 2. Extract tasks from game cache
   const cache = await createCacheProvider();
   console.log('Extracting tasks from game cache...');
-  const tasks = await extractTasksFromCache(cache, taskType);
+  const tasks = await extractTasksFromCache(cache, tierParam);
   console.log(`Extracted ${tasks.length} tasks`);
 
-  // 3. Scrape wiki data
+  // 3. Scrape wiki data (if URL configured in leagues.json)
   const wikiConfig = getWikiConfig(taskTypeName);
-  const columns = WIKI_COLUMNS[taskTypeName.toUpperCase()];
-  if (wikiConfig && columns) {
+  if (wikiConfig) {
     console.log(`Scraping wiki from ${wikiConfig.url}...`);
-    const varbitParamId = (taskType.intParamMap?.id ?? PARAM_IDS.LEAGUE_VARBIT_INDEX);
     await scrapeAndMergeWikiData(
       cache, tasks, wikiConfig.url, wikiConfig.taskIdAttribute,
-      varbitParamId as any, columns,
+      PARAM_IDS.LEAGUE_VARBIT_INDEX, DEFAULT_WIKI_COLUMNS,
     );
   } else {
-    console.log('No wiki config available, skipping wiki scrape');
+    console.log('No wiki URL in leagues.json, skipping wiki scrape');
   }
 
-  // 4. Hydrate with resolved params
+  // 4. Hydrate with resolved params (discovers enums from cache)
   console.log('Resolving params and enums...');
-  const { fullTasks, rawTasks } = await hydrateTasks(cache, tasks, taskType);
+  const { fullTasks, rawTasks } = await hydrateTasks(cache, tasks, tierParam);
 
   // 5. Write outputs
   const outputDir = resolveOutputDir(taskTypeName);
   mkdirSync(outputDir, { recursive: true });
 
-  const fullPath = writeFullJson(fullTasks, outputDir, taskType.taskJsonName);
+  const fullPath = writeFullJson(fullTasks, outputDir, taskTypeName);
   console.log(`Wrote ${fullTasks.length} normalized tasks to ${fullPath}`);
 
-  const rawPath = writeRawJson(rawTasks, outputDir, taskType.taskJsonName);
+  const rawPath = writeRawJson(rawTasks, outputDir, taskTypeName);
   console.log(`Wrote ${rawTasks.length} raw tasks to ${rawPath}`);
 
-  const csvPath = writeCsv(fullTasks, outputDir, taskType.taskJsonName);
+  const csvPath = writeCsv(fullTasks, outputDir, taskTypeName);
   console.log(`Wrote ${fullTasks.length} tasks to ${csvPath}`);
+
+  const minPath = writeMinJson(fullTasks, outputDir, taskTypeName);
+  console.log(`Wrote ${fullTasks.length} tasks to ${minPath}`);
 
   // 6. Update leagues.json
   updateLeague(taskTypeName, {
     taskCount: fullTasks.length,
-    taskFile: `${taskType.taskJsonName}.full.json`,
+    taskFile: `${taskTypeName}.full.json`,
   } as any);
   console.log(`Updated leagues.json`);
 }
@@ -106,11 +96,11 @@ export async function classifyAndMerge(taskTypeName: string): Promise<void> {
 
   console.log('Running classification pipeline...');
   const classifyCmd = [
-    'python3', 'scripts/classify.py',
+    'python3', 'classify/classify.py',
     `--input=${fullJsonPath}`,
     '--coords',
     `--output=${locationsPath}`,
-    '--data-dir=data/',
+    '--data-dir=classify/data/',
   ].join(' ');
 
   execSync(classifyCmd, { stdio: 'inherit' });
@@ -118,6 +108,12 @@ export async function classifyAndMerge(taskTypeName: string): Promise<void> {
   console.log('Merging locations into full.json...');
   const { merged, withLocation } = mergeLocations(fullJsonPath, locationsPath);
   console.log(`Merged ${merged} classifications (${withLocation} with coordinates)`);
+
+  // Regenerate min.json with location data included
+  const { readFileSync } = await import('fs');
+  const enrichedTasks = JSON.parse(readFileSync(fullJsonPath, 'utf-8'));
+  const minPath = writeMinJson(enrichedTasks, outputDir, taskTypeName);
+  console.log(`Wrote ${enrichedTasks.length} tasks to ${minPath}`);
 }
 
 /**
@@ -131,20 +127,17 @@ export async function updateWiki(taskTypeName?: string): Promise<void> {
     console.log(`Auto-detected: ${active.name} (${taskTypeName})`);
   }
 
-  const taskType = await fetchTaskType(taskTypeName);
   const outputDir = resolveOutputDir(taskTypeName);
-  const fullPath = path.join(outputDir, `${taskType.taskJsonName}.full.json`);
+  const fullPath = path.join(outputDir, `${taskTypeName}.full.json`);
 
   const { readFileSync } = await import('fs');
   const fullTasks = JSON.parse(readFileSync(fullPath, 'utf-8'));
   console.log(`Loaded ${fullTasks.length} tasks from ${fullPath}`);
 
   const wikiConfig = getWikiConfig(taskTypeName);
-  const columns = WIKI_COLUMNS[taskTypeName.toUpperCase()];
-  if (!wikiConfig || !columns) throw new Error(`No wiki config for "${taskTypeName}"`);
+  if (!wikiConfig) throw new Error(`No wiki URL for "${taskTypeName}" in leagues.json`);
 
   const cache = await createCacheProvider();
-  const varbitParamId = (taskType.intParamMap?.id ?? PARAM_IDS.LEAGUE_VARBIT_INDEX);
 
   // Convert to Task[] for wiki scraping (needs structId)
   const tasksForWiki = fullTasks.map((t: any) => ({
@@ -155,7 +148,7 @@ export async function updateWiki(taskTypeName?: string): Promise<void> {
   console.log(`Scraping wiki from ${wikiConfig.url}...`);
   await scrapeAndMergeWikiData(
     cache, tasksForWiki, wikiConfig.url, wikiConfig.taskIdAttribute,
-    varbitParamId as any, columns,
+    PARAM_IDS.LEAGUE_VARBIT_INDEX, DEFAULT_WIKI_COLUMNS,
   );
 
   // Merge wiki data back
@@ -171,8 +164,8 @@ export async function updateWiki(taskTypeName?: string): Promise<void> {
       fullTasks[i].wikiNotes = wiki.wikiNotes;
       changed = true;
     }
-    if (wiki.skills?.length > 0) {
-      fullTasks[i].skills = wiki.skills;
+    if (wiki.skillRequirements?.length > 0) {
+      fullTasks[i].skillRequirements = wiki.skillRequirements;
       changed = true;
     }
     if (changed) updated++;

@@ -13,8 +13,11 @@ export interface TaskSkill {
 export interface Task {
   structId: number;
   sortId: number;
-  skills?: TaskSkill[];
+  skillRequirements?: TaskSkill[];
+  /** Plain text wiki notes (for plugin) */
   wikiNotes?: string;
+  /** HTML wiki notes with formatting preserved (for web tools) */
+  wikiNotesHtml?: string;
   completionPercent?: number;
 }
 
@@ -34,37 +37,6 @@ export interface TaskFull extends Task {
 }
 
 // ============================================================
-// Task type definition (fetched from task-json-store)
-// ============================================================
-
-export interface TaskTypeDefinition {
-  name: string;
-  description: string;
-  isEnabled: boolean;
-  taskJsonName: string;
-  intParamMap: Record<string, number>;
-  stringParamMap: Record<string, number>;
-  intEnumMap: Record<string, number>;
-  stringEnumMap: Record<string, number>;
-  tierSpriteIdMap: Record<string, number>;
-  taskVarps: number[];
-  otherVarps: number[];
-  varbits: number[];
-  taskCompletedScriptId: number;
-  filters: FilterConfig[];
-}
-
-export interface FilterConfig {
-  configKey: string;
-  label: string;
-  filterType: string;
-  valueType: string;
-  valueName?: string;
-  optionLabelEnum?: string;
-  customItems: any[];
-}
-
-// ============================================================
 // Wiki scraping
 // ============================================================
 
@@ -80,7 +52,10 @@ export interface WikiTaskData {
   varbitIndex: number;
   name?: string;
   description?: string;
+  /** Plain text requirements (for plugin min.json) */
   requirements?: string;
+  /** HTML requirements with wiki formatting preserved (for web tool full.json) */
+  requirementsHtml?: string;
   points?: string;
   completionPercent?: number;
   skills: TaskSkill[];
@@ -97,7 +72,7 @@ export interface LocationEntry {
 }
 
 // ============================================================
-// League metadata (generated/leagues.json)
+// League metadata (leagues/index.json)
 // ============================================================
 
 export interface LeagueMetadata {
@@ -130,15 +105,14 @@ export const PARAM_IDS = {
 };
 
 // ============================================================
-// Wiki column configs per league
+// Wiki column config
 // ============================================================
 
-export const WIKI_COLUMNS: Record<string, WikiColumnConfig> = {
-  LEAGUE_5: {
-    nameColumnId: 1,
-    descriptionColumnId: 2,
-    requirementsColumnId: 3,
-    pointsColumnId: 4,
-    completionColumnId: 5,
-  },
+/** Default wiki table layout. Stable across L4/L5, likely future leagues too. */
+export const DEFAULT_WIKI_COLUMNS: WikiColumnConfig = {
+  nameColumnId: 1,
+  descriptionColumnId: 2,
+  requirementsColumnId: 3,
+  pointsColumnId: 4,
+  completionColumnId: 5,
 };

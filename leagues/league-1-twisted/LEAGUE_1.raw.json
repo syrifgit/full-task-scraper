@@ -1,0 +1,3020 @@
+[
+  {
+    "structId": 5286,
+    "sortId": 0,
+    "params": {
+      "1851": 1,
+      "1852": 1,
+      "id": 0,
+      "name": "Complete Client of Kourend",
+      "description": "Complete the Client of Kourend quest",
+      "tier": 1,
+      "skill": 0,
+      "area": 10,
+      "category": 3
+    }
+  },
+  {
+    "structId": 5287,
+    "sortId": 1,
+    "params": {
+      "1851": 1,
+      "1852": 1,
+      "id": 1,
+      "name": "Complete Queen of Thieves",
+      "description": "Complete the Queen of Thieves quest",
+      "tier": 1,
+      "skill": 0,
+      "area": 10,
+      "category": 3
+    }
+  },
+  {
+    "structId": 5288,
+    "sortId": 2,
+    "params": {
+      "1851": 1,
+      "1852": 1,
+      "id": 2,
+      "name": "Complete Forsaken Tower",
+      "description": "Complete the Forsaken Tower quest",
+      "tier": 1,
+      "skill": 0,
+      "area": 10,
+      "category": 3
+    }
+  },
+  {
+    "structId": 5289,
+    "sortId": 3,
+    "params": {
+      "1851": 1,
+      "1852": 1,
+      "id": 3,
+      "name": "Complete Ascent of Arceuus",
+      "description": "Complete the Ascent of Arceuus quest",
+      "tier": 1,
+      "skill": 0,
+      "area": 10,
+      "category": 3
+    }
+  },
+  {
+    "structId": 2576,
+    "sortId": 4,
+    "params": {
+      "1850": 1,
+      "1851": 1,
+      "1852": 1,
+      "2044": 2,
+      "id": 11,
+      "name": "Burn Some Coloured Logs",
+      "description": "Burn some logs that have been coloured with a firelighter",
+      "tier": 1,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2580,
+    "sortId": 5,
+    "params": {
+      "1850": 1,
+      "1851": 1,
+      "1852": 1,
+      "2044": 2,
+      "id": 15,
+      "name": "Eat some Purple Sweets",
+      "description": "Eat some Purple Sweets",
+      "tier": 1,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2621,
+    "sortId": 6,
+    "params": {
+      "1850": 1,
+      "1851": 1,
+      "1852": 1,
+      "2044": 2,
+      "id": 57,
+      "name": "Gain a Unique Item From an Easy Clue",
+      "description": "Gain a unique item from an Easy Clue Scroll Reward Casket",
+      "tier": 1,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2624,
+    "sortId": 7,
+    "params": {
+      "1850": 1,
+      "1851": 1,
+      "1852": 1,
+      "2044": 2,
+      "id": 59,
+      "name": "Gain a Unique Item From a Beginner Clue",
+      "description": "Gain a unique item from a Beginner Clue Scroll Reward Casket",
+      "tier": 1,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2631,
+    "sortId": 8,
+    "params": {
+      "1850": 1,
+      "1851": 1,
+      "1852": 1,
+      "2044": 1,
+      "id": 61,
+      "name": "Defeat a Moss Giant",
+      "description": "Defeat a Moss Giant",
+      "tier": 1,
+      "skill": 0,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 2633,
+    "sortId": 9,
+    "params": {
+      "1850": 1,
+      "1851": 1,
+      "1852": 1,
+      "2044": 1,
+      "id": 63,
+      "name": "Defeat a Goblin",
+      "description": "Defeat a Goblin",
+      "tier": 1,
+      "skill": 0,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 2634,
+    "sortId": 10,
+    "params": {
+      "1850": 1,
+      "1851": 1,
+      "1852": 1,
+      "2044": 1,
+      "id": 64,
+      "name": "Defeat a Guard",
+      "description": "Defeat a Guard",
+      "tier": 1,
+      "skill": 0,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5456,
+    "sortId": 11,
+    "params": {
+      "1851": 2,
+      "1852": 1,
+      "2044": 1,
+      "id": 67,
+      "name": "1 Wintertodt Kill",
+      "description": "Help the pyromancers subdue the Wintertodt",
+      "tier": 1,
+      "skill": 17,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5956,
+    "sortId": 12,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 68,
+      "name": "10 Wintertodt Kills",
+      "description": "Help the pyromancers subdue the Wintertodt 10 times",
+      "tier": 1,
+      "skill": 17,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5957,
+    "sortId": 13,
+    "params": {
+      "1851": 2,
+      "1852": 3,
+      "2044": 2,
+      "id": 69,
+      "name": "25 Wintertodt Kills",
+      "description": "Help the pyromancers subdue the Wintertodt 25 times",
+      "tier": 1,
+      "skill": 17,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5457,
+    "sortId": 14,
+    "params": {
+      "1851": 2,
+      "1852": 3,
+      "2044": 3,
+      "id": 70,
+      "name": "50 Wintertodt Kills",
+      "description": "Help the pyromancers subdue the Wintertodt 50 times",
+      "tier": 1,
+      "skill": 17,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5468,
+    "sortId": 15,
+    "params": {
+      "1851": 2,
+      "1852": 1,
+      "2044": 1,
+      "id": 71,
+      "name": "Complete 1 Farming Contract",
+      "description": "Complete a Farming Contract for Guildmaster Jane in the Farming Guild",
+      "tier": 1,
+      "skill": 21,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5958,
+    "sortId": 16,
+    "params": {
+      "1851": 2,
+      "1852": 3,
+      "2044": 2,
+      "id": 72,
+      "name": "Complete 10 Farming Contracts",
+      "description": "Complete 10 Farming Contracts for Guildmaster Jane in the Farming Guild",
+      "tier": 1,
+      "skill": 21,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5469,
+    "sortId": 17,
+    "params": {
+      "1851": 2,
+      "1852": 3,
+      "2044": 3,
+      "id": 73,
+      "name": "Complete 50 Farming Contracts",
+      "description": "Complete 50 Farming Contracts for Guildmaster Jane in the Farming Guild",
+      "tier": 1,
+      "skill": 21,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 2637,
+    "sortId": 18,
+    "params": {
+      "1850": 1,
+      "1851": 1,
+      "1852": 2,
+      "2044": 2,
+      "id": 74,
+      "name": "Equip a Wizard Robe and Hat",
+      "description": "Equip any wizard robe along with any wizard hat",
+      "tier": 1,
+      "skill": 4,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5492,
+    "sortId": 19,
+    "params": {
+      "1851": 1,
+      "2044": 2,
+      "id": 76,
+      "name": "Steal a Golovanova Fruit Top",
+      "description": "Steal a Golovanova fruit top from a fruit stall in Hosidius",
+      "tier": 1,
+      "skill": 10,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 2639,
+    "sortId": 20,
+    "params": {
+      "1850": 1,
+      "1851": 1,
+      "1852": 1,
+      "2044": 1,
+      "id": 94,
+      "name": "Restore 5 Prayer Points at an Altar",
+      "description": "Restore 5 or more Prayer Points at any altar",
+      "tier": 1,
+      "skill": 7,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 2640,
+    "sortId": 21,
+    "params": {
+      "1850": 1,
+      "1851": 1,
+      "1852": 1,
+      "2044": 1,
+      "id": 95,
+      "name": "Superhuman Strength and Improved Reflexes",
+      "description": "Use both the Superhuman Strength prayer and the Improved Reflexes prayer at the same time",
+      "tier": 1,
+      "skill": 7,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 2641,
+    "sortId": 22,
+    "params": {
+      "1850": 1,
+      "1851": 1,
+      "1852": 1,
+      "2044": 1,
+      "id": 97,
+      "name": "Bury Some Bones",
+      "description": "Bury any kind of Bones",
+      "tier": 1,
+      "skill": 7,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5546,
+    "sortId": 23,
+    "params": {
+      "1851": 3,
+      "1852": 1,
+      "2044": 1,
+      "id": 103,
+      "name": "1 Sarachnis Kill",
+      "description": "Kill Sarachnis in the Forthos Dungeon",
+      "tier": 1,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 2642,
+    "sortId": 24,
+    "params": {
+      "1850": 1,
+      "1851": 1,
+      "1852": 1,
+      "2044": 1,
+      "id": 122,
+      "name": "Visit Ferox Enclave",
+      "description": "Visit Ferox Enclave",
+      "tier": 1,
+      "skill": 0,
+      "area": 11,
+      "category": 6
+    }
+  },
+  {
+    "structId": 5626,
+    "sortId": 25,
+    "params": {
+      "1851": 1,
+      "1852": 2,
+      "2044": 2,
+      "id": 135,
+      "name": "Kourend and Kebos Easy Diary Tasks",
+      "description": "Complete all tasks in the easy tier of the Kourend and Kebos achievement diary",
+      "tier": 1,
+      "skill": 0,
+      "area": 10,
+      "category": 4
+    }
+  },
+  {
+    "structId": 5630,
+    "sortId": 26,
+    "params": {
+      "1851": 1,
+      "1852": 1,
+      "2044": 1,
+      "id": 139,
+      "name": "Open 1 Grubby Chest",
+      "description": "Open the grubby chest in the Forthos Dungeon",
+      "tier": 1,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5637,
+    "sortId": 27,
+    "params": {
+      "1851": 1,
+      "1852": 1,
+      "2044": 2,
+      "id": 142,
+      "name": "Steal 1 Artefact",
+      "description": "Steal an artefact for Captain Khaled in Piscarilius",
+      "tier": 1,
+      "skill": 10,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5638,
+    "sortId": 28,
+    "params": {
+      "1851": 1,
+      "1852": 2,
+      "2044": 2,
+      "id": 143,
+      "name": "Steal 15 Artefacts",
+      "description": "Steal 15 artefacts for Captain Khaled in Piscarilius",
+      "tier": 1,
+      "skill": 10,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5644,
+    "sortId": 29,
+    "params": {
+      "1851": 1,
+      "1852": 1,
+      "2044": 1,
+      "id": 145,
+      "name": "Turn in 1 Library Book",
+      "description": "Find and turn in a book in the Arceuus Library",
+      "tier": 1,
+      "skill": 0,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5967,
+    "sortId": 30,
+    "params": {
+      "1851": 1,
+      "1852": 2,
+      "2044": 2,
+      "id": 146,
+      "name": "Turn in 10 Library Books",
+      "description": "Find and turn in 10 books in the Arceuus Library",
+      "tier": 1,
+      "skill": 0,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5646,
+    "sortId": 31,
+    "params": {
+      "1851": 1,
+      "1852": 2,
+      "id": 147,
+      "name": "Turn in 50 Library Books",
+      "description": "Find and turn in 50 books in the Arceuus Library",
+      "tier": 1,
+      "skill": 0,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5651,
+    "sortId": 32,
+    "params": {
+      "1851": 1,
+      "1852": 1,
+      "2044": 2,
+      "id": 148,
+      "name": "1 Easy Clue Scroll",
+      "description": "Open a Reward casket for completing an easy clue scroll",
+      "tier": 1,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5652,
+    "sortId": 33,
+    "params": {
+      "1851": 1,
+      "1852": 1,
+      "2044": 2,
+      "id": 149,
+      "name": "25 Easy Clue Scrolls",
+      "description": "Open 25 Reward caskets for completing easy clue scrolls",
+      "tier": 1,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5658,
+    "sortId": 34,
+    "params": {
+      "1851": 1,
+      "1852": 1,
+      "2044": 2,
+      "id": 152,
+      "name": "1 Medium Clue Scroll",
+      "description": "Open a Reward casket for completing a medium clue scroll",
+      "tier": 1,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5691,
+    "sortId": 35,
+    "params": {
+      "1851": 1,
+      "id": 170,
+      "name": "Enter Level 3 of the Chasm of Fire",
+      "description": "Enter the 3rd level of the Chasm of Fire in Shayzien",
+      "tier": 1,
+      "skill": 0,
+      "area": 10,
+      "category": 6
+    }
+  },
+  {
+    "structId": 5692,
+    "sortId": 36,
+    "params": {
+      "1851": 1,
+      "1852": 1,
+      "id": 171,
+      "name": "Receive a Konar Slayer Task",
+      "description": "Have a Slayer Task assigned by Konar",
+      "tier": 1,
+      "skill": 20,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5693,
+    "sortId": 37,
+    "params": {
+      "1851": 1,
+      "2044": 1,
+      "id": 172,
+      "name": "Bank at Land's End",
+      "description": "Open your Bank using the Bank at Land's End",
+      "tier": 1,
+      "skill": 0,
+      "area": 10,
+      "category": 6
+    }
+  },
+  {
+    "structId": 5694,
+    "sortId": 38,
+    "params": {
+      "1851": 1,
+      "2044": 1,
+      "id": 173,
+      "name": "Bank at Mount Quidamortem",
+      "description": "Open your Bank using the Bank at Mount Quidamortem",
+      "tier": 1,
+      "skill": 0,
+      "area": 10,
+      "category": 6
+    }
+  },
+  {
+    "structId": 5695,
+    "sortId": 39,
+    "params": {
+      "1851": 1,
+      "2044": 1,
+      "id": 174,
+      "name": "Travel to Molch Island",
+      "description": "Take one of the boats around Lake Molch to Molch Island",
+      "tier": 1,
+      "skill": 0,
+      "area": 10,
+      "category": 6
+    }
+  },
+  {
+    "structId": 5696,
+    "sortId": 40,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 3,
+      "id": 175,
+      "name": "Equip Tier 5 Shayzien Armour",
+      "description": "Equip a full set of tier 5 Shayzien armour",
+      "tier": 1,
+      "skill": 5,
+      "area": 10,
+      "category": 6
+    }
+  },
+  {
+    "structId": 5697,
+    "sortId": 41,
+    "params": {
+      "1851": 1,
+      "id": 176,
+      "name": "Unlock All Catacombs Entrances",
+      "description": "Unlock all entrances to the Catacombs of Kourend around the kingdom",
+      "tier": 1,
+      "skill": 0,
+      "area": 10,
+      "category": 6
+    }
+  },
+  {
+    "structId": 5290,
+    "sortId": 42,
+    "params": {
+      "1851": 2,
+      "1852": 1,
+      "id": 4,
+      "name": "Complete Depths of Despair",
+      "description": "Complete the Depths of Despair quest",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 3
+    }
+  },
+  {
+    "structId": 5291,
+    "sortId": 43,
+    "params": {
+      "1851": 2,
+      "1852": 1,
+      "id": 5,
+      "name": "Complete Tale Of The Righteous",
+      "description": "Complete the Tale of the Righteous quest",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 3
+    }
+  },
+  {
+    "structId": 5292,
+    "sortId": 44,
+    "params": {
+      "1851": 2,
+      "1852": 1,
+      "id": 6,
+      "name": "Complete In Search Of Knowledge",
+      "description": "Complete the mini-quest 'In Search Of Knowledge'",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 3
+    }
+  },
+  {
+    "structId": 5293,
+    "sortId": 45,
+    "params": {
+      "1851": 2,
+      "1852": 1,
+      "id": 7,
+      "name": "Complete Architectural Alliance",
+      "description": "Complete the mini-quest 'Architectural Alliance'",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 3
+    }
+  },
+  {
+    "structId": 2584,
+    "sortId": 46,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 19,
+      "name": "Equip a Trimmed Amulet",
+      "description": "Equip a Trimmed Amulet",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2591,
+    "sortId": 47,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 27,
+      "name": "Fill 3 Elite Clue Collection Log Slots",
+      "description": "Fill 3 slots in the Elite Clue section of the Collection Log",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2596,
+    "sortId": 48,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 32,
+      "name": "Fill 3 Hard Clue Collection Log Slots",
+      "description": "Fill 3 slots in the Hard Clue section of the Collection Log",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2597,
+    "sortId": 49,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 33,
+      "name": "Fill 5 Medium Clue Collection Log Slots",
+      "description": "Fill 5 slots in the Medium Clue section of the Collection Log",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2602,
+    "sortId": 50,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 38,
+      "name": "Fill 5 Easy Clue Collection Log Slots",
+      "description": "Fill 5 slots in the Easy Clue section of the Collection Log",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2603,
+    "sortId": 51,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 39,
+      "name": "Fill 5 Beginner Clue Collection Log Slots",
+      "description": "Fill 5 slots in the Beginner Clue section of the Collection Log",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2612,
+    "sortId": 52,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 48,
+      "name": "Gain 5 Unique Items From Hard Clues",
+      "description": "Gain 5 unique items from Hard Clue Scroll Reward Caskets",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2614,
+    "sortId": 53,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 50,
+      "name": "Gain 10 Unique Items From Medium Clues",
+      "description": "Gain 10 unique items from Medium Clue Scroll Reward Caskets",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2616,
+    "sortId": 54,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 52,
+      "name": "Gain 10 Unique Items From Easy Clues",
+      "description": "Gain 10 unique items from Easy Clue Scroll Reward Caskets",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2618,
+    "sortId": 55,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 54,
+      "name": "Gain 10 Unique Items From Beginner Clues",
+      "description": "Gain 10 unique items from Beginner Clue Scroll Reward Caskets",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2619,
+    "sortId": 56,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 55,
+      "name": "Gain a Unique Item From a Hard Clue",
+      "description": "Gain a unique item from a Hard Clue Scroll Reward Casket",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2622,
+    "sortId": 57,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 58,
+      "name": "Gain a Unique Item From a Medium Clue",
+      "description": "Gain a unique item from a Medium Clue Scroll Reward Casket",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5431,
+    "sortId": 58,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "id": 60,
+      "name": "Defeat an Adult Chromatic Dragon",
+      "description": "Defeat either an adult Green Dragon, Blue Dragon, Red Dragon or Black Dragon",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 2632,
+    "sortId": 59,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 62,
+      "name": "Defeat a Lesser Demon",
+      "description": "Defeat a Lesser Demon",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 2638,
+    "sortId": 60,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 75,
+      "name": "Equip a Piece of a Mystic Set",
+      "description": "Equip any piece of any Mystic robe set",
+      "tier": 2,
+      "skill": 4,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5493,
+    "sortId": 61,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 77,
+      "name": "Plant 100 Golovanova Seeds",
+      "description": "Plant 100 Golovanova seeds in the Tithe Farm minigame",
+      "tier": 2,
+      "skill": 21,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5496,
+    "sortId": 62,
+    "params": {
+      "1851": 2,
+      "id": 80,
+      "name": "Enter the Farming Guild",
+      "description": "Enter the Farming Guild in the Kebos Lowlands",
+      "tier": 2,
+      "skill": 21,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5499,
+    "sortId": 63,
+    "params": {
+      "1851": 2,
+      "id": 83,
+      "name": "Serve 20 Stews in the Mess Hall",
+      "description": "Make and serve 20 stews in the Mess Hall in Hosidius, whilst having at least 30% appreciation",
+      "tier": 2,
+      "skill": 16,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5501,
+    "sortId": 64,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "id": 85,
+      "name": "Activate Smite",
+      "description": "Activate Smite in your prayer book",
+      "tier": 2,
+      "skill": 7,
+      "area": 0,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5502,
+    "sortId": 65,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 86,
+      "name": "Pickpocket a Master Farmer",
+      "description": "Successfully pickpocket from a master farmer",
+      "tier": 2,
+      "skill": 10,
+      "area": 0,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5503,
+    "sortId": 66,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 87,
+      "name": "Enter the Woodcutting Guild",
+      "description": "Enter the Woodcutting Guild in Hosidius",
+      "tier": 2,
+      "skill": 18,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5534,
+    "sortId": 67,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 96,
+      "name": "25 Superior Slayer Encounters",
+      "description": "Defeat 25 superior foes while on a Slayer Task",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5535,
+    "sortId": 68,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 98,
+      "name": "75 Superior Slayer Encounters",
+      "description": "Defeat 75 superior foes while on a Slayer Task",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5536,
+    "sortId": 69,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 3,
+      "id": 99,
+      "name": "100 Superior Slayer Encounters",
+      "description": "Defeat 100 superior foes while on a Slayer Task",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5959,
+    "sortId": 70,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 100,
+      "name": "50 Lizardmen Shaman Kills",
+      "description": "Help the Shayzien House by killing 50 Lizardmen shamans",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5960,
+    "sortId": 71,
+    "params": {
+      "1851": 2,
+      "1852": 3,
+      "2044": 2,
+      "id": 101,
+      "name": "150 Lizardmen Shaman Kills",
+      "description": "Help the Shayzien House by killing 150 Lizardmen shamans",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5961,
+    "sortId": 72,
+    "params": {
+      "1851": 2,
+      "1852": 4,
+      "2044": 3,
+      "id": 102,
+      "name": "300 Lizardmen Shaman Kills",
+      "description": "Help the Shayzien House by killing 300 Lizardmen shamans",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5547,
+    "sortId": 73,
+    "params": {
+      "1851": 3,
+      "1852": 2,
+      "2044": 2,
+      "id": 104,
+      "name": "50 Sarachnis Kills",
+      "description": "Kill Sarachnis in the Forthos Dungeon 50 times",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5548,
+    "sortId": 74,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 105,
+      "name": "150 Sarachnis Kills",
+      "description": "Kill Sarachnis in the Forthos Dungeon 150 times",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5549,
+    "sortId": 75,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 106,
+      "name": "300 Sarachnis Kills",
+      "description": "Kill Sarachnis in the Forthos Dungeon 300 times",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5557,
+    "sortId": 76,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 107,
+      "name": "1 Skotizo Kill",
+      "description": "Kill Skotizo beneath the Catacombs of Kourend",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5566,
+    "sortId": 77,
+    "params": {
+      "1851": 4,
+      "1852": 3,
+      "2044": 3,
+      "id": 110,
+      "name": "1 Alchemical Hydra Kill",
+      "description": "Kill the Alchemical Hydra in Mount Karuulm",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5567,
+    "sortId": 78,
+    "params": {
+      "1851": 4,
+      "1852": 3,
+      "2044": 3,
+      "id": 111,
+      "name": "50 Alchemical Hydra Kills",
+      "description": "Kill the Alchemical Hydra in Mount Karuulm 50 times",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5568,
+    "sortId": 79,
+    "params": {
+      "1851": 4,
+      "1852": 3,
+      "2044": 3,
+      "id": 112,
+      "name": "150 Alchemical Hydra Kills",
+      "description": "Kill the Alchemical Hydra in Mount Karuulm 150 times",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5569,
+    "sortId": 80,
+    "params": {
+      "1851": 4,
+      "1852": 4,
+      "2044": 4,
+      "id": 113,
+      "name": "300 Alchemical Hydra Kills",
+      "description": "Kill the Alchemical Hydra in Mount Karuulm 300 times",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5599,
+    "sortId": 81,
+    "params": {
+      "1851": 3,
+      "1852": 2,
+      "2044": 2,
+      "id": 120,
+      "name": "Teleport to Xeric's Honour",
+      "description": "Teleport to Xeric's Honour using Xeric's talisman",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 6
+    }
+  },
+  {
+    "structId": 5608,
+    "sortId": 82,
+    "params": {
+      "1851": 4,
+      "1852": 3,
+      "2044": 3,
+      "id": 130,
+      "name": "Equip a Brimstone Ring",
+      "description": "Obtain and equip a Brimstone ring",
+      "tier": 2,
+      "skill": 20,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 2643,
+    "sortId": 83,
+    "params": {
+      "1850": 2,
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 134,
+      "name": "Reach a Prayer Bonus of 15",
+      "description": "Equip enough item to reach a Prayer bonus of 15 or more",
+      "tier": 2,
+      "skill": 7,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5627,
+    "sortId": 84,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 136,
+      "name": "Kourend and Kebos Medium Diary Tasks",
+      "description": "Complete all tasks in the medium tier of the Kourend and Kebos achievement diary",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 4
+    }
+  },
+  {
+    "structId": 5965,
+    "sortId": 85,
+    "params": {
+      "1851": 2,
+      "1852": 1,
+      "id": 140,
+      "name": "Open 10 Grubby Chests",
+      "description": "Open the grubby chest in the Forthos Dungeon 10 times",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5966,
+    "sortId": 86,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "id": 141,
+      "name": "Open 25 Grubby Chests",
+      "description": "Open the grubby chest in the Forthos Dungeon 25 times",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5639,
+    "sortId": 87,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "id": 144,
+      "name": "Steal 30 Artefacts",
+      "description": "Steal 30 artefacts for Captain Khaled in Piscarilius",
+      "tier": 2,
+      "skill": 10,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5653,
+    "sortId": 88,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 150,
+      "name": "75 Easy Clue Scrolls",
+      "description": "Open 75 Reward caskets for completing easy clue scrolls",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5654,
+    "sortId": 89,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "id": 151,
+      "name": "150 Easy Clue Scrolls",
+      "description": "Open 150 Reward caskets for completing easy clue scrolls",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5659,
+    "sortId": 90,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 153,
+      "name": "25 Medium Clue Scrolls",
+      "description": "Open 25 Reward caskets for completing medium clue scrolls",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5660,
+    "sortId": 91,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 154,
+      "name": "75 Medium Clue Scrolls",
+      "description": "Open 75 Reward caskets for completing medium clue scrolls",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5661,
+    "sortId": 92,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "id": 155,
+      "name": "150 Medium Clue Scrolls",
+      "description": "Open 150 Reward caskets for completing medium clue scrolls",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5665,
+    "sortId": 93,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 156,
+      "name": "1 Hard Clue Scroll",
+      "description": "Open a Reward casket for completing a hard clue scroll",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5666,
+    "sortId": 94,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 157,
+      "name": "25 Hard Clue Scrolls",
+      "description": "Open 25 Reward caskets for completing hard clue scrolls",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5672,
+    "sortId": 95,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 160,
+      "name": "1 Elite Clue Scroll",
+      "description": "Open a Reward casket for completing an elite clue scroll",
+      "tier": 2,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5698,
+    "sortId": 96,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 177,
+      "name": "Equip Xeric's Talisman",
+      "description": "Obtain and equip Xeric's talisman",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5699,
+    "sortId": 97,
+    "params": {
+      "1851": 3,
+      "1852": 2,
+      "2044": 2,
+      "id": 178,
+      "name": "Cast Kourend Castle Teleport",
+      "description": "Cast the spell Kourend Castle Teleport after unlocking it by reading transportation incantations",
+      "tier": 2,
+      "skill": 4,
+      "area": 10,
+      "category": 6
+    }
+  },
+  {
+    "structId": 5700,
+    "sortId": 98,
+    "params": {
+      "1851": 2,
+      "id": 179,
+      "name": "Obtain the Temple Key",
+      "description": "Obtain the Temple key in the Forthos Dungeon",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5701,
+    "sortId": 99,
+    "params": {
+      "1851": 2,
+      "id": 180,
+      "name": "Purchase Gricoller's Can",
+      "description": "Purchase Gricoller's can from the Tithe Farm minigame",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5702,
+    "sortId": 100,
+    "params": {
+      "1851": 2,
+      "1852": 2,
+      "2044": 2,
+      "id": 181,
+      "name": "Purchase a Seed Box",
+      "description": "Purchase a Seed box from the Tithe Farm minigame",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5706,
+    "sortId": 101,
+    "params": {
+      "1851": 2,
+      "1852": 3,
+      "id": 184,
+      "name": "Equip a Pearl Fishing Rod",
+      "description": "Equip a Pearl fishing rod, purchased from Alry on Molch Island",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5707,
+    "sortId": 102,
+    "params": {
+      "1851": 2,
+      "1852": 3,
+      "id": 185,
+      "name": "Equip a Pearl Barbarian Rod",
+      "description": "Equip a Pearl barbarian rod, purchased from Alry on Molch Island",
+      "tier": 2,
+      "skill": 0,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 2574,
+    "sortId": 103,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 9,
+      "name": "Fill 5 Master Clue Collection Log Slots",
+      "description": "Fill 5 slots in the Master Clue section of the Collection Log",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5954,
+    "sortId": 104,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 12,
+      "name": "Equip a Gilded or Trimmed Wizard Item",
+      "description": "Equip either a Gilded armour item or trimmed wizard item",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2578,
+    "sortId": 105,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 13,
+      "name": "Equip a Full Vestment Set",
+      "description": "Equip a full set of Vestment robes with all pieces aligned to the same god",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2581,
+    "sortId": 106,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "id": 16,
+      "name": "Equip a Full Gilded Set",
+      "description": "Equip either a full set of Gilded Rune Armour or a full set of Gilded Dragonhide Armour",
+      "tier": 3,
+      "skill": 5,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2582,
+    "sortId": 107,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 17,
+      "name": "Equip a Full God Rune Set",
+      "description": "Equip a full set of God Rune Armour with all pieces aligned to the same god",
+      "tier": 3,
+      "skill": 5,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2585,
+    "sortId": 108,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 20,
+      "name": "Equip a Full God Dragonhide Set",
+      "description": "Equip a Blessed Coif, Body, Chaps and Vambraces with all pieces aligned to the same god",
+      "tier": 3,
+      "skill": 5,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2587,
+    "sortId": 109,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 23,
+      "name": "Equip an Ornament Kit Item",
+      "description": "Equip any item that has an Ornament Kit attached to it",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2589,
+    "sortId": 110,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 25,
+      "name": "Equip Some Ranger Boots",
+      "description": "Equip a pair of Ranger Boots",
+      "tier": 3,
+      "skill": 3,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2592,
+    "sortId": 111,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 28,
+      "name": "Fill 10 Elite Clue Collection Log Slots",
+      "description": "Fill 10 slots in the Elite Clue section of the Collection Log",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2593,
+    "sortId": 112,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 2,
+      "id": 29,
+      "name": "Fill 15 Hard Clue Collection Log Slots",
+      "description": "Fill 15 slots in the Hard Clue section of the Collection Log",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2598,
+    "sortId": 113,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 2,
+      "id": 34,
+      "name": "Fill 20 Medium Clue Collection Log Slots",
+      "description": "Fill 20 slots in the Medium Clue section of the Collection Log",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2599,
+    "sortId": 114,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 2,
+      "id": 35,
+      "name": "Fill 20 Easy Clue Collection Log Slots",
+      "description": "Fill 20 slots in the Easy Clue section of the Collection Log",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2604,
+    "sortId": 115,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 40,
+      "name": "Fill 10 Beginner Clue Collection Log Slots",
+      "description": "Fill 10 slots in the Beginner Clue section of the Collection Log",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2605,
+    "sortId": 116,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 41,
+      "name": "Gain 10 Unique Items From Master Clues",
+      "description": "Gain 10 unique items from Master Clue Scroll Reward Caskets",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2607,
+    "sortId": 117,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 43,
+      "name": "Gain 10 Unique Items From Elite Clues",
+      "description": "Gain 10 unique items from Elite Clue Scroll Reward Caskets",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2609,
+    "sortId": 118,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 2,
+      "id": 45,
+      "name": "Gain 20 Unique Items From Hard Clues",
+      "description": "Gain 20 unique items from Hard Clue Scroll Reward Caskets",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2611,
+    "sortId": 119,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 47,
+      "name": "Gain 25 Unique Items From Medium Clues",
+      "description": "Gain 25 unique items from Medium Clue Scroll Reward Caskets",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2613,
+    "sortId": 120,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 2,
+      "id": 49,
+      "name": "Gain 35 Unique Items From Easy Clues",
+      "description": "Gain 35 unique items from Easy Clue Scroll Reward Caskets",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2615,
+    "sortId": 121,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 51,
+      "name": "Gain 35 Unique Items From Beginner Clues",
+      "description": "Gain 35 unique items from Beginner Clue Scroll Reward Caskets",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2617,
+    "sortId": 122,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 2,
+      "id": 53,
+      "name": "Gain a Unique Item From a Master Clue",
+      "description": "Gain a unique item from a Master Clue Scroll Reward Casket",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2620,
+    "sortId": 123,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 56,
+      "name": "Gain a Unique Item From an Elite Clue",
+      "description": "Gain a unique item from an Elite Clue Scroll Reward Casket",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2635,
+    "sortId": 124,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 65,
+      "name": "Restore 75 Prayer Points at an Altar",
+      "description": "Restore 75 or more Prayer Points at any altar",
+      "tier": 3,
+      "skill": 7,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 2636,
+    "sortId": 125,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 66,
+      "name": "Reach a Prayer Bonus of 30",
+      "description": "Equip enough items to reach a Prayer Bonus of 30 or more",
+      "tier": 3,
+      "skill": 7,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5494,
+    "sortId": 126,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 78,
+      "name": "Plant 100 Bologano Seeds",
+      "description": "Plant 100 Bologano seeds in the Tithe Farm minigame",
+      "tier": 3,
+      "skill": 21,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5497,
+    "sortId": 127,
+    "params": {
+      "1851": 3,
+      "1852": 2,
+      "2044": 2,
+      "id": 81,
+      "name": "Enter the Farming Guild's Mid Tier",
+      "description": "Enter the mid tier of the Farming Guild in the Kebos Lowlands",
+      "tier": 3,
+      "skill": 21,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5500,
+    "sortId": 128,
+    "params": {
+      "1851": 3,
+      "id": 84,
+      "name": "Serve 20 Pizzas in the Mess Hall",
+      "description": "Make and serve 20 Pineapple pizzas in the Mess Hall in Hosidius, whilst having at least 30% appreciation",
+      "tier": 3,
+      "skill": 16,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5504,
+    "sortId": 129,
+    "params": {
+      "1851": 3,
+      "1852": 2,
+      "id": 88,
+      "name": "Obtain Adamantite Ore at the Blast Mine",
+      "description": "Obtain a piece of Adamantite ore while taking part in the Blast Mine",
+      "tier": 3,
+      "skill": 13,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5506,
+    "sortId": 130,
+    "params": {
+      "1851": 3,
+      "1852": 2,
+      "id": 90,
+      "name": "Chop a Magic Log at the Forsaken Tower",
+      "description": "Chop a log from the Magic trees around the Forsaken Tower",
+      "tier": 3,
+      "skill": 18,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5507,
+    "sortId": 131,
+    "params": {
+      "1851": 3,
+      "1852": 2,
+      "id": 91,
+      "name": "Cast Resurrect Crops",
+      "description": "Cast the spell Resurrect Crops from the Arceuus spellbook",
+      "tier": 3,
+      "skill": 4,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5558,
+    "sortId": 132,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 108,
+      "name": "10 Skotizo Kills",
+      "description": "Kill Skotizo beneath the Catacombs of Kourend 10 times",
+      "tier": 3,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5577,
+    "sortId": 133,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 114,
+      "name": "1 Chambers of Xeric",
+      "description": "Complete the Chambers of Xeric",
+      "tier": 3,
+      "skill": 0,
+      "area": 10,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5962,
+    "sortId": 134,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 115,
+      "name": "25 Chambers of Xeric",
+      "description": "Complete the Chambers of Xeric Normal or Challenge Mode 25 times",
+      "tier": 3,
+      "skill": 0,
+      "area": 10,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5578,
+    "sortId": 135,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 116,
+      "name": "50 Chambers of Xeric",
+      "description": "Complete the Chambers of Xeric Normal or Challenge Mode 50 times",
+      "tier": 3,
+      "skill": 0,
+      "area": 10,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5963,
+    "sortId": 136,
+    "params": {
+      "1851": 3,
+      "1852": 4,
+      "2044": 4,
+      "id": 117,
+      "name": "100 Chambers of Xeric",
+      "description": "Complete the Chambers of Xeric Normal or Challenge Mode 100 times",
+      "tier": 3,
+      "skill": 0,
+      "area": 10,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5586,
+    "sortId": 137,
+    "params": {
+      "1851": 3,
+      "1852": 4,
+      "id": 118,
+      "name": "1 Chambers of Xeric Challenge Mode",
+      "description": "Complete the Chambers of Xeric Challenge Mode",
+      "tier": 3,
+      "skill": 0,
+      "area": 10,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5964,
+    "sortId": 138,
+    "params": {
+      "1851": 3,
+      "1852": 4,
+      "id": 119,
+      "name": "25 Chambers of Xeric Challenge Mode",
+      "description": "Complete the Chambers of Xeric Challenge Mode 25 times",
+      "tier": 3,
+      "skill": 0,
+      "area": 10,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5600,
+    "sortId": 139,
+    "params": {
+      "1851": 3,
+      "1852": 4,
+      "2044": 4,
+      "id": 121,
+      "name": "Equip a Dragon Warhammer",
+      "description": "Obtain and equip a Dragon warhammer",
+      "tier": 3,
+      "skill": 2,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5601,
+    "sortId": 140,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 123,
+      "name": "Equip Boots of Brimstone",
+      "description": "Obtain and equip a pair of Boots of brimstone",
+      "tier": 3,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5602,
+    "sortId": 141,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 124,
+      "name": "Equip a Dust Battlestaff",
+      "description": "Obtain and equip a Dust battlestaff",
+      "tier": 3,
+      "skill": 4,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5603,
+    "sortId": 142,
+    "params": {
+      "1850": 3,
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 125,
+      "name": "Equip a Mist Battlestaff",
+      "description": "Obtain and equip a Mist battlestaff",
+      "tier": 3,
+      "skill": 4,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5606,
+    "sortId": 143,
+    "params": {
+      "1851": 4,
+      "1852": 3,
+      "2044": 3,
+      "id": 128,
+      "name": "Equip Ferocious Gloves",
+      "description": "Obtain and equip a pair of Ferocious gloves",
+      "tier": 3,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5628,
+    "sortId": 144,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 137,
+      "name": "Kourend and Kebos Hard Diary Tasks",
+      "description": "Complete all tasks in the hard tier of the Kourend and Kebos achievement diary",
+      "tier": 3,
+      "skill": 0,
+      "area": 10,
+      "category": 4
+    }
+  },
+  {
+    "structId": 5667,
+    "sortId": 145,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 158,
+      "name": "75 Hard Clue Scrolls",
+      "description": "Open 75 Reward caskets for completing hard clue scrolls",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5668,
+    "sortId": 146,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "id": 159,
+      "name": "150 Hard Clue Scrolls",
+      "description": "Open 150 Reward caskets for completing hard clue scrolls",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5673,
+    "sortId": 147,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 2,
+      "id": 161,
+      "name": "25 Elite Clue Scrolls",
+      "description": "Open 25 Reward caskets for completing elite clue scrolls",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5674,
+    "sortId": 148,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 162,
+      "name": "75 Elite Clue Scrolls",
+      "description": "Open 75 Reward caskets for completing elite clue scrolls",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5679,
+    "sortId": 149,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 164,
+      "name": "1 Master Clue Scroll",
+      "description": "Open a Reward casket for completing a master clue scroll",
+      "tier": 3,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5686,
+    "sortId": 150,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 168,
+      "name": "1 Mimic Kill",
+      "description": "Kill the Mimic as part of a Treasure Trail",
+      "tier": 3,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5687,
+    "sortId": 151,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 169,
+      "name": "5 Mimic Kills",
+      "description": "Kill the Mimic as part of a Treasure Trail 5 times",
+      "tier": 3,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5703,
+    "sortId": 152,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "id": 182,
+      "name": "Equip the Farmer's Outfit",
+      "description": "Equip a full set of the Farmer's outfit, purchased from the Tithe Farm minigame",
+      "tier": 3,
+      "skill": 21,
+      "area": 10,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5705,
+    "sortId": 153,
+    "params": {
+      "1851": 3,
+      "1852": 3,
+      "2044": 3,
+      "id": 183,
+      "name": "Equip the Pyromancer's Garb",
+      "description": "Equip a full set of Pyromancer's garb, rewarded from the Wintertodt",
+      "tier": 3,
+      "skill": 17,
+      "area": 10,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2573,
+    "sortId": 154,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "1852": 4,
+      "2044": 3,
+      "id": 8,
+      "name": "Fill 25 Elite Clue Collection Log Slots",
+      "description": "Fill 25 slots in the Elite Clue section of the Collection Log",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2575,
+    "sortId": 155,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "1852": 4,
+      "2044": 4,
+      "id": 10,
+      "name": "Fill 25 Master Clue Collection Log Slots",
+      "description": "Fill 25 slots in the Master Clue section of the Collection Log",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2579,
+    "sortId": 156,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "1852": 4,
+      "id": 14,
+      "name": "Use the Explore Emote",
+      "description": "Use the Explore emote",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2583,
+    "sortId": 157,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "1852": 4,
+      "id": 18,
+      "name": "Read a Clueless Scroll",
+      "description": "Read a Clueless Scroll",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2586,
+    "sortId": 158,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "1852": 4,
+      "id": 21,
+      "name": "Equip a Heavy Casket",
+      "description": "Equip a Heavy Casket",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5955,
+    "sortId": 159,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "id": 22,
+      "name": "Equip a Large Spade",
+      "description": "Equip a Large Spade",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2588,
+    "sortId": 160,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "1852": 4,
+      "id": 24,
+      "name": "Equip a Scroll Sack",
+      "description": "Equip a Scroll Sack",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2590,
+    "sortId": 161,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "1852": 4,
+      "id": 26,
+      "name": "Transform into Uri",
+      "description": "Use the Uri Transform emote",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2594,
+    "sortId": 162,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "1852": 4,
+      "2044": 3,
+      "id": 30,
+      "name": "Fill 30 Hard Clue Collection Log Slots",
+      "description": "Fill 30 slots in the Hard Clue section of the Collection Log",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2595,
+    "sortId": 163,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "1852": 4,
+      "2044": 3,
+      "id": 31,
+      "name": "Fill 40 Medium Clue Collection Log Slots",
+      "description": "Fill 40 slots in the Medium Clue section of the Collection Log",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2600,
+    "sortId": 164,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "1852": 4,
+      "2044": 3,
+      "id": 36,
+      "name": "Fill 50 Easy Clue Collection Log Slots",
+      "description": "Fill 50 slots in the Easy Clue section of the Collection Log",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2601,
+    "sortId": 165,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "1852": 4,
+      "2044": 4,
+      "id": 37,
+      "name": "Fill Every Beginner Clue Collection Log Slot",
+      "description": "Fill every slot in the Beginner Clue section of the Collection Log",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2606,
+    "sortId": 166,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "1852": 4,
+      "2044": 4,
+      "id": 42,
+      "name": "Gain 25 Unique Items From Master Clues",
+      "description": "Gain 25 unique items from Master Clue Scroll Reward Caskets",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2608,
+    "sortId": 167,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "1852": 4,
+      "2044": 4,
+      "id": 44,
+      "name": "Gain 25 Unique Items From Elite Clues",
+      "description": "Gain 25 unique items from Elite Clue Scroll Reward Caskets",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 2610,
+    "sortId": 168,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "1852": 4,
+      "2044": 3,
+      "id": 46,
+      "name": "Gain 50 Unique Items From Hard Clues",
+      "description": "Gain 50 unique items from Hard Clue Scroll Reward Caskets",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5495,
+    "sortId": 169,
+    "params": {
+      "1851": 4,
+      "1852": 3,
+      "2044": 3,
+      "id": 79,
+      "name": "Plant 100 Logavano Seeds",
+      "description": "Plant 100 Logavano seeds in the Tithe Farm minigame",
+      "tier": 4,
+      "skill": 21,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5498,
+    "sortId": 170,
+    "params": {
+      "1851": 4,
+      "1852": 3,
+      "2044": 3,
+      "id": 82,
+      "name": "Enter the Farming Guild's High Tier",
+      "description": "Enter the high tier of the Farming Guild in the Kebos Lowlands",
+      "tier": 4,
+      "skill": 21,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5505,
+    "sortId": 171,
+    "params": {
+      "1851": 4,
+      "2044": 3,
+      "id": 89,
+      "name": "Obtain Runite Ore at the Blast Mine",
+      "description": "Obtain a piece of Runite ore while taking part in the Blast Mine",
+      "tier": 4,
+      "skill": 13,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5508,
+    "sortId": 172,
+    "params": {
+      "1851": 4,
+      "id": 92,
+      "name": "Steal from a Gem Stall in Kourend",
+      "description": "Successfully steal from a gem stall",
+      "tier": 4,
+      "skill": 10,
+      "area": 0,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5509,
+    "sortId": 173,
+    "params": {
+      "1851": 4,
+      "1852": 4,
+      "2044": 4,
+      "id": 93,
+      "name": "Check a grown Redwood Tree",
+      "description": "Check the health of a Redwood Tree after growing one in the Farming Guild",
+      "tier": 4,
+      "skill": 21,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5559,
+    "sortId": 174,
+    "params": {
+      "1851": 4,
+      "1852": 3,
+      "id": 109,
+      "name": "25 Skotizo Kills",
+      "description": "Kill Skotizo beneath the Catacombs of Kourend 25 times",
+      "tier": 4,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5604,
+    "sortId": 175,
+    "params": {
+      "1851": 4,
+      "1852": 4,
+      "2044": 4,
+      "id": 126,
+      "name": "Equip an Eternal Slayer Ring",
+      "description": "Craft and equip an Eternal slayer ring",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5605,
+    "sortId": 176,
+    "params": {
+      "1850": 4,
+      "1851": 4,
+      "1852": 4,
+      "2044": 4,
+      "id": 127,
+      "name": "Activate an Imbued Heart",
+      "description": "Obtain and activate an Imbued heart",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5607,
+    "sortId": 177,
+    "params": {
+      "1851": 4,
+      "1852": 4,
+      "2044": 4,
+      "id": 129,
+      "name": "Equip a Dragon Hunter Lance",
+      "description": "Obtain and equip a Dragon hunter lance",
+      "tier": 4,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5629,
+    "sortId": 178,
+    "params": {
+      "1851": 4,
+      "1852": 4,
+      "2044": 4,
+      "id": 138,
+      "name": "Kourend and Kebos Elite Diary Tasks",
+      "description": "Complete all tasks in the elite tier of the Kourend and Kebos achievement diary",
+      "tier": 4,
+      "skill": 0,
+      "area": 10,
+      "category": 4
+    }
+  },
+  {
+    "structId": 5675,
+    "sortId": 179,
+    "params": {
+      "1851": 4,
+      "1852": 3,
+      "id": 163,
+      "name": "150 Elite Clue Scrolls",
+      "description": "Open 150 Reward caskets for completing elite clue scrolls",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5680,
+    "sortId": 180,
+    "params": {
+      "1851": 4,
+      "1852": 3,
+      "2044": 3,
+      "id": 165,
+      "name": "25 Master Clue Scrolls",
+      "description": "Open 25 Reward caskets for completing master clue scrolls",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5681,
+    "sortId": 181,
+    "params": {
+      "1851": 4,
+      "1852": 4,
+      "2044": 4,
+      "id": 166,
+      "name": "75 Master Clue Scrolls",
+      "description": "Open 75 Reward caskets for completing master clue scrolls",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5682,
+    "sortId": 182,
+    "params": {
+      "1851": 4,
+      "1852": 4,
+      "id": 167,
+      "name": "150 Master Clue Scrolls",
+      "description": "Open 150 Reward caskets for completing master clue scrolls",
+      "tier": 4,
+      "skill": 0,
+      "area": 0,
+      "category": 5
+    }
+  },
+  {
+    "structId": 5708,
+    "sortId": 183,
+    "params": {
+      "1851": 4,
+      "2044": 3,
+      "id": 186,
+      "name": "Equip a Fish Sack",
+      "description": "Equip a Fish sack, purchased from Alry on Molch Island",
+      "tier": 4,
+      "skill": 0,
+      "area": 10,
+      "category": 1
+    }
+  },
+  {
+    "structId": 5609,
+    "sortId": 184,
+    "params": {
+      "1851": 5,
+      "1852": 5,
+      "2044": 5,
+      "id": 131,
+      "name": "Equip a Twisted Bow",
+      "description": "Obtain and equip a Twisted bow",
+      "tier": 5,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5610,
+    "sortId": 185,
+    "params": {
+      "1851": 5,
+      "1852": 4,
+      "2044": 4,
+      "id": 132,
+      "name": "Equip an Elder Maul",
+      "description": "Obtain and equip an Elder maul",
+      "tier": 5,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5611,
+    "sortId": 186,
+    "params": {
+      "1851": 5,
+      "1852": 4,
+      "2044": 4,
+      "id": 133,
+      "name": "Equip a Kodai Wand",
+      "description": "Obtain and equip a Kodai wand",
+      "tier": 5,
+      "skill": 0,
+      "area": 10,
+      "category": 2
+    }
+  },
+  {
+    "structId": 5709,
+    "sortId": 187,
+    "params": {
+      "1851": 5,
+      "1852": 4,
+      "2044": 4,
+      "id": 187,
+      "name": "Equip a Golden Tench",
+      "description": "Equip a Golden tench, caught by aerial fishing on Molch Island",
+      "tier": 5,
+      "skill": 0,
+      "area": 10,
+      "category": 1
+    }
+  }
+]

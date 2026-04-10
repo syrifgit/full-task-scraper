@@ -1,12 +1,12 @@
 /**
- * Manages generated/leagues.json metadata.
+ * Manages leagues/index.json metadata.
  */
 
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import * as path from 'path';
 import { LeagueMetadata } from './types';
 
-const LEAGUES_FILE = './generated/leagues.json';
+const LEAGUES_FILE = './leagues/index.json';
 
 export function loadLeagues(): LeagueMetadata[] {
   if (!existsSync(LEAGUES_FILE)) return [];
@@ -32,7 +32,7 @@ export function findLeagueByTaskType(taskTypeName: string): LeagueMetadata | nul
 /** Resolve the output directory for a league */
 export function resolveOutputDir(taskTypeName: string): string {
   const league = findLeagueByTaskType(taskTypeName);
-  if (league) return path.join('./generated', league.dir);
+  if (league) return path.join('./leagues', league.dir);
   return './generated';
 }
 
@@ -46,6 +46,13 @@ export function updateLeague(taskTypeName: string, updates: Partial<LeagueMetada
     Object.assign(league, updates);
     saveLeagues(leagues);
   }
+}
+
+/** Check if a league has ended (endDate is set and in the past) */
+export function isLeagueEnded(taskTypeName: string): boolean {
+  const league = findLeagueByTaskType(taskTypeName);
+  if (!league?.endDate) return false;
+  return new Date(league.endDate) < new Date();
 }
 
 /** Get wiki config for a task type */

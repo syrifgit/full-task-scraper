@@ -1,120 +1,105 @@
-# full-task-scraper
+# OSRS League Task Data Scraper
 
-A fork of [osrs-reldo/task-scraper](https://github.com/osrs-reldo/task-scraper) that extends the original scraper to produce self-hosted, fully-resolved task JSON files for all OSRS leagues. The upstream repo does the heavy lifting -- this fork adds a `generate-full` command and hosts the output.
+A self-sufficient TypeScript CLI that extracts OSRS league task data directly from the game cache, enriches it with wiki data, classifies tasks by location, and outputs multiple formats. No external task-type definitions needed - discovers everything from the cache.
 
-## Credit
+## What it does
 
-The vast majority of this codebase was built by the [osrs-reldo](https://github.com/osrs-reldo) team. This fork adds a thin layer on top for generating and self-hosting full task data. All game cache reading, wiki scraping, struct/enum resolution, and CLI infrastructure comes from the original project.
+- Extracts task data from OSRS game cache for leagues 1-5 from a single cache file
+- Resolves task names, descriptions, areas, categories, skills, and tier info
+- Scrapes wiki for completion percentages, skill requirements, and notes
+- Classifies tasks by location type (SINGLE/MULTI/UNCLEAR) and resolves GPS coordinates
+- Outputs full normalized JSON, raw param values, lean plugin format, and CSV exports
+- Manages game cache with auto-download and update commands
+- Detects and reports new leagues and irregularities in the cache
 
-## Purpose
+## Architecture
 
-The upstream scraper produces minimal task JSON (just `structId` + `sortId`) for the [Tasks Tracker RuneLite plugin](https://github.com/osrs-reldo/tasks-tracker-plugin), which resolves names, areas, and tiers from the live OSRS game client at runtime. External tools (like web-based route planners) don't have access to a live game client, so they need a fully-resolved version with human-readable field values.
+Self-contained TypeScript pipeline (~1,100 lines across 10 source files) with no framework dependencies. Python classification pipeline bundled for location categorization.
 
-This fork:
-- Generates **normalized** task JSON with all params resolved to strings (`LEAGUE_5.full.json`)
-- Generates **raw** task JSON with unresolved integer param values (`LEAGUE_5.raw.json`)
-- Hosts historical task data for all leagues in `generated/`, raw + full normalized available for leagues 5 and beyond
-- Auto-detects the active league from date metadata
+**Directory structure:**
+```
+src/              # TypeScript pipeline (extract, hydrate, output, wiki scraping)
+classify/         # Python classification + location resolution pipeline
+  data/           # Wiki-derived coordinate data (NPCs, scenery, items, spawns)
+  rules.json      # 255+ classification rules for SINGLE/MULTI/UNCLEAR
+  curated_coords.json  # Hand-verified overrides for problematic tasks
+leagues/          # Output per league
+  index.json      # League metadata (dates, wiki URLs, task counts)
+  league-N-name/  # Per-league output files
+osrs-cache/       # Game cache (auto-downloaded, git-ignored)
+```
 
-## Requirements
-
-- Node v22.4.0+
-- Game cache files auto-download from [abextm/osrs-cache](https://github.com/abextm/osrs-cache) on first run
-
-## Usage
-
-### Generate full task JSON for the current league
+## Installation
 
 ```bash
-# Auto-detect active league from generated/leagues.json dates
-npm run cli -- tasks generate-full
+npm install
+```
 
-# Or specify explicitly
+**Requirements:**
+- Node v22.4.0+
+- Python 3 (for classification pipeline)
+- Game cache auto-downloads on first run from [abextm/osrs-cache](https://github.com/abextm/osrs-cache)
+
+## CLI Commands
+
+### Full pipeline
+
+```bash
+# Generate everything: extract from cache, scrape wiki, classify, add locations
+npm run cli -- tasks generate-full [LEAGUE_N]
+
+# Specify league explicitly (e.g., LEAGUE_5, LEAGUE_4)
 npm run cli -- tasks generate-full LEAGUE_5
 ```
 
-This produces three files in the appropriate league subfolder:
+Produces `*.full.json` (fully resolved), `*.min.json` (plugin format), `*.raw.json` (raw params), and `*.csv` (spreadsheet).
+
+### Classification and location resolution
+
+```bash
+# Run classification pipeline + merge locations into full.json
+npm run cli -- tasks classify LEAGUE_N
+
+# Merge only a locations.json without re-running classification
+npm run cli -- tasks merge-locations LEAGUE_N --locations=<path>
+```
+
+### Wiki updates
+
+```bash
+# Re-scrape wiki without re-extracting from cache (much faster)
+npm run cli -- tasks update-wiki [LEAGUE_N]
+```
+
+### Discovery and diagnosis
+
+```bash
+# Scan cache for leagues, detect new ones, report inconsistencies
+npm run cli -- tasks discover [--wiki <url>] [--prev-tier <param>]
+```
+
+### Cache management
+
+```bash
+# Check cache status (version, size, last updated)
+npm run cli -- cache status
+
+# Download/update game cache to latest
+npm run cli -- cache update
+```
+
+## Output formats per league
+
+All outputs in `leagues/league-N-name/`:
 
 | File | Description |
 |------|-------------|
-| `LEAGUE_5.full.json` | Normalized -- all params resolved to human-readable values |
-| `LEAGUE_5.raw.json` | Raw -- integer param values preserved, mapped names where known |
-| `LEAGUE_5.csv` | CSV export of normalized data -- for Google Sheets, Excel, etc. |
+| `LEAGUE_N.full.json` | Everything resolved: name, description, area, category, skill, tier, wiki notes (plain + HTML), skill requirements, classification (SINGLE/MULTI/UNCLEAR), location (x, y, plane for single-location tasks) |
+| `LEAGUE_N.min.json` | Lean plugin format: structId, sortId, skills array, wikiNotes, completionPercent, location |
+| `LEAGUE_N.raw.json` | Raw param values from cache with integer IDs |
+| `LEAGUE_N.csv` | Spreadsheet export (Google Sheets, Excel) |
 
-### Re-scrape wiki data only
-
-During a league, completion percentages change as players progress. This command updates wiki data (completion %, skills, notes) in the existing `full.json` without re-extracting from the game cache -- much faster than a full regeneration.
-
-```bash
-# Auto-detect active league
-npm run cli -- tasks update-wiki
-
-# Or specify explicitly
-npm run cli -- tasks update-wiki LEAGUE_5
-```
-
-### Other useful commands
-
-```bash
-# Check local game cache status
-npm run cli -- cache status
-
-# Update game cache to latest
-npm run cli -- cache update
-
-# Interactive task extraction (for discovering new league param maps)
-npm run cli -- tasks extract
-
-# Update varps from game scripts
-npm run cli -- tasks update-varps --type LEAGUE_5 --json
-```
-
-## Consuming this data
-
-The generated JSON files are committed to this repo and can be fetched directly via raw GitHub URLs. This is the intended primary method of consumption -- no need to clone the repo or run the scraper yourself.
-
-```
-https://raw.githubusercontent.com/syrifgit/full-task-scraper/main/generated/leagues.json
-https://raw.githubusercontent.com/syrifgit/full-task-scraper/main/generated/league-5-raging-echoes/LEAGUE_5.full.json
-https://raw.githubusercontent.com/syrifgit/full-task-scraper/main/generated/league-5-raging-echoes/LEAGUE_5.csv
-```
-
-**For web tools and other external consumers:**
-1. Fetch `leagues.json` to discover available leagues, dates, and file paths
-2. Fetch the `*.full.json` for the league you need
-3. That's it
-
-**For Google Sheets / Excel:**
-A CSV is also available for each league. In Google Sheets, use:
-```
-=IMPORTDATA("https://raw.githubusercontent.com/syrifgit/full-task-scraper/main/generated/league-5-raging-echoes/LEAGUE_5.csv")
-```
-
-### Freshness
-
-During an active league, the generated data is automatically regenerated whenever the [abextm/osrs-cache](https://github.com/abextm/osrs-cache) repo updates. Wiki data (completion %, skill requirements, notes) is re-scraped on a regular cadence during the league to keep percentages current.
-
-## Output structure
-
-```
-generated/
-  leagues.json                          # Metadata for all leagues (dates, task counts, file paths)
-  league-1-twisted/
-    LEAGUE1.full.json                   # 495 tasks (from upstream legacy data)
-  league-2-trailblazer/
-    LEAGUE2.full.json                   # 1020 tasks
-  league-3-shattered-relics/
-    LEAGUE3.full.json                   # 1260 tasks
-  league-4-trailblazer-reloaded/
-    LEAGUE4.full.json                   # 1481 tasks
-  league-5-raging-echoes/
-    LEAGUE_5.full.json                  # 1589 tasks (generated from game cache + wiki)
-    LEAGUE_5.raw.json                   # 1589 tasks (raw param values)
-    LEAGUE_5.csv                        # 1589 tasks (CSV for spreadsheets)
-  league-6-demonic-pacts/               # Awaiting league launch (April 2026)
-```
-
-### Normalized task example (`*.full.json`)
+### Full format example
 
 ```json
 {
@@ -132,58 +117,122 @@ generated/
     { "skill": "DEFENCE", "level": 40 },
     { "skill": "RANGED", "level": 70 }
   ],
-  "wikiNotes": "70 Ranged,  40 Defence"
+  "wikiNotes": "70 Ranged, 40 Defence",
+  "classification": "SINGLE",
+  "location": {
+    "x": 2445,
+    "y": 3202,
+    "plane": 0
+  }
 }
 ```
 
-### Raw task example (`*.raw.json`)
+### Minimal plugin format example
 
 ```json
 {
   "structId": 1918,
   "sortId": 849,
-  "params": {
-    "id": 425,
-    "name": "Equip a Full Black Dragonhide Set",
-    "description": "Equip a Black Dragonhide Body, some Black Dragonhide Chaps and some Black Dragonhide Vambraces",
-    "category": 2,
-    "area": 0,
-    "skill": 3,
-    "tier": 3,
-    "1850": 3,
-    "1851": 3,
-    "1852": 3
+  "skills": [
+    { "skill": "DEFENCE", "level": 40 },
+    { "skill": "RANGED", "level": 70 }
+  ],
+  "wikiNotes": "70 Ranged, 40 Defence",
+  "completionPercent": 29.1,
+  "location": {
+    "x": 2445,
+    "y": 3202,
+    "plane": 0
   }
 }
 ```
 
-## leagues.json
+## Self-sufficient design
 
-Central metadata file tracking all leagues. Used by the `generate-full` command for auto-detection and output routing.
+The scraper discovers everything needed from the game cache:
 
-```json
-{
-  "league": 5,
-  "name": "Raging Echoes League",
-  "shortName": "Raging Echoes",
-  "startDate": "2024-11-27",
-  "endDate": "2025-01-22",
-  "taskTypeName": "LEAGUE_5",
-  "wikiUrl": "https://oldschool.runescape.wiki/w/Raging_Echoes_League/Tasks",
-  "taskCount": 1589,
-  "dir": "league-5-raging-echoes",
-  "taskFile": "LEAGUE_5.full.json"
-}
+- **Stable param IDs** (873-875, 1016-1018) are identical across all leagues
+  - 873 = varbit index, 874 = name, 875 = description
+  - 1016 = category, 1017 = area, 1018 = skill
+- **Tier param varies per league** (1849, 1850, 1851, 1852, 2044)
+- **Name resolution enums** discovered automatically from cache
+- **No dependency on external task-types.json** - everything is in the game cache
+
+## Classification pipeline
+
+Bundled Python pipeline (stdlib only, no pip dependencies) for categorizing tasks:
+
+- **255+ classification rules** for determining SINGLE vs MULTI vs UNCLEAR locations
+- **Location resolution** for SINGLE-location tasks using bundled wiki data
+- **Curated overrides** for problematic tasks (bosses, minigames, entity-name conflicts)
+- **623 L5 tasks with GPS coordinates** verified against wiki spawn data
+
+Coordinate data bundled includes:
+- NPC locations (Shortest Path plugin export)
+- Scenery coordinates (wiki cache)
+- Item spawns (wiki cache)
+- Minigame/boss overrides
+
+## Historical data protection
+
+Ended leagues are read-only:
+
+```bash
+# Refuses to overwrite L1-L4 without explicit force flag
+npm run cli -- tasks generate-full LEAGUE_4
+# Error: League 4 ended. Use --force to regenerate.
+
+npm run cli -- tasks generate-full LEAGUE_4 --force
+```
+
+## Current league data
+
+| League | Tasks | Wiki Coverage | Classification |
+|--------|-------|---|---|
+| L1 Twisted | 188 | No | No |
+| L2 Trailblazer | 942 | Yes (695 matched) | No |
+| L3 Shattered Relics | 1169 | Yes (905 matched) | No |
+| L4 Trailblazer Reloaded | 1472 | Yes (1091 matched) | No |
+| L5 Raging Echoes | 1589 | Yes (1589 matched) | Yes (623 with GPS coords) |
+
+## Using the generated data
+
+The output files are committed to this repo and available via raw GitHub URLs - the intended primary consumption method. No need to clone or run the scraper yourself.
+
+### For web tools
+
+```bash
+# Get all available leagues
+https://raw.githubusercontent.com/osrs-reldo/full-task-scraper/main/leagues/index.json
+
+# Get full task data for a league
+https://raw.githubusercontent.com/osrs-reldo/full-task-scraper/main/leagues/league-5-raging-echoes/LEAGUE_5.full.json
+
+# Get minimal plugin format
+https://raw.githubusercontent.com/osrs-reldo/full-task-scraper/main/leagues/league-5-raging-echoes/LEAGUE_5.min.json
+```
+
+Workflow:
+1. Fetch `leagues/index.json` to discover available leagues and file paths
+2. Fetch the `*.full.json` or `*.min.json` for your league
+3. Done
+
+### For spreadsheets
+
+CSV exports work directly in Google Sheets and Excel:
+
+```
+=IMPORTDATA("https://raw.githubusercontent.com/osrs-reldo/full-task-scraper/main/leagues/league-5-raging-echoes/LEAGUE_5.csv")
 ```
 
 ## Data sources
 
-| Source | What it provides |
-|--------|-----------------|
-| [abextm/osrs-cache](https://github.com/abextm/osrs-cache) | Game cache `.flatcache` files (auto-downloaded) |
-| [OSRS Wiki](https://oldschool.runescape.wiki) | Completion %, skill requirements, wiki notes (scraped at generation time) |
-| [osrs-reldo/task-json-store](https://github.com/osrs-reldo/task-json-store) | `task-types.json` for param/enum map definitions |
+| Source | Provides |
+|--------|----------|
+| [abextm/osrs-cache](https://github.com/abextm/osrs-cache) | Game cache `.flatcache` files |
+| [OSRS Wiki](https://oldschool.runescape.wiki) | Completion %, skill requirements, notes |
+| Bundled classification data | Wiki spawn coords, NPC locations, curated overrides |
 
-## Monitoring
+## Credit
 
-A GitHub Actions workflow (`check-upstream.yml`) runs daily to check if the upstream [osrs-reldo/task-scraper](https://github.com/osrs-reldo/task-scraper) has been updated, and opens an issue if so.
+Original codebase built by the [osrs-reldo](https://github.com/osrs-reldo) team. This is a rebuilt fork that extends the scraper with a self-hosted, fully-resolved task JSON pipeline and location classification.

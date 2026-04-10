@@ -1,0 +1,23 @@
+This project incorporates data and code from the following sources:
+
+OSRS Wiki (https://oldschool.runescape.wiki/)
+  License: CC BY-NC-SA 3.0
+  Used for: Task completion percentages, skill requirements, wiki notes,
+  entity spawn coordinates (locline_index.json), and scenery/monster/item
+  spawn data (scenery.json, monsters.json, item_spawns.json).
+
+@abextm/cache2 (https://github.com/abextm/cache2)
+  License: BSD 2-Clause
+  Used for: Reading OSRS game cache files.
+
+Shortest Path RuneLite Plugin
+  License: BSD 2-Clause
+  Used for: Walkable tile coordinates (banks, altars, transport locations)
+  in shortest_path_locations.json.
+
+osrs-reldo/task-scraper (https://github.com/osrs-reldo/task-scraper)
+  Original codebase this project was forked from and rebuilt.
+
+OSRS Game Cache (https://github.com/abextm/osrs-cache)
+  Game data extracted from the Old School RuneScape client.
+  Old School RuneScape is a trademark of Jagex Ltd.

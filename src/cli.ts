@@ -5,6 +5,8 @@ import { downloadCache, getLatestCommitHash, getLocalCommitHash } from './cache/
 import { generateFull, classifyAndMerge, updateWiki } from './pipeline';
 import { mergeLocations } from './output/writers';
 import { resolveOutputDir } from './leagues';
+import { createCacheProvider } from './cache/provider';
+import { runDiscovery, formatReport } from './discover';
 import * as path from 'path';
 
 const program = new Command();
@@ -62,8 +64,9 @@ tasks
   .command('generate-full')
   .description('Full pipeline: extract from cache, scrape wiki, resolve params, output all formats')
   .argument('[task-type]', 'Task type name (e.g., LEAGUE_5). Auto-detects active league if omitted.')
-  .action(async (taskType?: string) => {
-    await generateFull(taskType);
+  .option('--force', 'Allow regenerating ended leagues (overwrites historical data)')
+  .action(async (taskType: string | undefined, options: { force?: boolean }) => {
+    await generateFull(taskType, options.force);
   });
 
 tasks
@@ -92,6 +95,20 @@ tasks
   .argument('[task-type]', 'Task type name. Auto-detects active league if omitted.')
   .action(async (taskType?: string) => {
     await updateWiki(taskType);
+  });
+
+tasks
+  .command('discover')
+  .description('Scan cache for league data, detect new leagues, and report irregularities')
+  .option('--wiki <url>', 'Wiki tasks page URL to cross-reference against cache')
+  .option('--prev-tier <param>', 'Previous league tier param ID for comparison (default: latest known)', parseInt)
+  .action(async (options: { wiki?: string; prevTier?: number }) => {
+    const cache = await createCacheProvider();
+    const report = await runDiscovery(cache, {
+      wikiUrl: options.wiki,
+      previousLeagueTier: options.prevTier,
+    });
+    console.log(formatReport(report));
   });
 
 // ============================================================

@@ -17,7 +17,7 @@ jobs:
         run: |
           ACTIVE=$(python3 -c "
           import json
-          leagues = json.load(open('generated/leagues.json'))
+          leagues = json.load(open('leagues/index.json'))
           for l in leagues:
             if l.get('active') and l.get('taskTypeName'):
               print(l['taskTypeName'])
@@ -72,18 +72,18 @@ jobs:
         run: |
           LEAGUE_DIR=$(python3 -c "
           import json
-          leagues = json.load(open('generated/leagues.json'))
+          leagues = json.load(open('leagues/index.json'))
           for l in leagues:
             if l.get('taskTypeName','').upper() == '${{ steps.check-active.outputs.task_type }}'.upper():
-              print('generated/' + l['dir'])
+              print('leagues/' + l['dir'])
               break
           ")
           TASK_TYPE=${{ steps.check-active.outputs.task_type }}
-          python3 scripts/classify.py \
+          python3 classify/classify.py \
             --input="${LEAGUE_DIR}/${TASK_TYPE}.full.json" \
             --coords \
             --output="${LEAGUE_DIR}/locations.json" \
-            --data-dir=data/
+            --data-dir=classify/data/
           npm run cli -- tasks merge-locations ${TASK_TYPE} \
             --locations="${LEAGUE_DIR}/locations.json"
 
@@ -92,7 +92,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add generated/ && git add -f osrs-cache/cache-version.txt
+          git add leagues/ && git add -f osrs-cache/cache-version.txt
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else

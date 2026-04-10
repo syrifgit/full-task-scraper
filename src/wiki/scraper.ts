@@ -52,8 +52,13 @@ export async function scrapeAndMergeWikiData(
         ? task.wikiNotes + '; ' + row.requirements
         : row.requirements;
     }
+    if (row.requirementsHtml) {
+      task.wikiNotesHtml = task.wikiNotesHtml
+        ? task.wikiNotesHtml + '; ' + row.requirementsHtml
+        : row.requirementsHtml;
+    }
     if (row.skills.length > 0) {
-      task.skills = mergeSkills(task.skills || [], row.skills);
+      task.skillRequirements = mergeSkills(task.skillRequirements || [], row.skills);
     }
     merged++;
   }
@@ -115,25 +120,35 @@ async function scrapeWikiPage(
       }
     }
 
-    // Clean requirements text (strip skill spans, coin amounts, region buttons)
-    let requirements = getCell(columns.requirementsColumnId);
-    // Remove the skill span text that we already extracted
+    // Requirements: capture both plain text and HTML versions
+    let requirements: string | undefined;
+    let requirementsHtml: string | undefined;
     if (
       columns.requirementsColumnId >= 0 &&
       columns.requirementsColumnId < cells.length
     ) {
       const $reqCell = $(cells[columns.requirementsColumnId]);
-      // Get text without the scp spans
+      // HTML version: inner HTML with wiki formatting preserved
+      requirementsHtml = $reqCell.html()?.trim() || undefined;
+      // Plain text version: strip skill spans, get clean text
       const clone = $reqCell.clone();
       clone.find('span.scp').remove();
-      requirements = clone.text().trim();
+      requirements = clone.text().trim() || undefined;
+    }
+
+    // Filter out "N/A" as empty (appears as plain text or wrapped in <small>)
+    if (requirements === 'N/A') requirements = undefined;
+    if (requirementsHtml) {
+      const stripped = requirementsHtml.replace(/<[^>]*>/g, '').trim();
+      if (stripped === 'N/A' || stripped === '') requirementsHtml = undefined;
     }
 
     results.push({
       varbitIndex,
       name: getCell(columns.nameColumnId),
       description: getCell(columns.descriptionColumnId),
-      requirements: requirements || undefined,
+      requirements,
+      requirementsHtml,
       points: getCell(columns.pointsColumnId),
       completionPercent,
       skills,

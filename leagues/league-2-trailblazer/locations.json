@@ -1,0 +1,5340 @@
+{
+  "1850": {
+    "classification": "SINGLE",
+    "reason": "[rule:regex] Activity inside POH",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
+  },
+  "1852": {
+    "classification": "SINGLE",
+    "reason": "[rule:regex] Activity inside POH",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
+  },
+  "1853": {
+    "classification": "SINGLE",
+    "reason": "[rule:regex] Activity inside POH",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
+  },
+  "1856": {
+    "classification": "SINGLE",
+    "reason": "[rule:regex] Activity inside POH",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
+  },
+  "1904": {
+    "classification": "SINGLE",
+    "reason": "[rule:regex] Activity inside POH",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
+  },
+  "1940": {
+    "classification": "SINGLE",
+    "reason": "[named_location] fossil island",
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
+  },
+  "1941": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 3815,
+      "y": 3810,
+      "plane": 0
+    }
+  },
+  "1942": {
+    "classification": "SINGLE",
+    "reason": "[named_location] fossil island",
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
+  },
+  "1943": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 3815,
+      "y": 3810,
+      "plane": 0
+    }
+  },
+  "1944": {
+    "classification": "SINGLE",
+    "reason": "[named_location] lumbridge",
+    "location": {
+      "x": 3212,
+      "y": 3215,
+      "plane": 0
+    }
+  },
+  "1945": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: cooks' guild west of varrock",
+    "location": {
+      "x": 3141,
+      "y": 3443,
+      "plane": 0
+    }
+  },
+  "1948": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] HAM hideout only",
+    "location": {
+      "x": 3166,
+      "y": 9622,
+      "plane": 0
+    }
+  },
+  "1949": {
+    "classification": "SINGLE",
+    "reason": "[named_location] varrock",
+    "location": {
+      "x": 3213,
+      "y": 3428,
+      "plane": 0
+    }
+  },
+  "1951": {
+    "classification": "SINGLE",
+    "reason": "[scenery] 'tea stall' (tea stall) has 1 spawn in misthalin",
+    "location": {
+      "x": 3269,
+      "y": 3410,
+      "plane": 0
+    }
+  },
+  "1956": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Specific altar",
+    "location": {
+      "x": 2715,
+      "y": 4837,
+      "plane": 0
+    }
+  },
+  "1957": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Specific altar",
+    "location": {
+      "x": 2141,
+      "y": 4834,
+      "plane": 0
+    }
+  },
+  "1958": {
+    "classification": "SINGLE",
+    "reason": "[named_location] fossil island",
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
+  },
+  "1960": {
+    "classification": "SINGLE",
+    "reason": "[rule:exact] Lesser Demon at the top of Wizards' Tower - description constrains to one location",
+    "location": {
+      "x": 3110,
+      "y": 3157,
+      "plane": 2
+    }
+  },
+  "1961": {
+    "classification": "SINGLE",
+    "reason": "[named_location] fossil island",
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
+  },
+  "1962": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'rune dragon' has 1 location: Lithkren Vault",
+    "location": {
+      "x": 1585,
+      "y": 5072,
+      "plane": 0
+    }
+  },
+  "1965": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'wall beast' has 1 location: Lumbridge Swamp Caves",
+    "location": {
+      "x": 3187,
+      "y": 9564,
+      "plane": 0
+    }
+  },
+  "1966": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'obor' has 1 location: Obor's Lair (Edgeville Dungeon)",
+    "location": {
+      "x": 3091,
+      "y": 9801,
+      "plane": 0
+    }
+  },
+  "1969": {
+    "classification": "SINGLE",
+    "reason": "[named_location] edgeville dungeon",
+    "location": {
+      "x": 3121,
+      "y": 9895,
+      "plane": 0
+    }
+  },
+  "1970": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'bryophyta' has 1 location: Bryophyta's Lair (Varrock Sewers)",
+    "location": {
+      "x": 3220,
+      "y": 9933,
+      "plane": 0
+    }
+  },
+  "1974": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'abyssal sire' has 1 location: Abyssal Nexus",
+    "location": {
+      "x": 3107,
+      "y": 4791,
+      "plane": 0
+    }
+  },
+  "1976": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'ancient wyvern' has 1 location: Wyvern Cave",
+    "location": {
+      "x": 3631,
+      "y": 10248,
+      "plane": 0
+    }
+  },
+  "1978": {
+    "classification": "SINGLE",
+    "reason": "[named_location] abyssal nexus",
+    "location": {
+      "x": 3037,
+      "y": 4785,
+      "plane": 0
+    }
+  },
+  "1990": {
+    "classification": "SINGLE",
+    "reason": "[structural] Specific transport route",
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
+  },
+  "1995": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] One location",
+    "location": {
+      "x": 3232,
+      "y": 9531,
+      "plane": 2
+    }
+  },
+  "2001": {
+    "classification": "SINGLE",
+    "reason": "[named_location] fossil island",
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
+  },
+  "2006": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Varrock Museum only",
+    "location": {
+      "x": 3257,
+      "y": 3452,
+      "plane": 0
+    }
+  },
+  "2007": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: draynor manor through the front door",
+    "location": {
+      "x": 3108,
+      "y": 3353,
+      "plane": 0
+    }
+  },
+  "2010": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Prifddinas allotment patch - one spot",
+    "location": {
+      "x": 3266,
+      "y": 6069,
+      "plane": 0
+    }
+  },
+  "2016": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: prifddinas",
+    "location": {
+      "x": 3288,
+      "y": 6142,
+      "plane": 0
+    }
+  },
+  "2019": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Specific altar",
+    "location": {
+      "x": 2204,
+      "y": 4837,
+      "plane": 0
+    }
+  },
+  "2022": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'waterfiend' has 1 location: Iorwerth Dungeon",
+    "location": {
+      "x": 3177,
+      "y": 12459,
+      "plane": 0
+    }
+  },
+  "2026": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'moss giant' has 1 location: Prifddinas",
+    "location": {
+      "x": 2301,
+      "y": 3381,
+      "plane": 0
+    }
+  },
+  "2027": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'mutated bloodveld' has 1 location: Iorwerth Dungeon",
+    "location": {
+      "x": 3243,
+      "y": 12427,
+      "plane": 0
+    }
+  },
+  "2028": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 3228,
+      "y": 6116,
+      "plane": 0
+    }
+  },
+  "2029": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 3228,
+      "y": 6116,
+      "plane": 0
+    }
+  },
+  "2031": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'kurask' has 1 location: Iorwerth Dungeon",
+    "location": {
+      "x": 3232,
+      "y": 12371,
+      "plane": 0
+    }
+  },
+  "2032": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'zalcano' has 1 location: Volcanic caverns beneath Prifddinas",
+    "location": {
+      "x": 3031,
+      "y": 6048,
+      "plane": 0
+    }
+  },
+  "2034": {
+    "classification": "SINGLE",
+    "reason": "[named_location] poison waste",
+    "location": {
+      "x": 2268,
+      "y": 3073,
+      "plane": 0
+    }
+  },
+  "2057": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'greater nechryael' has 1 location: Iorwerth Dungeon",
+    "location": {
+      "x": 3225,
+      "y": 12439,
+      "plane": 0
+    }
+  },
+  "2058": {
+    "classification": "SINGLE",
+    "reason": "[structural] Specific bank location",
+    "location": {
+      "x": 2353,
+      "y": 3164,
+      "plane": 0
+    }
+  },
+  "2064": {
+    "classification": "SINGLE",
+    "reason": "[named_location] prifddinas",
+    "location": {
+      "x": 3266,
+      "y": 6069,
+      "plane": 0
+    }
+  },
+  "2065": {
+    "classification": "SINGLE",
+    "reason": "[structural] Specific transport route",
+    "location": {
+      "x": 2157,
+      "y": 3330,
+      "plane": 0
+    }
+  },
+  "2066": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] One NPC (post-SOTE)",
+    "location": {
+      "x": 2739,
+      "y": 4644,
+      "plane": 0
+    }
+  },
+  "2067": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Lunar Isle altar",
+    "location": {
+      "x": 2101,
+      "y": 3918,
+      "plane": 0
+    }
+  },
+  "2071": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'kalphite queen' has 1 location: Kalphite Lair",
+    "location": {
+      "x": 3186,
+      "y": 9424,
+      "plane": 0
+    }
+  },
+  "2072": {
+    "classification": "SINGLE",
+    "reason": "[rule:regex] Activity inside POH",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
+  },
+  "2073": {
+    "classification": "SINGLE",
+    "reason": "[rule:regex] Activity inside POH",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
+  },
+  "2074": {
+    "classification": "SINGLE",
+    "reason": "[rule:regex] Activity inside POH",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
+  },
+  "2075": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Specific altar",
+    "location": {
+      "x": 2152,
+      "y": 3863,
+      "plane": 0
+    }
+  },
+  "2076": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: penguin",
+    "location": {
+      "x": 2632,
+      "y": 4061,
+      "plane": 0
+    }
+  },
+  "2077": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'kalphite queen' has 1 location: Kalphite Lair",
+    "location": {
+      "x": 3186,
+      "y": 9424,
+      "plane": 0
+    }
+  },
+  "2078": {
+    "classification": "SINGLE",
+    "reason": "[named_location] weiss",
+    "location": {
+      "x": 2848,
+      "y": 3934,
+      "plane": 0
+    }
+  },
+  "2080": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location raid",
+    "location": {
+      "x": 3651,
+      "y": 3208,
+      "plane": 0
+    }
+  },
+  "2081": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 1946,
+      "y": 4959,
+      "plane": 0
+    }
+  },
+  "2083": {
+    "classification": "SINGLE",
+    "reason": "[rule:regex] Activity inside POH",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
+  },
+  "2084": {
+    "classification": "SINGLE",
+    "reason": "[rule:regex] Teleport tablets crafted at player owned house lectern",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
+  },
+  "2086": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'basilisk knight' has 1 location: Jormungand's Prison",
+    "location": {
+      "x": 2431,
+      "y": 10386,
+      "plane": 0
+    }
+  },
+  "2087": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'vorkath' has 1 location: Ungael",
+    "location": {
+      "x": 2269,
+      "y": 4062,
+      "plane": 0
+    }
+  },
+  "2089": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location raid",
+    "location": {
+      "x": 3651,
+      "y": 3208,
+      "plane": 0
+    }
+  },
+  "2090": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'cockatrice' has 1 location: Fremennik Slayer Cave",
+    "location": {
+      "x": 2791,
+      "y": 10034,
+      "plane": 0
+    }
+  },
+  "2091": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'kurask' has 1 location: Fremennik Slayer Dungeon",
+    "location": {
+      "x": 2697,
+      "y": 9996,
+      "plane": 0
+    }
+  },
+  "2094": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'pyrefiend' has 1 location: Fremennik Slayer Cave",
+    "location": {
+      "x": 2760,
+      "y": 10004,
+      "plane": 0
+    }
+  },
+  "2101": {
+    "classification": "SINGLE",
+    "reason": "[named_location] waterbirth island dungeon",
+    "location": {
+      "x": 2631,
+      "y": 9667,
+      "plane": 0
+    }
+  },
+  "2110": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'vorkath' has 1 location: Ungael",
+    "location": {
+      "x": 2269,
+      "y": 4062,
+      "plane": 0
+    }
+  },
+  "2111": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'turoth' has 1 location: Fremennik Slayer Dungeon",
+    "location": {
+      "x": 2723,
+      "y": 10005,
+      "plane": 0
+    }
+  },
+  "2116": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'jelly' has 1 location: Fremennik Slayer Dungeon",
+    "location": {
+      "x": 2704,
+      "y": 10027,
+      "plane": 0
+    }
+  },
+  "2118": {
+    "classification": "SINGLE",
+    "reason": "[named_location] waterbirth island dungeon",
+    "location": {
+      "x": 2631,
+      "y": 9667,
+      "plane": 0
+    }
+  },
+  "2132": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] One NPC",
+    "location": {
+      "x": 2634,
+      "y": 3664,
+      "plane": 0
+    }
+  },
+  "2137": {
+    "classification": "SINGLE",
+    "reason": "[structural] Specific bank location",
+    "location": {
+      "x": 2414,
+      "y": 3803,
+      "plane": 0
+    }
+  },
+  "2139": {
+    "classification": "SINGLE",
+    "reason": "[structural] Specific bank location",
+    "location": {
+      "x": 2339,
+      "y": 3807,
+      "plane": 0
+    }
+  },
+  "2141": {
+    "classification": "SINGLE",
+    "reason": "[structural] Specific bank location",
+    "location": {
+      "x": 2099,
+      "y": 3919,
+      "plane": 0
+    }
+  },
+  "2143": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Brimhaven Agility Arena",
+    "location": {
+      "x": 2786,
+      "y": 9572,
+      "plane": 0
+    }
+  },
+  "2144": {
+    "classification": "SINGLE",
+    "reason": "[named_location] brimhaven",
+    "location": {
+      "x": 2782,
+      "y": 3175,
+      "plane": 0
+    }
+  },
+  "2150": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] One fishing spot",
+    "location": {
+      "x": 2855,
+      "y": 2974,
+      "plane": 0
+    }
+  },
+  "2153": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Specific altar",
+    "location": {
+      "x": 2399,
+      "y": 4842,
+      "plane": 0
+    }
+  },
+  "2155": {
+    "classification": "SINGLE",
+    "reason": "[named_location] mor ul rek",
+    "location": {
+      "x": 2479,
+      "y": 5178,
+      "plane": 0
+    }
+  },
+  "2160": {
+    "classification": "SINGLE",
+    "reason": "[named_location] shilo village",
+    "location": {
+      "x": 2852,
+      "y": 2954,
+      "plane": 0
+    }
+  },
+  "2165": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'greater demon' has 1 location: Brimhaven Dungeon",
+    "location": {
+      "x": 2636,
+      "y": 9491,
+      "plane": 1
+    }
+  },
+  "2168": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2496,
+      "y": 5115,
+      "plane": 0
+    }
+  },
+  "2172": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2437,
+      "y": 5168,
+      "plane": 0
+    }
+  },
+  "2173": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2437,
+      "y": 5168,
+      "plane": 0
+    }
+  },
+  "2175": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2496,
+      "y": 5115,
+      "plane": 0
+    }
+  },
+  "2176": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2496,
+      "y": 5115,
+      "plane": 0
+    }
+  },
+  "2178": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'steel dragon' has 1 location: Brimhaven Dungeon",
+    "location": {
+      "x": 2715,
+      "y": 9446,
+      "plane": 0
+    }
+  },
+  "2183": {
+    "classification": "SINGLE",
+    "reason": "[named_location] musa point",
+    "location": {
+      "x": 2938,
+      "y": 3149,
+      "plane": 0
+    }
+  },
+  "2184": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: hardwood grove in tai bwo wannai",
+    "location": {
+      "x": 2822,
+      "y": 3082,
+      "plane": 0
+    }
+  },
+  "2186": {
+    "classification": "SINGLE",
+    "reason": "[named_location] mor ul rek",
+    "location": {
+      "x": 2449,
+      "y": 5150,
+      "plane": 0
+    }
+  },
+  "2187": {
+    "classification": "SINGLE",
+    "reason": "[scenery] 'pineapple' (pineapple plant (wild)) 5 spawns within 22 tiles (~2754,3158)",
+    "location": {
+      "x": 2754,
+      "y": 3158,
+      "plane": 0
+    }
+  },
+  "2189": {
+    "classification": "SINGLE",
+    "reason": "[named_location] tai bwo wannai",
+    "location": {
+      "x": 2797,
+      "y": 3085,
+      "plane": 0
+    }
+  },
+  "2191": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: brimhaven dungeon",
+    "location": {
+      "x": 2712,
+      "y": 9471,
+      "plane": 0
+    }
+  },
+  "2193": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'hero' has 1 location: Ardougne Market",
+    "location": {
+      "x": 2648,
+      "y": 3303,
+      "plane": 0
+    }
+  },
+  "2194": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: gnome stronghold",
+    "location": {
+      "x": 2474,
+      "y": 3435,
+      "plane": 0
+    }
+  },
+  "2195": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: barbarian outpost",
+    "location": {
+      "x": 2545,
+      "y": 3569,
+      "plane": 0
+    }
+  },
+  "2198": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'crimson swift' has 1 location: Eastern Feldip Hunter area",
+    "location": {
+      "x": 2605,
+      "y": 2909,
+      "plane": 0
+    }
+  },
+  "2199": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'spined larupia' has 1 location: Feldip Hunter area",
+    "location": {
+      "x": 2557,
+      "y": 2896,
+      "plane": 0
+    }
+  },
+  "2202": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'red salamander (hunter)' has 1 location: Ourania Hunter area",
+    "location": {
+      "x": 2461,
+      "y": 3233,
+      "plane": 0
+    }
+  },
+  "2203": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: fishing guild",
+    "location": {
+      "x": 2596,
+      "y": 3413,
+      "plane": 0
+    }
+  },
+  "2204": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Piscatoris Fishing Colony",
+    "location": {
+      "x": 2327,
+      "y": 3701,
+      "plane": 0
+    }
+  },
+  "2206": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2667,
+      "y": 3165,
+      "plane": 0
+    }
+  },
+  "2213": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'mithril dragon' has 1 location: Ancient Cavern",
+    "location": {
+      "x": 1834,
+      "y": 5401,
+      "plane": 0
+    }
+  },
+  "2214": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'demonic gorilla' has 1 location: Crash Site Cavern",
+    "location": {
+      "x": 2107,
+      "y": 5661,
+      "plane": 0
+    }
+  },
+  "2215": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'smoke devil' has 1 location: Smoke Devil Dungeon",
+    "location": {
+      "x": 2394,
+      "y": 9443,
+      "plane": 0
+    }
+  },
+  "2222": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: ranging guild",
+    "location": {
+      "x": 2661,
+      "y": 3435,
+      "plane": 0
+    }
+  },
+  "2225": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: wizards' guild in yanille",
+    "location": {
+      "x": 2592,
+      "y": 3088,
+      "plane": 0
+    }
+  },
+  "2226": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'cave kraken' has 1 location: Kraken Cove",
+    "location": {
+      "x": 2271,
+      "y": 10011,
+      "plane": 0
+    }
+  },
+  "2227": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'thermonuclear smoke devil' has 1 location: Smoke Devil Dungeon",
+    "location": {
+      "x": 2360,
+      "y": 9452,
+      "plane": 0
+    }
+  },
+  "2229": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'bloodveld' has 1 location: Stronghold Slayer Cave",
+    "location": {
+      "x": 2460,
+      "y": 9823,
+      "plane": 0
+    }
+  },
+  "2239": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'demonic gorilla' has 1 location: Crash Site Cavern",
+    "location": {
+      "x": 2107,
+      "y": 5661,
+      "plane": 0
+    }
+  },
+  "2242": {
+    "classification": "SINGLE",
+    "reason": "[structural] Visit specific location: tree gnome village",
+    "location": {
+      "x": 2504,
+      "y": 3191,
+      "plane": 0
+    }
+  },
+  "2244": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: myths' guild",
+    "location": {
+      "x": 2465,
+      "y": 2848,
+      "plane": 1
+    }
+  },
+  "2245": {
+    "classification": "SINGLE",
+    "reason": "[structural] Visit specific location: tree gnome stronghold",
+    "location": {
+      "x": 2465,
+      "y": 3489,
+      "plane": 0
+    }
+  },
+  "2246": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2441,
+      "y": 3090,
+      "plane": 0
+    }
+  },
+  "2247": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2532,
+      "y": 3570,
+      "plane": 0
+    }
+  },
+  "2248": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2532,
+      "y": 3570,
+      "plane": 0
+    }
+  },
+  "2256": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2532,
+      "y": 3570,
+      "plane": 0
+    }
+  },
+  "2281": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: crafting guild",
+    "location": {
+      "x": 2933,
+      "y": 3290,
+      "plane": 0
+    }
+  },
+  "2282": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Specific altar",
+    "location": {
+      "x": 2984,
+      "y": 3293,
+      "plane": 0
+    }
+  },
+  "2283": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Specific altar",
+    "location": {
+      "x": 2521,
+      "y": 4836,
+      "plane": 0
+    }
+  },
+  "2284": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Specific altar",
+    "location": {
+      "x": 2464,
+      "y": 4832,
+      "plane": 0
+    }
+  },
+  "2287": {
+    "classification": "SINGLE",
+    "reason": "[named_location] troll stronghold",
+    "location": {
+      "x": 2826,
+      "y": 3694,
+      "plane": 0
+    }
+  },
+  "2290": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'giant mole' has 1 location: Mole Hole (Under Falador Park)",
+    "location": {
+      "x": 1759,
+      "y": 5189,
+      "plane": 0
+    }
+  },
+  "2295": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'skeletal wyvern' has 1 location: Asgarnian Ice Dungeon",
+    "location": {
+      "x": 3058,
+      "y": 9561,
+      "plane": 0
+    }
+  },
+  "2296": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'k'ril tsutsaroth' has 1 location: God Wars Dungeon (Zamorak boss room)",
+    "location": {
+      "x": 2925,
+      "y": 5322,
+      "plane": 0
+    }
+  },
+  "2301": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'general graardor' has 1 location: God Wars Dungeon (Bandos boss room)",
+    "location": {
+      "x": 2872,
+      "y": 5358,
+      "plane": 0
+    }
+  },
+  "2305": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'kree'arra' has 1 location: God Wars Dungeon (Armadyl boss room)",
+    "location": {
+      "x": 2832,
+      "y": 5302,
+      "plane": 0
+    }
+  },
+  "2309": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'commander zilyana' has 1 location: God Wars Dungeon (Saradomin boss room)",
+    "location": {
+      "x": 2905,
+      "y": 5237,
+      "plane": 0
+    }
+  },
+  "2313": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'black demon' has 1 location: Taverley Dungeon",
+    "location": {
+      "x": 2850,
+      "y": 9783,
+      "plane": 0
+    }
+  },
+  "2314": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'black dragon' has 1 location: Taverley Dungeon",
+    "location": {
+      "x": 2832,
+      "y": 9825,
+      "plane": 0
+    }
+  },
+  "2315": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'cerberus' has 1 location: Cerberus' Lair",
+    "location": {
+      "x": 1310,
+      "y": 1251,
+      "plane": 0
+    }
+  },
+  "2317": {
+    "classification": "SINGLE",
+    "reason": "[named_location] god wars dungeon",
+    "location": {
+      "x": 2872,
+      "y": 5311,
+      "plane": 2
+    }
+  },
+  "2318": {
+    "classification": "SINGLE",
+    "reason": "[named_location] god wars dungeon",
+    "location": {
+      "x": 2872,
+      "y": 5311,
+      "plane": 2
+    }
+  },
+  "2319": {
+    "classification": "SINGLE",
+    "reason": "[named_location] god wars dungeon",
+    "location": {
+      "x": 2872,
+      "y": 5311,
+      "plane": 2
+    }
+  },
+  "2330": {
+    "classification": "SINGLE",
+    "reason": "[npc_fallback] 'Wyson the Gardener' has 1 spawn",
+    "location": {
+      "x": 3027,
+      "y": 3379,
+      "plane": 0
+    }
+  },
+  "2332": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: warriors' guild",
+    "location": {
+      "x": 2845,
+      "y": 3541,
+      "plane": 0
+    }
+  },
+  "2333": {
+    "classification": "SINGLE",
+    "reason": "[named_location] warriors' guild",
+    "location": {
+      "x": 2845,
+      "y": 3541,
+      "plane": 0
+    }
+  },
+  "2335": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2662,
+      "y": 2655,
+      "plane": 0
+    }
+  },
+  "2336": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2662,
+      "y": 2655,
+      "plane": 0
+    }
+  },
+  "2337": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2662,
+      "y": 2655,
+      "plane": 0
+    }
+  },
+  "2338": {
+    "classification": "SINGLE",
+    "reason": "[named_location] Taverley",
+    "location": {
+      "x": 2914,
+      "y": 3454,
+      "plane": 0
+    }
+  },
+  "2350": {
+    "classification": "SINGLE",
+    "reason": "[named_location] sorceress's garden",
+    "location": {
+      "x": 2892,
+      "y": 5467,
+      "plane": 0
+    }
+  },
+  "2351": {
+    "classification": "SINGLE",
+    "reason": "[named_location] sorceress's garden",
+    "location": {
+      "x": 2892,
+      "y": 5467,
+      "plane": 0
+    }
+  },
+  "2352": {
+    "classification": "SINGLE",
+    "reason": "[named_location] sorceress's garden",
+    "location": {
+      "x": 2892,
+      "y": 5467,
+      "plane": 0
+    }
+  },
+  "2353": {
+    "classification": "SINGLE",
+    "reason": "[named_location] sorceress's garden",
+    "location": {
+      "x": 2892,
+      "y": 5467,
+      "plane": 0
+    }
+  },
+  "2354": {
+    "classification": "SINGLE",
+    "reason": "[npc_fallback] 'Osman' has 1 spawn",
+    "location": {
+      "x": 3286,
+      "y": 3180,
+      "plane": 0
+    }
+  },
+  "2361": {
+    "classification": "SINGLE",
+    "reason": "[npc_fallback] 'Simon Templeton' has 1 spawn",
+    "location": {
+      "x": 3344,
+      "y": 2828,
+      "plane": 0
+    }
+  },
+  "2362": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Specific altar",
+    "location": {
+      "x": 2584,
+      "y": 4839,
+      "plane": 0
+    }
+  },
+  "2363": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fire Altar",
+    "location": {
+      "x": 2584,
+      "y": 4839,
+      "plane": 0
+    }
+  },
+  "2367": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'orange salamander (hunter)' at specific location: Uzer Hunter area",
+    "location": {
+      "x": 3408,
+      "y": 3098,
+      "plane": 0
+    }
+  },
+  "2368": {
+    "classification": "SINGLE",
+    "reason": "[named_location] kharidian desert quarry",
+    "location": {
+      "x": 3164,
+      "y": 2914,
+      "plane": 0
+    }
+  },
+  "2369": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'al kharid warrior' has 1 location: Al Kharid",
+    "location": {
+      "x": 3282,
+      "y": 3176,
+      "plane": 0
+    }
+  },
+  "2371": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'dust devil' has 1 location: Smoke Dungeon",
+    "location": {
+      "x": 3216,
+      "y": 9374,
+      "plane": 0
+    }
+  },
+  "2372": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'kalphite queen' has 1 location: Kalphite Lair",
+    "location": {
+      "x": 3186,
+      "y": 9424,
+      "plane": 0
+    }
+  },
+  "2390": {
+    "classification": "SINGLE",
+    "reason": "[named_location] al kharid",
+    "location": {
+      "x": 3282,
+      "y": 3176,
+      "plane": 0
+    }
+  },
+  "2398": {
+    "classification": "SINGLE",
+    "reason": "[structural] Specific bank location",
+    "location": {
+      "x": 3427,
+      "y": 2894,
+      "plane": 0
+    }
+  },
+  "2399": {
+    "classification": "SINGLE",
+    "reason": "[named_location] nardah",
+    "location": {
+      "x": 3427,
+      "y": 2891,
+      "plane": 0
+    }
+  },
+  "2403": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: sophanem",
+    "location": {
+      "x": 3281,
+      "y": 2770,
+      "plane": 0
+    }
+  },
+  "2404": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: kalphite lair",
+    "location": {
+      "x": 3228,
+      "y": 3108,
+      "plane": 0
+    }
+  },
+  "2415": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 3363,
+      "y": 3318,
+      "plane": 0
+    }
+  },
+  "2416": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    }
+  },
+  "2418": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: werewolf",
+    "location": {
+      "x": 3532,
+      "y": 9912,
+      "plane": 0
+    }
+  },
+  "2425": {
+    "classification": "SINGLE",
+    "reason": "[named_location] canifis",
+    "location": {
+      "x": 3515,
+      "y": 3481,
+      "plane": 0
+    }
+  },
+  "2427": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'gargoyle' has 1 location: Slayer Tower",
+    "location": {
+      "x": 3439,
+      "y": 3542,
+      "plane": 2
+    }
+  },
+  "2428": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Sisterhood Sanctuary",
+    "location": {
+      "x": 3871,
+      "y": 9952,
+      "plane": 0
+    }
+  },
+  "2430": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'fiyr shade' has 1 location: Shade Catacombs",
+    "location": {
+      "x": 3462,
+      "y": 9707,
+      "plane": 0
+    }
+  },
+  "2431": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'cerberus' has 1 location: Cerberus' Lair",
+    "location": {
+      "x": 1310,
+      "y": 1251,
+      "plane": 0
+    }
+  },
+  "2432": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location raid",
+    "location": {
+      "x": 3651,
+      "y": 3208,
+      "plane": 0
+    }
+  },
+  "2433": {
+    "classification": "SINGLE",
+    "reason": "[named_location] Experiment Cave",
+    "location": {
+      "x": 3546,
+      "y": 9945,
+      "plane": 0
+    }
+  },
+  "2434": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'vyrewatch sentinel' has 1 location: Darkmeyer",
+    "location": {
+      "x": 3606,
+      "y": 3361,
+      "plane": 0
+    }
+  },
+  "2435": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'abyssal demon' has 1 location: Slayer Tower",
+    "location": {
+      "x": 3417,
+      "y": 3568,
+      "plane": 2
+    }
+  },
+  "2437": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'ghast' has 1 location: Mort Myre Swamp",
+    "location": {
+      "x": 3456,
+      "y": 3389,
+      "plane": 0
+    }
+  },
+  "2441": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 3565,
+      "y": 3292,
+      "plane": 0
+    }
+  },
+  "2462": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Slayer Tower rooftop",
+    "location": {
+      "x": 3428,
+      "y": 3543,
+      "plane": 2
+    }
+  },
+  "2472": {
+    "classification": "SINGLE",
+    "reason": "[structural] Visit specific location: port phasmatys",
+    "location": {
+      "x": 3675,
+      "y": 3469,
+      "plane": 0
+    }
+  },
+  "2479": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 3463,
+      "y": 3311,
+      "plane": 0
+    }
+  },
+  "2480": {
+    "classification": "SINGLE",
+    "reason": "[structural] Visit specific location: harmony island",
+    "location": {
+      "x": 3792,
+      "y": 2856,
+      "plane": 0
+    }
+  },
+  "2482": {
+    "classification": "SINGLE",
+    "reason": "[structural] Visit specific location: mos le'harmless",
+    "location": {
+      "x": 3678,
+      "y": 2959,
+      "plane": 0
+    }
+  },
+  "2489": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: wilderness",
+    "location": {
+      "x": 2994,
+      "y": 3936,
+      "plane": 0
+    }
+  },
+  "2490": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'black salamander (hunter)' has 1 location: Boneyard Hunter area",
+    "location": {
+      "x": 3295,
+      "y": 3672,
+      "plane": 0
+    }
+  },
+  "2491": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'black chinchompa (hunter)' has 1 location: of the Lava Maze",
+    "location": {
+      "x": 3144,
+      "y": 3775,
+      "plane": 0
+    }
+  },
+  "2496": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] One entrance",
+    "location": {
+      "x": 3105,
+      "y": 3556,
+      "plane": 0
+    }
+  },
+  "2500": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'lava dragon' has 1 location: Lava Dragon Isle",
+    "location": {
+      "x": 3205,
+      "y": 3824,
+      "plane": 0
+    }
+  },
+  "2501": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'crazy archaeologist' has 1 location: Ruins (west)",
+    "location": {
+      "x": 2977,
+      "y": 3702,
+      "plane": 0
+    }
+  },
+  "2502": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'venenatis' has 1 location: Silk Chasm",
+    "location": {
+      "x": 3319,
+      "y": 3798,
+      "plane": 0
+    }
+  },
+  "2504": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'fire giant' has 1 location: Deep Wilderness Dungeon",
+    "location": {
+      "x": 3049,
+      "y": 10341,
+      "plane": 0
+    }
+  },
+  "2505": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'scorpia' has 1 location: Cave in the Scorpion Pit (north-east Wilderness)",
+    "location": {
+      "x": 3233,
+      "y": 10341,
+      "plane": 0
+    }
+  },
+  "2509": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'chaos fanatic' has 1 location: of the Lava Maze",
+    "location": {
+      "x": 2979,
+      "y": 3846,
+      "plane": 0
+    }
+  },
+  "2510": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'vet'ion' has 1 location: Vet'ion's Rest",
+    "location": {
+      "x": 3219,
+      "y": 3788,
+      "plane": 0
+    }
+  },
+  "2513": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'chaos elemental' has 1 location: of the Rogues' Castle",
+    "location": {
+      "x": 3261,
+      "y": 3927,
+      "plane": 0
+    }
+  },
+  "2514": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'king black dragon' has 1 location: King Black Dragon Lair (Wilderness)",
+    "location": {
+      "x": 3109,
+      "y": 10265,
+      "plane": 0
+    }
+  },
+  "2518": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'corporeal beast' has 1 location: Corporeal Beast's Lair",
+    "location": {
+      "x": 3313,
+      "y": 10078,
+      "plane": 0
+    }
+  },
+  "2520": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'corporeal beast' has 1 location: Corporeal Beast's Lair",
+    "location": {
+      "x": 3313,
+      "y": 10078,
+      "plane": 0
+    }
+  },
+  "2531": {
+    "classification": "SINGLE",
+    "reason": "[named_location] The Old Nite",
+    "location": {
+      "x": 3654,
+      "y": 3468,
+      "plane": 0
+    }
+  },
+  "2534": {
+    "classification": "SINGLE",
+    "reason": "[rule:regex] Activity inside POH",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
+  },
+  "2546": {
+    "classification": "SINGLE",
+    "reason": "[named_location] mage arena",
+    "location": {
+      "x": 3104,
+      "y": 3958,
+      "plane": 0
+    }
+  },
+  "2548": {
+    "classification": "SINGLE",
+    "reason": "[named_location] chaos temple",
+    "location": {
+      "x": 3235,
+      "y": 3638,
+      "plane": 0
+    }
+  },
+  "2549": {
+    "classification": "SINGLE",
+    "reason": "[named_location] chaos temple",
+    "location": {
+      "x": 3235,
+      "y": 3638,
+      "plane": 0
+    }
+  },
+  "2550": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: wilderness resource area",
+    "location": {
+      "x": 3184,
+      "y": 3944,
+      "plane": 0
+    }
+  },
+  "2551": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: deep wilderness dungeon",
+    "location": {
+      "x": 3046,
+      "y": 10332,
+      "plane": 0
+    }
+  },
+  "2552": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: wilderness god wars dungeon",
+    "location": {
+      "x": 2872,
+      "y": 5311,
+      "plane": 2
+    }
+  },
+  "2553": {
+    "classification": "SINGLE",
+    "reason": "[structural] Specific bank location",
+    "location": {
+      "x": 2534,
+      "y": 4712,
+      "plane": 0
+    }
+  },
+  "2554": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed chest location",
+    "location": {
+      "x": 1580,
+      "y": 3495,
+      "plane": 0
+    }
+  },
+  "2557": {
+    "classification": "SINGLE",
+    "reason": "[rule:regex] Teleport tablets crafted at player owned house lectern",
+    "location": {
+      "x": 2953,
+      "y": 3224,
+      "plane": 0
+    }
+  },
+  "2560": {
+    "classification": "SINGLE",
+    "reason": "[structural] Specific transport route",
+    "location": {
+      "x": 3350,
+      "y": 3001,
+      "plane": 0
+    }
+  },
+  "2567": {
+    "classification": "SINGLE",
+    "reason": "[named_location] prifddinas",
+    "location": {
+      "x": 3266,
+      "y": 6069,
+      "plane": 0
+    }
+  },
+  "2642": {
+    "classification": "SINGLE",
+    "reason": "[structural] Visit specific location: ferox enclave",
+    "location": {
+      "x": 3138,
+      "y": 3633,
+      "plane": 0
+    }
+  },
+  "3888": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location raid",
+    "location": {
+      "x": 3651,
+      "y": 3208,
+      "plane": 0
+    }
+  },
+  "4832": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fossil Island",
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
+  },
+  "4833": {
+    "classification": "SINGLE",
+    "reason": "[named_location] fossil island",
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
+  },
+  "4834": {
+    "classification": "SINGLE",
+    "reason": "[named_location] fossil island",
+    "location": {
+      "x": 3773,
+      "y": 3819,
+      "plane": 0
+    }
+  },
+  "4835": {
+    "classification": "SINGLE",
+    "reason": "[named_location] Puro-Puro",
+    "location": {
+      "x": 2592,
+      "y": 4319,
+      "plane": 0
+    }
+  },
+  "4836": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'herbiboar' has 1 location: Mushroom Forest on Fossil Island",
+    "location": {
+      "x": 3705,
+      "y": 3846,
+      "plane": 0
+    }
+  },
+  "4837": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'herbiboar' has 1 location: Mushroom Forest on Fossil Island",
+    "location": {
+      "x": 3705,
+      "y": 3846,
+      "plane": 0
+    }
+  },
+  "4838": {
+    "classification": "SINGLE",
+    "reason": "[named_location] Puro-Puro",
+    "location": {
+      "x": 2592,
+      "y": 4319,
+      "plane": 0
+    }
+  },
+  "4839": {
+    "classification": "SINGLE",
+    "reason": "[named_location] lumbridge",
+    "location": {
+      "x": 3193,
+      "y": 3231,
+      "plane": 0
+    }
+  },
+  "4840": {
+    "classification": "SINGLE",
+    "reason": "[named_location] fossil island",
+    "location": {
+      "x": 3700,
+      "y": 3840,
+      "plane": 0
+    }
+  },
+  "4841": {
+    "classification": "SINGLE",
+    "reason": "[named_location] Dorgesh-Kaan",
+    "location": {
+      "x": 2701,
+      "y": 5352,
+      "plane": 0
+    }
+  },
+  "4842": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: draynor",
+    "location": {
+      "x": 3103,
+      "y": 3279,
+      "plane": 0
+    }
+  },
+  "4843": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: draynor",
+    "location": {
+      "x": 3103,
+      "y": 3279,
+      "plane": 0
+    }
+  },
+  "4844": {
+    "classification": "SINGLE",
+    "reason": "[named_location] Cosmic Altar",
+    "location": {
+      "x": 2141,
+      "y": 4834,
+      "plane": 0
+    }
+  },
+  "4847": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'abyssal sire' has 1 location: Abyssal Nexus",
+    "location": {
+      "x": 3107,
+      "y": 4791,
+      "plane": 0
+    }
+  },
+  "4848": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'abyssal sire' has 1 location: Abyssal Nexus",
+    "location": {
+      "x": 3107,
+      "y": 4791,
+      "plane": 0
+    }
+  },
+  "4849": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'abyssal sire' has 1 location: Abyssal Nexus",
+    "location": {
+      "x": 3107,
+      "y": 4791,
+      "plane": 0
+    }
+  },
+  "4851": {
+    "classification": "SINGLE",
+    "reason": "[named_location] lletya",
+    "location": {
+      "x": 2347,
+      "y": 3162,
+      "plane": 0
+    }
+  },
+  "4852": {
+    "classification": "SINGLE",
+    "reason": "[named_location] prifddinas",
+    "location": {
+      "x": 3292,
+      "y": 6119,
+      "plane": 0
+    }
+  },
+  "4853": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: prifddinas",
+    "location": {
+      "x": 3288,
+      "y": 6142,
+      "plane": 0
+    }
+  },
+  "4864": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 3228,
+      "y": 6116,
+      "plane": 0
+    }
+  },
+  "4865": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 3228,
+      "y": 6116,
+      "plane": 0
+    }
+  },
+  "4866": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'zalcano' has 1 location: Volcanic caverns beneath Prifddinas",
+    "location": {
+      "x": 3031,
+      "y": 6048,
+      "plane": 0
+    }
+  },
+  "4868": {
+    "classification": "SINGLE",
+    "reason": "[named_location] poison waste",
+    "location": {
+      "x": 2268,
+      "y": 3073,
+      "plane": 0
+    }
+  },
+  "4869": {
+    "classification": "SINGLE",
+    "reason": "[named_location] poison waste",
+    "location": {
+      "x": 2268,
+      "y": 3073,
+      "plane": 0
+    }
+  },
+  "4871": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: rellekka",
+    "location": {
+      "x": 2628,
+      "y": 3677,
+      "plane": 0
+    }
+  },
+  "4872": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'sabre-toothed kyatt' has 1 location: Rellekka Hunter area",
+    "location": {
+      "x": 2717,
+      "y": 3789,
+      "plane": 0
+    }
+  },
+  "4877": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'vorkath' has 1 location: Ungael",
+    "location": {
+      "x": 2269,
+      "y": 4062,
+      "plane": 0
+    }
+  },
+  "4878": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'vorkath' has 1 location: Ungael",
+    "location": {
+      "x": 2269,
+      "y": 4062,
+      "plane": 0
+    }
+  },
+  "4879": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'vorkath' has 1 location: Ungael",
+    "location": {
+      "x": 2269,
+      "y": 4062,
+      "plane": 0
+    }
+  },
+  "4880": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'vorkath' has 1 location: Ungael",
+    "location": {
+      "x": 2269,
+      "y": 4062,
+      "plane": 0
+    }
+  },
+  "4881": {
+    "classification": "SINGLE",
+    "reason": "[named_location] waterbirth island dungeon",
+    "location": {
+      "x": 2631,
+      "y": 9667,
+      "plane": 0
+    }
+  },
+  "4882": {
+    "classification": "SINGLE",
+    "reason": "[named_location] waterbirth island dungeon",
+    "location": {
+      "x": 2631,
+      "y": 9667,
+      "plane": 0
+    }
+  },
+  "4885": {
+    "classification": "SINGLE",
+    "reason": "[named_location] miscellania",
+    "location": {
+      "x": 2534,
+      "y": 3861,
+      "plane": 0
+    }
+  },
+  "4887": {
+    "classification": "SINGLE",
+    "reason": "[named_location] shilo village",
+    "location": {
+      "x": 2852,
+      "y": 2954,
+      "plane": 0
+    }
+  },
+  "4888": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Brimhaven Agility Arena",
+    "location": {
+      "x": 2786,
+      "y": 9572,
+      "plane": 0
+    }
+  },
+  "4889": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Brimhaven Agility Arena",
+    "location": {
+      "x": 2786,
+      "y": 9572,
+      "plane": 0
+    }
+  },
+  "4891": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] One fishing spot",
+    "location": {
+      "x": 2799,
+      "y": 3016,
+      "plane": 0
+    }
+  },
+  "4892": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] One fishing spot",
+    "location": {
+      "x": 2913,
+      "y": 3116,
+      "plane": 0
+    }
+  },
+  "4893": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] One farming patch",
+    "location": {
+      "x": 2796,
+      "y": 3101,
+      "plane": 0
+    }
+  },
+  "4895": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2437,
+      "y": 5168,
+      "plane": 0
+    }
+  },
+  "4902": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2437,
+      "y": 5168,
+      "plane": 0
+    }
+  },
+  "4903": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2496,
+      "y": 5115,
+      "plane": 0
+    }
+  },
+  "5138": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: seers' village",
+    "location": {
+      "x": 2729,
+      "y": 3488,
+      "plane": 0
+    }
+  },
+  "5139": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: ardougne",
+    "location": {
+      "x": 2674,
+      "y": 3297,
+      "plane": 0
+    }
+  },
+  "5142": {
+    "classification": "SINGLE",
+    "reason": "[named_location] tree gnome stronghold",
+    "location": {
+      "x": 2476,
+      "y": 3446,
+      "plane": 0
+    }
+  },
+  "5143": {
+    "classification": "SINGLE",
+    "reason": "[named_location] catherby",
+    "location": {
+      "x": 2861,
+      "y": 3434,
+      "plane": 0
+    }
+  },
+  "5144": {
+    "classification": "SINGLE",
+    "reason": "[named_location] tree gnome stronghold",
+    "location": {
+      "x": 2465,
+      "y": 3489,
+      "plane": 0
+    }
+  },
+  "5145": {
+    "classification": "SINGLE",
+    "reason": "[npc_fallback] 'Kraken boss' has 1 spawn",
+    "location": {
+      "x": 2278,
+      "y": 10034,
+      "plane": 0
+    }
+  },
+  "5146": {
+    "classification": "SINGLE",
+    "reason": "[npc_fallback] 'Kraken boss' has 1 spawn",
+    "location": {
+      "x": 2278,
+      "y": 10034,
+      "plane": 0
+    }
+  },
+  "5147": {
+    "classification": "SINGLE",
+    "reason": "[npc_fallback] 'Kraken boss' has 1 spawn",
+    "location": {
+      "x": 2278,
+      "y": 10034,
+      "plane": 0
+    }
+  },
+  "5148": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'demonic gorilla' has 1 location: Crash Site Cavern",
+    "location": {
+      "x": 2107,
+      "y": 5661,
+      "plane": 0
+    }
+  },
+  "5149": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'demonic gorilla' has 1 location: Crash Site Cavern",
+    "location": {
+      "x": 2107,
+      "y": 5661,
+      "plane": 0
+    }
+  },
+  "5150": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] One NPC",
+    "location": {
+      "x": 2404,
+      "y": 3420,
+      "plane": 0
+    }
+  },
+  "5152": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: falador",
+    "location": {
+      "x": 3036,
+      "y": 3340,
+      "plane": 0
+    }
+  },
+  "5153": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location activity",
+    "location": {
+      "x": 3116,
+      "y": 9698,
+      "plane": 0
+    }
+  },
+  "5154": {
+    "classification": "SINGLE",
+    "reason": "[named_location] draynor",
+    "location": {
+      "x": 3093,
+      "y": 3257,
+      "plane": 0
+    }
+  },
+  "5155": {
+    "classification": "SINGLE",
+    "reason": "[named_location] heroes' guild",
+    "location": {
+      "x": 2899,
+      "y": 3509,
+      "plane": 0
+    }
+  },
+  "5156": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'giant mole' has 1 location: Mole Hole (Under Falador Park)",
+    "location": {
+      "x": 1759,
+      "y": 5189,
+      "plane": 0
+    }
+  },
+  "5157": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'giant mole' has 1 location: Mole Hole (Under Falador Park)",
+    "location": {
+      "x": 1759,
+      "y": 5189,
+      "plane": 0
+    }
+  },
+  "5158": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'giant mole' has 1 location: Mole Hole (Under Falador Park)",
+    "location": {
+      "x": 1759,
+      "y": 5189,
+      "plane": 0
+    }
+  },
+  "5159": {
+    "classification": "SINGLE",
+    "reason": "[named_location] taverley dungeon",
+    "location": {
+      "x": 2884,
+      "y": 9798,
+      "plane": 0
+    }
+  },
+  "5160": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: taverley dungeon",
+    "location": {
+      "x": 2884,
+      "y": 9798,
+      "plane": 0
+    }
+  },
+  "5161": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2662,
+      "y": 2655,
+      "plane": 0
+    }
+  },
+  "5162": {
+    "classification": "SINGLE",
+    "reason": "[named_location] sophanem",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
+  },
+  "5163": {
+    "classification": "SINGLE",
+    "reason": "[named_location] sophanem",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
+  },
+  "5164": {
+    "classification": "SINGLE",
+    "reason": "[named_location] sophanem",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
+  },
+  "5165": {
+    "classification": "SINGLE",
+    "reason": "[named_location] sophanem",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
+  },
+  "5166": {
+    "classification": "SINGLE",
+    "reason": "[named_location] sophanem",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
+  },
+  "5167": {
+    "classification": "SINGLE",
+    "reason": "[named_location] sophanem",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
+  },
+  "5168": {
+    "classification": "SINGLE",
+    "reason": "[named_location] sophanem",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
+  },
+  "5169": {
+    "classification": "SINGLE",
+    "reason": "[named_location] sophanem",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
+  },
+  "5170": {
+    "classification": "SINGLE",
+    "reason": "[named_location] sophanem",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
+  },
+  "5171": {
+    "classification": "SINGLE",
+    "reason": "[named_location] sophanem",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
+  },
+  "5172": {
+    "classification": "SINGLE",
+    "reason": "[named_location] sophanem",
+    "location": {
+      "x": 3289,
+      "y": 2781,
+      "plane": 0
+    }
+  },
+  "5173": {
+    "classification": "SINGLE",
+    "reason": "[npc_fallback] 'Osman' has 1 spawn",
+    "location": {
+      "x": 3286,
+      "y": 3180,
+      "plane": 0
+    }
+  },
+  "5174": {
+    "classification": "SINGLE",
+    "reason": "[npc_fallback] 'Osman' has 1 spawn",
+    "location": {
+      "x": 3286,
+      "y": 3180,
+      "plane": 0
+    }
+  },
+  "5175": {
+    "classification": "SINGLE",
+    "reason": "[npc_fallback] 'Osman' has 1 spawn",
+    "location": {
+      "x": 3286,
+      "y": 3180,
+      "plane": 0
+    }
+  },
+  "5176": {
+    "classification": "SINGLE",
+    "reason": "[named_location] bandit camp",
+    "location": {
+      "x": 3158,
+      "y": 2977,
+      "plane": 0
+    }
+  },
+  "5177": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: al kharid",
+    "location": {
+      "x": 3273,
+      "y": 3197,
+      "plane": 0
+    }
+  },
+  "5178": {
+    "classification": "SINGLE",
+    "reason": "[named_location] al kharid",
+    "location": {
+      "x": 3316,
+      "y": 3203,
+      "plane": 0
+    }
+  },
+  "5179": {
+    "classification": "SINGLE",
+    "reason": "[named_location] al kharid",
+    "location": {
+      "x": 3316,
+      "y": 3203,
+      "plane": 0
+    }
+  },
+  "5181": {
+    "classification": "SINGLE",
+    "reason": "[npc_fallback] 'Zahur' has 1 spawn",
+    "location": {
+      "x": 3425,
+      "y": 2908,
+      "plane": 0
+    }
+  },
+  "5182": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    }
+  },
+  "5183": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    }
+  },
+  "5184": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    }
+  },
+  "5185": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    }
+  },
+  "5186": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    }
+  },
+  "5187": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    }
+  },
+  "5188": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 2244,
+      "y": 5859,
+      "plane": 0
+    }
+  },
+  "5189": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: canifis",
+    "location": {
+      "x": 3507,
+      "y": 3489,
+      "plane": 0
+    }
+  },
+  "5191": {
+    "classification": "SINGLE",
+    "reason": "[named_location] darkmeyer",
+    "location": {
+      "x": 3610,
+      "y": 3356,
+      "plane": 0
+    }
+  },
+  "5198": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Slayer Tower rooftop",
+    "location": {
+      "x": 3428,
+      "y": 3543,
+      "plane": 2
+    }
+  },
+  "5199": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Slayer Tower rooftop",
+    "location": {
+      "x": 3428,
+      "y": 3543,
+      "plane": 2
+    }
+  },
+  "5201": {
+    "classification": "SINGLE",
+    "reason": "[named_location] chaos temple",
+    "location": {
+      "x": 3235,
+      "y": 3638,
+      "plane": 0
+    }
+  },
+  "5202": {
+    "classification": "SINGLE",
+    "reason": "[named_location] chaos temple",
+    "location": {
+      "x": 3235,
+      "y": 3638,
+      "plane": 0
+    }
+  },
+  "5203": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] One fishing area",
+    "location": {
+      "x": 3349,
+      "y": 3805,
+      "plane": 0
+    }
+  },
+  "5205": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'callisto' has 1 location: Callisto's Den",
+    "location": {
+      "x": 3291,
+      "y": 3849,
+      "plane": 0
+    }
+  },
+  "5207": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'corporeal beast' has 1 location: Corporeal Beast's Lair",
+    "location": {
+      "x": 3313,
+      "y": 10078,
+      "plane": 0
+    }
+  },
+  "5208": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'corporeal beast' has 1 location: Corporeal Beast's Lair",
+    "location": {
+      "x": 3313,
+      "y": 10078,
+      "plane": 0
+    }
+  },
+  "5841": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: varrock",
+    "location": {
+      "x": 3222,
+      "y": 3414,
+      "plane": 0
+    }
+  },
+  "5842": {
+    "classification": "SINGLE",
+    "reason": "[structural] Agility course: varrock",
+    "location": {
+      "x": 3222,
+      "y": 3414,
+      "plane": 0
+    }
+  },
+  "5952": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'zalcano' has 1 location: Volcanic caverns beneath Prifddinas",
+    "location": {
+      "x": 3031,
+      "y": 6048,
+      "plane": 0
+    }
+  },
+  "5953": {
+    "classification": "SINGLE",
+    "reason": "[rule:exact] Knight of Ardougne - East Ardougne market",
+    "location": {
+      "x": 2661,
+      "y": 3307,
+      "plane": 0
+    }
+  },
+  "749": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] POH portals in many locations"
+  },
+  "751": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'fire giant' has 2 locations: Stronghold Slayer Dungeon, Waterfall Dungeon"
+  },
+  "1746": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "1747": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1748": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "1749": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1750": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "1751": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1752": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "1753": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1754": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "1755": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1756": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "1757": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1758": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "1759": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1760": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "1761": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1762": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "1763": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'obtain' - can be done anywhere"
+  },
+  "1764": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'pickpocket'"
+  },
+  "1767": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'pickpocket'"
+  },
+  "1769": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'pickpocket'"
+  },
+  "1770": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'steal'"
+  },
+  "1771": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple farming patches"
+  },
+  "1772": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple patches"
+  },
+  "1773": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple patches"
+  },
+  "1774": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'harvest'"
+  },
+  "1775": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple bins"
+  },
+  "1778": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'dig'"
+  },
+  "1779": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple trees"
+  },
+  "1782": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'obtain' - can be done anywhere"
+  },
+  "1783": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'chop'"
+  },
+  "1785": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'build' - can be done anywhere"
+  },
+  "1786": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'chop'"
+  },
+  "1788": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'burn' - can be done anywhere"
+  },
+  "1789": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cook' - can be done anywhere"
+  },
+  "1790": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "1791": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cook' - can be done anywhere"
+  },
+  "1792": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'make' - can be done anywhere"
+  },
+  "1793": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cook' - can be done anywhere"
+  },
+  "1794": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'mine'"
+  },
+  "1795": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'mine'"
+  },
+  "1796": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'obtain' - can be done anywhere"
+  },
+  "1797": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'mine'"
+  },
+  "1798": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'mine'"
+  },
+  "1799": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'obtain' - can be done anywhere"
+  },
+  "1800": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'mine'"
+  },
+  "1801": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'fletch' - can be done anywhere"
+  },
+  "1802": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'fletch' - can be done anywhere"
+  },
+  "1803": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'fletch' - can be done anywhere"
+  },
+  "1805": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'create' - can be done anywhere"
+  },
+  "1806": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'fletch' - can be done anywhere"
+  },
+  "1807": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'fletch' - can be done anywhere"
+  },
+  "1808": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'fletch' - can be done anywhere"
+  },
+  "1811": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "1813": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Slayer task constraint doesn't fix location"
+  },
+  "1814": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1815": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "1817": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "1818": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "1819": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "1820": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "1821": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Slayer task constraint doesn't fix location"
+  },
+  "1822": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "1823": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "1824": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'use a spinning wheel' - can be done anywhere"
+  },
+  "1825": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cut' - can be done anywhere"
+  },
+  "1826": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'craft' - can be done anywhere"
+  },
+  "1827": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'craft' - can be done anywhere"
+  },
+  "1828": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'craft' - can be done anywhere"
+  },
+  "1829": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'craft' - can be done anywhere"
+  },
+  "1830": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'craft' - can be done anywhere"
+  },
+  "1831": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'craft' - can be done anywhere"
+  },
+  "1832": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'craft' - can be done anywhere"
+  },
+  "1833": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'catch'"
+  },
+  "1834": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'catch'"
+  },
+  "1835": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'catch'"
+  },
+  "1836": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'catch'"
+  },
+  "1837": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'catch'"
+  },
+  "1838": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'catch'"
+  },
+  "1839": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'catch'"
+  },
+  "1840": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'use a furnace' - can be done anywhere"
+  },
+  "1841": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'use a furnace' - can be done anywhere"
+  },
+  "1842": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'use an anvil' - can be done anywhere"
+  },
+  "1843": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'use an anvil' - can be done anywhere"
+  },
+  "1844": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'use an anvil' - can be done anywhere"
+  },
+  "1845": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'use a furnace' - can be done anywhere"
+  },
+  "1846": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'use an anvil' - can be done anywhere"
+  },
+  "1847": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'use a furnace' - can be done anywhere"
+  },
+  "1848": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'use an anvil' - can be done anywhere"
+  },
+  "1849": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Estate agents in multiple cities"
+  },
+  "1854": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'build' - can be done anywhere"
+  },
+  "1855": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'build' - can be done anywhere"
+  },
+  "1857": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple teleport NPCs"
+  },
+  "1858": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple altars"
+  },
+  "1859": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple altars"
+  },
+  "1860": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple altars"
+  },
+  "1861": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple altars"
+  },
+  "1862": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple altars"
+  },
+  "1863": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple altars"
+  },
+  "1864": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'burn' - can be done anywhere"
+  },
+  "1865": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'burn' - can be done anywhere"
+  },
+  "1866": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "1867": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'burn' - can be done anywhere"
+  },
+  "1868": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1869": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "1870": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'burn' - can be done anywhere"
+  },
+  "1871": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'burn' - can be done anywhere"
+  },
+  "1872": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Implings roam the overworld randomly"
+  },
+  "1873": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'catch'"
+  },
+  "1874": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1875": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'catch'"
+  },
+  "1876": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'catch'"
+  },
+  "1877": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'catch'"
+  },
+  "1879": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'obtain' - can be done anywhere"
+  },
+  "1880": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Prayer anywhere"
+  },
+  "1882": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Any rooftop course"
+  },
+  "1883": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Any rooftop course"
+  },
+  "1884": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'clean' - can be done anywhere"
+  },
+  "1885": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'make' - can be done anywhere"
+  },
+  "1886": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'drink' - can be done anywhere"
+  },
+  "1887": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Herblore anywhere"
+  },
+  "1888": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'clean' - can be done anywhere"
+  },
+  "1890": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'make' - can be done anywhere"
+  },
+  "1891": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Herb cleaning anywhere"
+  },
+  "1892": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'make' - can be done anywhere"
+  },
+  "1893": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'obtain' - can be done anywhere"
+  },
+  "1894": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1895": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1896": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1897": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1898": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1899": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1900": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1901": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "1902": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Anywhere"
+  },
+  "1903": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "1905": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1906": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1907": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1908": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1909": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1910": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1911": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1912": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1913": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1914": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1915": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1916": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1917": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1918": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1919": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1920": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1921": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1922": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1923": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1924": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cast' - can be done anywhere"
+  },
+  "1925": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cast' - can be done anywhere"
+  },
+  "1926": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1927": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cast' - can be done anywhere"
+  },
+  "1928": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cast' - can be done anywhere"
+  },
+  "1929": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1930": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cast' - can be done anywhere"
+  },
+  "1931": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cast' - can be done anywhere"
+  },
+  "1963": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1964": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1967": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1968": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1971": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1972": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1975": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1977": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1982": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "1983": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "1984": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "1985": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "1986": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "1987": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1988": {
+    "classification": "MULTI",
+    "reason": "[rule:exact] Zanaris - multiple fairy ring entrances"
+  },
+  "1989": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "1991": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "1992": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Dogs roam around Varrock"
+  },
+  "1993": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "1994": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "1996": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1997": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "1998": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "1999": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Multiple mushroom locations"
+  },
+  "2000": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2002": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple fairy ring locations"
+  },
+  "2003": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Teleport anywhere"
+  },
+  "2005": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2008": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cook' - can be done anywhere"
+  },
+  "2009": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'dissect' - can be done anywhere"
+  },
+  "2013": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Implings roam the overworld"
+  },
+  "2014": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2015": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Multiple trap spots"
+  },
+  "2020": {
+    "classification": "MULTI",
+    "reason": "[npc_fallback] 'Elf' has 4 spawn locations"
+  },
+  "2021": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Estate agents in multiple cities"
+  },
+  "2023": {
+    "classification": "MULTI",
+    "reason": "[npc_fallback] 'Elf' 4 spawns across tirannwn"
+  },
+  "2024": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Prifddinas crafting - multiple steps"
+  },
+  "2025": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2033": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'obtain' - can be done anywhere"
+  },
+  "2035": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2036": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'dark beast' has 2 locations: Iorwerth Dungeon, Mourner Tunnels"
+  },
+  "2037": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'craft' - can be done anywhere"
+  },
+  "2039": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'craft' - can be done anywhere"
+  },
+  "2048": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2051": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2054": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2059": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Teleport anywhere"
+  },
+  "2060": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Prifddinas crafting - multiple steps"
+  },
+  "2061": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2062": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2063": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Scattered across Prifddinas"
+  },
+  "2068": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Spell anywhere"
+  },
+  "2069": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cast' - can be done anywhere"
+  },
+  "2070": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Spell anywhere"
+  },
+  "2079": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'snowy knight' has 2 locations: Rellekka Hunter area, Weiss"
+  },
+  "2082": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Teleport anywhere"
+  },
+  "2085": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'rock crab' has 4 locations: Brine Rat Cavern, Waterbirth Island, Waterbirth Island Dungeon... (+1 more)"
+  },
+  "2088": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2092": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2093": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2095": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2099": {
+    "classification": "MULTI",
+    "reason": "[npc_fallback] 'Troll' has 7 spawn locations"
+  },
+  "2100": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2102": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2103": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'dagannoth' has 2 locations: Jormungand's Prison, Lighthouse"
+  },
+  "2104": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2105": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2106": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2108": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2109": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2112": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2122": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2123": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2125": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2126": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2127": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2128": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2129": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2130": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2131": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2133": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2135": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2138": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2140": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2142": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cook' - can be done anywhere"
+  },
+  "2156": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2157": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2158": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2159": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2167": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2179": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2180": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2181": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2182": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2188": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2190": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2201": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2205": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2207": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2209": {
+    "classification": "MULTI",
+    "reason": "[rule:exact] Move POH to Yanille - estate agents in multiple cities"
+  },
+  "2216": {
+    "classification": "MULTI",
+    "reason": "[npc_fallback] 'Tortoise with riders' 5 spawns across kandarin"
+  },
+  "2217": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2218": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2219": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "2220": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2221": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2223": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2224": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2228": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'enhance' - can be done anywhere"
+  },
+  "2230": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2231": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2233": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2234": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Prayer anywhere"
+  },
+  "2235": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Prayer anywhere"
+  },
+  "2243": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2249": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2250": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2251": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2252": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2253": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2254": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2257": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2258": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2259": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2260": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2261": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2262": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2263": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2264": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2265": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2267": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2268": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2269": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2270": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2271": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2272": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2273": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2274": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2275": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2277": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2278": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2280": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2285": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Herblore anywhere"
+  },
+  "2286": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Herblore anywhere"
+  },
+  "2288": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Estate agents in multiple cities"
+  },
+  "2291": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2292": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2293": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2294": {
+    "classification": "MULTI",
+    "reason": "[npc_fallback] 'Troll' 7 spawns across asgarnia"
+  },
+  "2297": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2298": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2299": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2300": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2302": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2303": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2304": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2306": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2307": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2308": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2310": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2311": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'blue dragon' has 2 locations: Heroes' Guild, Taverley Dungeon"
+  },
+  "2316": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2323": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2324": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2325": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2326": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2327": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2328": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2364": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Herblore anywhere"
+  },
+  "2370": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'scarab mage' has 3 locations: Scabaras Dungeon, Sophanem Dungeon (cavern level), Sophanem Dungeon (maze level)"
+  },
+  "2373": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'kalphite guardian' has 2 locations: Kalphite Cave, Kalphite Lair"
+  },
+  "2374": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Spell anywhere"
+  },
+  "2375": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2376": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Spell anywhere"
+  },
+  "2377": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Spell anywhere"
+  },
+  "2378": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cast' - can be done anywhere"
+  },
+  "2379": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cast' - can be done anywhere"
+  },
+  "2380": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Spell anywhere"
+  },
+  "2381": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cast' - can be done anywhere"
+  },
+  "2386": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2387": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2388": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2389": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2391": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cast' - can be done anywhere"
+  },
+  "2392": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2393": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2394": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'tan' - can be done anywhere"
+  },
+  "2395": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2396": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cast' - can be done anywhere"
+  },
+  "2397": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2401": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2402": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cut' - can be done anywhere"
+  },
+  "2405": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2406": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2414": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2420": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Vyres patrol across Darkmeyer"
+  },
+  "2421": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'swamp lizard (hunter)' has 2 locations: Canifis Hunter area, of Slepe"
+  },
+  "2422": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'craft' - can be done anywhere"
+  },
+  "2424": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'craft' - can be done anywhere"
+  },
+  "2426": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'assemble' - can be done anywhere"
+  },
+  "2436": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2438": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2439": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2440": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2442": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2443": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2444": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2445": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2446": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2447": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2448": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'create' - can be done anywhere"
+  },
+  "2449": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2450": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2451": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2452": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2453": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2454": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2465": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2466": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2467": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2468": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2469": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Multiple start points"
+  },
+  "2470": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Multiple start points"
+  },
+  "2471": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Multiple start points"
+  },
+  "2473": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2474": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2475": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2476": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Dog roams Darkmeyer"
+  },
+  "2477": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2481": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2485": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'bury' - can be done anywhere"
+  },
+  "2487": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cook' - can be done anywhere"
+  },
+  "2488": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'make' - can be done anywhere"
+  },
+  "2492": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2493": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2495": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'craft' - can be done anywhere"
+  },
+  "2497": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "2498": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "2499": {
+    "classification": "MULTI",
+    "reason": "[scenery] 'runite' (runite rocks) 6 spawns, 6381 tile spread in wilderness"
+  },
+  "2503": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2507": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2508": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'chaos dwarf' has 3 locations: Deep Wilderness Dungeon, of Lava Dragon Isle, of Wilderness Bandit Camp"
+  },
+  "2511": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2512": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'green dragon' has 5 locations: Wilderness Slayer Cave, of the Boneyard Hunter area, of the Dark Warriors' Fortress... (+2 more)"
+  },
+  "2515": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2516": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2522": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2523": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2524": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2525": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'obtain' - can be done anywhere"
+  },
+  "2526": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2527": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2528": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2529": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2530": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2536": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2537": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'imbue' - can be done anywhere"
+  },
+  "2538": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Spell anywhere"
+  },
+  "2539": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Spell anywhere"
+  },
+  "2540": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Spell anywhere"
+  },
+  "2541": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2542": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2543": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2544": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2545": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2547": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Wilderness anywhere"
+  },
+  "2555": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2556": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2558": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Estate agents in multiple cities"
+  },
+  "2562": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2563": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2564": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2565": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2566": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'use an anvil' - can be done anywhere"
+  },
+  "2568": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2569": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2570": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2571": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "2572": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "2573": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2574": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2575": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2576": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'burn' - can be done anywhere"
+  },
+  "2578": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2580": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'eat' - can be done anywhere"
+  },
+  "2581": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2582": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2584": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2585": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2586": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2587": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2588": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2589": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2591": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2592": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2593": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2594": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2595": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2596": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2597": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2598": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2599": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2600": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2601": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2602": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2603": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2604": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2605": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2606": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2607": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2608": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2609": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2610": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2611": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2612": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2613": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2614": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2615": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2616": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2617": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2618": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2619": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2620": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2621": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2622": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2624": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2631": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'moss giant' has 15 locations: Brimhaven Dungeon, Catacombs of Kourend, Crandor... (+12 more)"
+  },
+  "2632": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'lesser demon' has 17 locations: Catacombs of Kourend, Charred Dungeon, Chasm of Fire... (+14 more)"
+  },
+  "2633": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'goblin' has 19 locations: Between Lumbridge and Varrock, Clock Tower Dungeon, Digsite... (+16 more)"
+  },
+  "2634": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'guard' has 7 locations: Ardougne, Edgeville, Falador... (+4 more)"
+  },
+  "2635": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Any altar"
+  },
+  "2636": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2637": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2638": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2639": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Any altar"
+  },
+  "2640": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Prayers anywhere"
+  },
+  "2641": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'bury' - can be done anywhere"
+  },
+  "2643": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2644": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'bury' - can be done anywhere"
+  },
+  "2645": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "2646": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "2647": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Anywhere"
+  },
+  "2648": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2649": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2650": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2651": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2652": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2653": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2654": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2655": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2656": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2657": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2658": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2659": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'reach' - can be done anywhere"
+  },
+  "2660": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'reach' - can be done anywhere"
+  },
+  "2661": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'reach' - can be done anywhere"
+  },
+  "2662": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'reach' - can be done anywhere"
+  },
+  "2663": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'reach' - can be done anywhere"
+  },
+  "2664": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'reach' - can be done anywhere"
+  },
+  "2665": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'reach' - can be done anywhere"
+  },
+  "2666": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'reach' - can be done anywhere"
+  },
+  "2667": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'reach' - can be done anywhere"
+  },
+  "2668": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'reach' - can be done anywhere"
+  },
+  "2669": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'reach' - can be done anywhere"
+  },
+  "2670": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'reach' - can be done anywhere"
+  },
+  "2671": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2672": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2673": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2674": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2675": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2676": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2677": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2678": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2679": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2680": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2681": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2682": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2683": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "2684": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2685": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "2686": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2687": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "2688": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2689": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "2690": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2691": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "2692": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2693": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "2694": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2695": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "2696": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2697": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "2698": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2699": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "2700": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2701": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "2702": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2703": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "2704": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2705": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "2706": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2707": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "2708": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "2709": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP milestone"
+  },
+  "2710": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] XP can be gained anywhere"
+  },
+  "4820": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "4821": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'steal'"
+  },
+  "4822": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Pickpocketing anywhere"
+  },
+  "4823": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple patches"
+  },
+  "4825": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'chop'"
+  },
+  "4826": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'chop'"
+  },
+  "4827": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'chop'"
+  },
+  "4828": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cook' - can be done anywhere"
+  },
+  "4829": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple sawmills"
+  },
+  "4830": {
+    "classification": "MULTI",
+    "reason": "[structural] Global gathering action 'catch'"
+  },
+  "4831": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'make' - can be done anywhere"
+  },
+  "4845": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Multiple spots on Fossil Island"
+  },
+  "4846": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "4850": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "4854": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "4855": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "4870": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Estate agents in multiple cities"
+  },
+  "4873": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "4883": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "4884": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "4886": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "4894": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "4898": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "4900": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "4901": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5137": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5140": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'carnivorous chinchompa' has 2 locations: Feldip Hunter area, Red chinchompa hunting ground"
+  },
+  "5141": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'fletch' - can be done anywhere"
+  },
+  "5151": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5180": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5190": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5192": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'werewolf' has 2 locations: God Wars Dungeon, Wilderness God Wars Dungeon"
+  },
+  "5204": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5206": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5209": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5210": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'obtain' - can be done anywhere"
+  },
+  "5211": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'crocodile' has 3 locations: Along the River Elid, Near the Ruins of Ullek, Near the Ruins of Unkah"
+  },
+  "5212": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Herblore anywhere"
+  },
+  "5502": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple master farmers"
+  },
+  "5603": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5605": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'obtain' - can be done anywhere"
+  },
+  "5843": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5939": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'fletch' - can be done anywhere"
+  },
+  "5951": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5954": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5955": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "1809": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "1816": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "1881": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "1952": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "2117": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "2359": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "2579": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "2583": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "2590": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "4824": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "4890": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "5431": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  }
+}

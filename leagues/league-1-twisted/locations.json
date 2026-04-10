@@ -1,0 +1,1039 @@
+{
+  "2642": {
+    "classification": "SINGLE",
+    "reason": "[structural] Visit specific location: ferox enclave",
+    "location": {
+      "x": 3138,
+      "y": 3633,
+      "plane": 0
+    }
+  },
+  "5456": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 1630,
+      "y": 4009,
+      "plane": 0
+    }
+  },
+  "5457": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 1630,
+      "y": 4009,
+      "plane": 0
+    }
+  },
+  "5468": {
+    "classification": "SINGLE",
+    "reason": "[named_location] farming guild",
+    "location": {
+      "x": 1248,
+      "y": 3726,
+      "plane": 0
+    }
+  },
+  "5469": {
+    "classification": "SINGLE",
+    "reason": "[named_location] farming guild",
+    "location": {
+      "x": 1248,
+      "y": 3726,
+      "plane": 0
+    }
+  },
+  "5492": {
+    "classification": "SINGLE",
+    "reason": "[named_location] hosidius",
+    "location": {
+      "x": 1702,
+      "y": 3528,
+      "plane": 0
+    }
+  },
+  "5493": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 1800,
+      "y": 3502,
+      "plane": 0
+    }
+  },
+  "5494": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 1800,
+      "y": 3502,
+      "plane": 0
+    }
+  },
+  "5495": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 1800,
+      "y": 3502,
+      "plane": 0
+    }
+  },
+  "5496": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: farming guild in the kebos lowlands",
+    "location": {
+      "x": 1248,
+      "y": 3726,
+      "plane": 0
+    }
+  },
+  "5497": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: mid tier of the farming guild in the kebos lowlands",
+    "location": {
+      "x": 1248,
+      "y": 3726,
+      "plane": 0
+    }
+  },
+  "5498": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: high tier of the farming guild in the kebos lowlands",
+    "location": {
+      "x": 1248,
+      "y": 3726,
+      "plane": 0
+    }
+  },
+  "5503": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: woodcutting guild in hosidius",
+    "location": {
+      "x": 1634,
+      "y": 3502,
+      "plane": 0
+    }
+  },
+  "5504": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] One location",
+    "location": {
+      "x": 1500,
+      "y": 3861,
+      "plane": 0
+    }
+  },
+  "5505": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] One location",
+    "location": {
+      "x": 1500,
+      "y": 3861,
+      "plane": 0
+    }
+  },
+  "5509": {
+    "classification": "SINGLE",
+    "reason": "[named_location] farming guild",
+    "location": {
+      "x": 1232,
+      "y": 3736,
+      "plane": 0
+    }
+  },
+  "5546": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'sarachnis' at specific location: Forthos Dungeon — Burial tomb",
+    "location": {
+      "x": 1840,
+      "y": 9900,
+      "plane": 0
+    }
+  },
+  "5547": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'sarachnis' at specific location: Forthos Dungeon — Burial tomb",
+    "location": {
+      "x": 1840,
+      "y": 9900,
+      "plane": 0
+    }
+  },
+  "5548": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'sarachnis' at specific location: Forthos Dungeon — Burial tomb",
+    "location": {
+      "x": 1840,
+      "y": 9900,
+      "plane": 0
+    }
+  },
+  "5549": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'sarachnis' at specific location: Forthos Dungeon — Burial tomb",
+    "location": {
+      "x": 1840,
+      "y": 9900,
+      "plane": 0
+    }
+  },
+  "5557": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'skotizo' has 1 location: Catacombs of Kourend",
+    "location": {
+      "x": 2271,
+      "y": 5661,
+      "plane": 0
+    }
+  },
+  "5558": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'skotizo' has 1 location: Catacombs of Kourend",
+    "location": {
+      "x": 2271,
+      "y": 5661,
+      "plane": 0
+    }
+  },
+  "5559": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'skotizo' has 1 location: Catacombs of Kourend",
+    "location": {
+      "x": 2271,
+      "y": 5661,
+      "plane": 0
+    }
+  },
+  "5566": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'alchemical hydra' has 1 location: Karuulm Slayer Dungeon",
+    "location": {
+      "x": 1364,
+      "y": 10265,
+      "plane": 0
+    }
+  },
+  "5567": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'alchemical hydra' has 1 location: Karuulm Slayer Dungeon",
+    "location": {
+      "x": 1364,
+      "y": 10265,
+      "plane": 0
+    }
+  },
+  "5568": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'alchemical hydra' has 1 location: Karuulm Slayer Dungeon",
+    "location": {
+      "x": 1364,
+      "y": 10265,
+      "plane": 0
+    }
+  },
+  "5569": {
+    "classification": "SINGLE",
+    "reason": "[wiki] 'alchemical hydra' has 1 location: Karuulm Slayer Dungeon",
+    "location": {
+      "x": 1364,
+      "y": 10265,
+      "plane": 0
+    }
+  },
+  "5577": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location raid",
+    "location": {
+      "x": 1232,
+      "y": 3573,
+      "plane": 0
+    }
+  },
+  "5578": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location raid",
+    "location": {
+      "x": 1232,
+      "y": 3573,
+      "plane": 0
+    }
+  },
+  "5586": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location raid",
+    "location": {
+      "x": 1232,
+      "y": 3573,
+      "plane": 0
+    }
+  },
+  "5630": {
+    "classification": "SINGLE",
+    "reason": "[named_location] forthos dungeon",
+    "location": {
+      "x": 1795,
+      "y": 9927,
+      "plane": 0
+    }
+  },
+  "5637": {
+    "classification": "SINGLE",
+    "reason": "[named_location] piscarilius",
+    "location": {
+      "x": 1822,
+      "y": 3770,
+      "plane": 0
+    }
+  },
+  "5638": {
+    "classification": "SINGLE",
+    "reason": "[named_location] piscarilius",
+    "location": {
+      "x": 1822,
+      "y": 3770,
+      "plane": 0
+    }
+  },
+  "5639": {
+    "classification": "SINGLE",
+    "reason": "[named_location] piscarilius",
+    "location": {
+      "x": 1822,
+      "y": 3770,
+      "plane": 0
+    }
+  },
+  "5644": {
+    "classification": "SINGLE",
+    "reason": "[named_location] arceuus",
+    "location": {
+      "x": 1700,
+      "y": 3744,
+      "plane": 0
+    }
+  },
+  "5646": {
+    "classification": "SINGLE",
+    "reason": "[named_location] arceuus",
+    "location": {
+      "x": 1700,
+      "y": 3744,
+      "plane": 0
+    }
+  },
+  "5686": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed location",
+    "location": {
+      "x": 2718,
+      "y": 3494,
+      "plane": 0
+    }
+  },
+  "5687": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed location",
+    "location": {
+      "x": 2718,
+      "y": 3494,
+      "plane": 0
+    }
+  },
+  "5691": {
+    "classification": "SINGLE",
+    "reason": "[structural] Enter specific location: 3rd level of the chasm of fire in shayzien",
+    "location": {
+      "x": 1480,
+      "y": 3593,
+      "plane": 0
+    }
+  },
+  "5692": {
+    "classification": "SINGLE",
+    "reason": "[named_location] Konar"
+  },
+  "5693": {
+    "classification": "SINGLE",
+    "reason": "[named_location] Land's End",
+    "location": {
+      "x": 1512,
+      "y": 3421,
+      "plane": 0
+    }
+  },
+  "5694": {
+    "classification": "SINGLE",
+    "reason": "[named_location] Mount Quidamortem",
+    "location": {
+      "x": 1254,
+      "y": 3571,
+      "plane": 0
+    }
+  },
+  "5695": {
+    "classification": "SINGLE",
+    "reason": "[structural] Specific transport route",
+    "location": {
+      "x": 1370,
+      "y": 3635,
+      "plane": 0
+    }
+  },
+  "5697": {
+    "classification": "SINGLE",
+    "reason": "[named_location] catacombs of kourend",
+    "location": {
+      "x": 1647,
+      "y": 10006,
+      "plane": 0
+    }
+  },
+  "5701": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 1800,
+      "y": 3502,
+      "plane": 0
+    }
+  },
+  "5702": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 1800,
+      "y": 3502,
+      "plane": 0
+    }
+  },
+  "5956": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 1630,
+      "y": 4009,
+      "plane": 0
+    }
+  },
+  "5957": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location minigame",
+    "location": {
+      "x": 1630,
+      "y": 4009,
+      "plane": 0
+    }
+  },
+  "5958": {
+    "classification": "SINGLE",
+    "reason": "[named_location] farming guild",
+    "location": {
+      "x": 1248,
+      "y": 3726,
+      "plane": 0
+    }
+  },
+  "5959": {
+    "classification": "SINGLE",
+    "reason": "[named_location] shayzien",
+    "location": {
+      "x": 1480,
+      "y": 3593,
+      "plane": 0
+    }
+  },
+  "5960": {
+    "classification": "SINGLE",
+    "reason": "[named_location] shayzien",
+    "location": {
+      "x": 1480,
+      "y": 3593,
+      "plane": 0
+    }
+  },
+  "5961": {
+    "classification": "SINGLE",
+    "reason": "[named_location] shayzien",
+    "location": {
+      "x": 1480,
+      "y": 3593,
+      "plane": 0
+    }
+  },
+  "5962": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location raid",
+    "location": {
+      "x": 1232,
+      "y": 3573,
+      "plane": 0
+    }
+  },
+  "5963": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location raid",
+    "location": {
+      "x": 1232,
+      "y": 3573,
+      "plane": 0
+    }
+  },
+  "5964": {
+    "classification": "SINGLE",
+    "reason": "[rule:substring] Fixed-location raid",
+    "location": {
+      "x": 1232,
+      "y": 3573,
+      "plane": 0
+    }
+  },
+  "5965": {
+    "classification": "SINGLE",
+    "reason": "[named_location] forthos dungeon",
+    "location": {
+      "x": 1795,
+      "y": 9927,
+      "plane": 0
+    }
+  },
+  "5966": {
+    "classification": "SINGLE",
+    "reason": "[named_location] forthos dungeon",
+    "location": {
+      "x": 1795,
+      "y": 9927,
+      "plane": 0
+    }
+  },
+  "5967": {
+    "classification": "SINGLE",
+    "reason": "[named_location] arceuus",
+    "location": {
+      "x": 1700,
+      "y": 3744,
+      "plane": 0
+    }
+  },
+  "2573": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2574": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2575": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2576": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'burn' - can be done anywhere"
+  },
+  "2578": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2580": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'eat' - can be done anywhere"
+  },
+  "2581": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2582": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2584": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2585": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2586": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2587": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2588": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2589": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2591": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2592": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2593": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2594": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2595": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2596": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2597": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2598": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2599": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2600": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2601": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2602": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2603": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2604": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Collection log spans many activities"
+  },
+  "2605": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2606": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2607": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2608": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2609": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2610": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2611": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2612": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2613": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2614": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2615": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2616": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2617": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2618": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2619": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2620": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2621": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2622": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2624": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'gain' - can be done anywhere"
+  },
+  "2631": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'moss giant' has 15 locations: Brimhaven Dungeon, Catacombs of Kourend, Crandor... (+12 more)"
+  },
+  "2632": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'lesser demon' has 17 locations: Catacombs of Kourend, Charred Dungeon, Chasm of Fire... (+14 more)"
+  },
+  "2633": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'goblin' has 19 locations: Between Lumbridge and Varrock, Clock Tower Dungeon, Digsite... (+16 more)"
+  },
+  "2634": {
+    "classification": "MULTI",
+    "reason": "[wiki] 'guard' has 7 locations: Ardougne, Edgeville, Falador... (+4 more)"
+  },
+  "2635": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Any altar"
+  },
+  "2636": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2637": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2638": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2639": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Any altar"
+  },
+  "2640": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Prayers anywhere"
+  },
+  "2641": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'bury' - can be done anywhere"
+  },
+  "2643": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5286": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "5287": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "5288": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "5289": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "5290": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "5291": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "5292": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "5293": {
+    "classification": "MULTI",
+    "reason": "[structural] Quest spans multiple locations"
+  },
+  "5499": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'make' - can be done anywhere"
+  },
+  "5500": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'make' - can be done anywhere"
+  },
+  "5502": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Multiple master farmers"
+  },
+  "5507": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'cast' - can be done anywhere"
+  },
+  "5534": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5535": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5536": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5599": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Teleport from anywhere"
+  },
+  "5600": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5601": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5602": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5603": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5604": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5605": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'obtain' - can be done anywhere"
+  },
+  "5606": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5607": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5608": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5609": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5610": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5611": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5626": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "5627": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "5628": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "5629": {
+    "classification": "MULTI",
+    "reason": "[rule:substring] Diary spans multiple locations"
+  },
+  "5651": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5652": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5653": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5654": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5658": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5659": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5660": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5661": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5665": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5666": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5667": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5668": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5672": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5673": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5674": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5675": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5679": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5680": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5681": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5682": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Anywhere"
+  },
+  "5696": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5698": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5699": {
+    "classification": "MULTI",
+    "reason": "[rule:regex] Spell anywhere"
+  },
+  "5700": {
+    "classification": "MULTI",
+    "reason": "[structural] Processing verb 'obtain' - can be done anywhere"
+  },
+  "5703": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5705": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5706": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5707": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5708": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5709": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5954": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "5955": {
+    "classification": "MULTI",
+    "reason": "[rule:verb] Equipping happens anywhere"
+  },
+  "2579": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "2583": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "2590": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "5431": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "5501": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "5506": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  },
+  "5508": {
+    "classification": "UNCLEAR",
+    "reason": "No rule or lookup matched"
+  }
+}
